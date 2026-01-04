@@ -110,10 +110,60 @@ window.JOBS_DATA = [
     "title": "Data Engineer 2",
     "company": "Microsoft",
     "location": "United States, Multiple Locations, Multiple Locations",
-    "posted_date": "2025-12-31T15:43:05",
-    "url_next_step": "https://jobs.careers.microsoft.com/careers/job/1970393556621223",
+    "posted_date": "2025-12-31T21:43:05",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556621223",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "1970393556654953",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2025-12-30T19:36:43",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556654953",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "1970393556654047",
+    "title": "Principal Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2025-12-30T19:33:34",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556654047",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "1970393556640997",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2025-12-29T19:21:00",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556640997",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0793070",
+    "title": "Senior Data Engineer (GCP) - HR Technology",
+    "company": "CVS Health",
+    "location": "53 Locations",
+    "posted_date": "2026-01-03T02:43:32.208043",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
+    "description_short": "Senior Data Engineer (GCP) - HR Technology",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0790710",
+    "title": "Sr. Data Engineer",
+    "company": "CVS Health",
+    "location": "50 Locations",
+    "posted_date": "2025-12-30T02:43:32.208210",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
+    "description_short": "Sr. Data Engineer",
+    "source": "CVS Health"
   },
   {
     "id": "210679579",
