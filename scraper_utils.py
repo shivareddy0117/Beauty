@@ -134,6 +134,10 @@ def save_jobs(new_jobs, filename="ui/jobs.json"):
             final_list.append(job)
 
     
+    # Write back to JSON for persistence between script runs
+    with open(filename, "w") as f:
+        json.dump(final_list, f, indent=2)
+    
     # Write as JS file to avoid CORS issues when opening file:// directly
     # 'window.JOBS_DATA = [...]'
     js_filename = filename.replace(".json", ".js")
@@ -143,7 +147,7 @@ def save_jobs(new_jobs, filename="ui/jobs.json"):
         json.dump(final_list, f, indent=2)
         f.write(";")
     
-    print(f"Saved {len(final_list)} unique jobs to {js_filename}")
+    print(f"Saved {len(final_list)} unique jobs to {filename} and {js_filename}")
 
 def is_recent(date_str, days=7):
     """
