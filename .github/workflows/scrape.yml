@@ -38,6 +38,7 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add ui/jobs.js ui/jobs.json
-          # Pull latest changes to avoid conflicts, then commit and push
-          git diff --quiet && git diff --staged --quiet || (git pull --rebase origin main && git commit -m "Update jobs [skip ci]" && git push)
+          git add .
+          git commit -m "Update job data via GitHub Action [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main
