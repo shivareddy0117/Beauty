@@ -32,6 +32,7 @@ jobs:
           python amazon_scraper.py
           python microsoft_scraper.py
           python cvs_scraper.py
+          python jpmc_scraper.py
 
       - name: Commit and Push to main
         run: |
