@@ -116,23 +116,13 @@ window.JOBS_DATA = [
     "source": "Microsoft"
   },
   {
-    "id": "R0793070",
-    "title": "Senior Data Engineer (GCP) - HR Technology",
-    "company": "CVS Health",
-    "location": "53 Locations",
-    "posted_date": "2026-01-03T02:11:35.388076",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
-    "description_short": "Senior Data Engineer (GCP) - HR Technology",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0790710",
-    "title": "Sr. Data Engineer",
-    "company": "CVS Health",
-    "location": "50 Locations",
-    "posted_date": "2025-12-30T02:11:35.388279",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
-    "description_short": "Sr. Data Engineer",
-    "source": "CVS Health"
+    "id": "210679579",
+    "title": "HP NonStop DBA - Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Tampa, FL, United States",
+    "posted_date": "2026-01-02T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679579",
+    "description_short": "HP NonStop DBA - Lead Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ];
