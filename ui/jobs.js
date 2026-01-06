@@ -97,7 +97,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-03T01:46:41.599909",
+    "posted_date": "2026-01-03T06:35:45.441208",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -107,7 +107,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2025-12-30T01:46:41.983672",
+    "posted_date": "2025-12-30T06:35:45.705944",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -154,7 +154,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Sr. AI Platform Data Engineer, Ring Decision Science",
     "university_job": null,
-    "updated_time": "about 1 hour",
+    "updated_time": "about 6 hours",
     "url_next_step": "https://account.amazon.com/jobs/3152458/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -207,7 +207,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "43 minutes",
+    "updated_time": "about 6 hours",
     "url_next_step": "https://account.amazon.com/jobs/3152942/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -247,5 +247,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556638946",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210696674",
+    "title": "Software Engineer II - Data Engineering",
+    "company": "JPMorgan Chase",
+    "location": "India",
+    "posted_date": "2026-01-06T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696674",
+    "description_short": "Software Engineer II - Data Engineering",
+    "source": "JPMorgan Chase"
   }
 ];
