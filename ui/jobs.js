@@ -81,7 +81,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Sr. AI Platform Data Engineer, Ring Decision Science",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3152458/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -318,6 +318,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-01-07T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672069",
     "description_short": "Software Engineer III- Data Engineering",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210696348",
+    "title": "Data Engineer II",
+    "company": "JPMorgan Chase",
+    "location": "Pune, Maharashtra, India",
+    "posted_date": "2026-01-07T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696348",
+    "description_short": "Data Engineer II",
     "source": "JPMorgan Chase"
   }
 ];
