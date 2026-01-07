@@ -34,19 +34,9 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-03T06:35:17.813007",
+    "posted_date": "2026-01-02T12:47:19.638641",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0790710",
-    "title": "Sr. Data Engineer",
-    "company": "CVS Health",
-    "location": "50 Locations",
-    "posted_date": "2025-12-30T06:35:45.705944",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
-    "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
   },
   {
@@ -309,5 +299,25 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556638734",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210671556",
+    "title": "Data Engineer III- Python & AWS",
+    "company": "JPMorgan Chase",
+    "location": "GLASGOW, LANARKSHIRE, United Kingdom",
+    "posted_date": "2026-01-07T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210671556",
+    "description_short": "Data Engineer III- Python & AWS",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210672069",
+    "title": "Software Engineer III- Data Engineering",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-01-07T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672069",
+    "description_short": "Software Engineer III- Data Engineering",
+    "source": "JPMorgan Chase"
   }
 ];
