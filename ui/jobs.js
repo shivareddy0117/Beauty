@@ -34,7 +34,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-03T01:46:25.863004",
+    "posted_date": "2026-01-03T06:35:17.813007",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -229,7 +229,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Sr. Data Engineer, AWS DC Bridge",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3153018/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -299,5 +299,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210688620",
     "description_short": "Lead Data Engineer",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556638734",
+    "title": "Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-01-06T22:35:58",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556638734",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
