@@ -10,26 +10,6 @@ window.JOBS_DATA = [
     "source": "Microsoft"
   },
   {
-    "id": "1970393556654953",
-    "title": "Senior Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2025-12-30T19:36:43",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556654953",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556654047",
-    "title": "Principal Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2025-12-30T19:33:34",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556654047",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "R0793070",
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
@@ -134,7 +114,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3152942/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -219,7 +199,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Sr. Data Engineer, AWS DC Bridge",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3153018/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -329,5 +309,35 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696348",
     "description_short": "Data Engineer II",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556643573",
+    "title": "Data Engineer II",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-01-07T23:57:41",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556643573",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "1970393556649875",
+    "title": "Senior Data Engineer (AI)",
+    "company": "Microsoft",
+    "location": "United States, Multiple Locations, Multiple Locations",
+    "posted_date": "2026-01-07T19:36:32",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556649875",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0756986",
+    "title": "Staff Data Platform Engineer",
+    "company": "CVS Health",
+    "location": "NC - Work from home",
+    "posted_date": "2026-01-08T01:46:46.609573",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Staff-Data-Platform-Engineer_R0756986",
+    "description_short": "Staff Data Platform Engineer",
+    "source": "CVS Health"
   }
 ];
