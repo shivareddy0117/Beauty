@@ -104,7 +104,7 @@
     "state": "WA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3152942/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -325,7 +325,7 @@
     "title": "Staff Data Platform Engineer",
     "company": "CVS Health",
     "location": "NC - Work from home",
-    "posted_date": "2026-01-07T12:46:22.498736",
+    "posted_date": "2026-01-07T18:33:47.122617",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Staff-Data-Platform-Engineer_R0756986",
     "description_short": "Staff Data Platform Engineer",
     "source": "CVS Health"
@@ -355,7 +355,7 @@
     "title": "Associate Cloud Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-01-08T12:46:22.498584",
+    "posted_date": "2026-01-08T18:33:47.122495",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
     "description_short": "Associate Cloud Data Engineer",
     "source": "CVS Health"
@@ -378,6 +378,26 @@
     "posted_date": "2026-01-08T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698423",
     "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556650916",
+    "title": "Cloud Solution Architect - Cloud & AI Data Platform",
+    "company": "Microsoft",
+    "location": "United States, Multiple Locations, Multiple Locations",
+    "posted_date": "2026-01-09T15:26:53",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556650916",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "210699300",
+    "title": "Senior Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Wilmington, DE, United States",
+    "posted_date": "2026-01-09T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210699300",
+    "description_short": "Senior Lead Data Engineer",
     "source": "JPMorgan Chase"
   }
 ]
