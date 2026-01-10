@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0793070",
-    "title": "Senior Data Engineer (GCP) - HR Technology",
-    "company": "CVS Health",
-    "location": "53 Locations",
-    "posted_date": "2026-01-02T12:47:19.638641",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
-    "description_short": "Senior Data Engineer (GCP) - HR Technology",
-    "source": "CVS Health"
-  },
-  {
     "basic_qualifications": "- 5+ years of data engineering experience<br/>- 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience<br/>- Experience developing, deploying and managing AI products at scale<br/>- Experience with data modeling, warehousing and building Extract, Transform, and Load (ETL) pipelines for both analytics and ML use cases<br/>- Experience building datasets or features for machine learning models or self-service analytics<br/>- Extensive hands-on experience with Generative AI (GenAI) enhanced development pipelines, AI coding assistants, and prompt engineering<br/>- Demonstrated ability to build tools, frameworks, or platforms that enable others",
     "business_category": "alexa-and-amazon-devices",
     "city": "Hawthorne",
@@ -94,7 +84,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/3152942/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -315,7 +305,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Platform Engineer",
     "company": "CVS Health",
     "location": "NC - Work from home",
-    "posted_date": "2026-01-07T12:40:57.792864",
+    "posted_date": "2026-01-07T18:30:04.811068",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Staff-Data-Platform-Engineer_R0756986",
     "description_short": "Staff Data Platform Engineer",
     "source": "CVS Health"
@@ -345,7 +335,7 @@ window.JOBS_DATA = [
     "title": "Associate Cloud Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-01-08T12:40:57.376666",
+    "posted_date": "2026-01-08T18:30:04.297108",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
     "description_short": "Associate Cloud Data Engineer",
     "source": "CVS Health"
@@ -415,7 +405,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-09T12:40:57.376518",
+    "posted_date": "2026-01-09T18:30:04.296875",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
