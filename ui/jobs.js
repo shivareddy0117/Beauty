@@ -315,7 +315,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Platform Engineer",
     "company": "CVS Health",
     "location": "NC - Work from home",
-    "posted_date": "2026-01-08T01:44:05.245263",
+    "posted_date": "2026-01-08T06:32:02.544591",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Staff-Data-Platform-Engineer_R0756986",
     "description_short": "Staff Data Platform Engineer",
     "source": "CVS Health"
@@ -345,7 +345,7 @@ window.JOBS_DATA = [
     "title": "Associate Cloud Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-01-09T01:44:04.883270",
+    "posted_date": "2026-01-09T06:32:01.917174",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
     "description_short": "Associate Cloud Data Engineer",
     "source": "CVS Health"
@@ -415,7 +415,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-10T01:44:04.883209",
+    "posted_date": "2026-01-10T06:32:01.917110",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
