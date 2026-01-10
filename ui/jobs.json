@@ -10,16 +10,6 @@
     "source": "CVS Health"
   },
   {
-    "id": "210679579",
-    "title": "HP NonStop DBA - Lead Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "Tampa, FL, United States",
-    "posted_date": "2026-01-02T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679579",
-    "description_short": "HP NonStop DBA - Lead Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
     "basic_qualifications": "- 5+ years of data engineering experience<br/>- 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience<br/>- Experience developing, deploying and managing AI products at scale<br/>- Experience with data modeling, warehousing and building Extract, Transform, and Load (ETL) pipelines for both analytics and ML use cases<br/>- Experience building datasets or features for machine learning models or self-service analytics<br/>- Extensive hands-on experience with Generative AI (GenAI) enhanced development pipelines, AI coding assistants, and prompt engineering<br/>- Demonstrated ability to build tools, frameworks, or platforms that enable others",
     "business_category": "alexa-and-amazon-devices",
     "city": "Hawthorne",
@@ -325,7 +315,7 @@
     "title": "Staff Data Platform Engineer",
     "company": "CVS Health",
     "location": "NC - Work from home",
-    "posted_date": "2026-01-07T18:33:47.122617",
+    "posted_date": "2026-01-08T01:44:05.245263",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Staff-Data-Platform-Engineer_R0756986",
     "description_short": "Staff Data Platform Engineer",
     "source": "CVS Health"
@@ -355,7 +345,7 @@
     "title": "Associate Cloud Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-01-08T18:33:47.122495",
+    "posted_date": "2026-01-09T01:44:04.883270",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
     "description_short": "Associate Cloud Data Engineer",
     "source": "CVS Health"
@@ -399,5 +389,35 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210699300",
     "description_short": "Senior Lead Data Engineer",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556657095",
+    "title": "Software Engineer II, AI Data Platform (CoreAI)",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-01-10T01:36:10",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556657095",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "1970393556619586",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-01-09T19:06:58",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556619586",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0790701-1",
+    "title": "Analytic Data Engineer",
+    "company": "CVS Health",
+    "location": "50 Locations",
+    "posted_date": "2026-01-10T01:44:04.883209",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
+    "description_short": "Analytic Data Engineer",
+    "source": "CVS Health"
   }
 ]
