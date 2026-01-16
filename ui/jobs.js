@@ -64,7 +64,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-10T06:35:41.289466",
+    "posted_date": "2026-01-09T12:46:46.154736",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -84,7 +84,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - Real World Evidence Analytics",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-01-13T06:35:41.289397",
+    "posted_date": "2026-01-12T12:46:46.154682",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---Real-World-Evidence-Analytics_R0746766-1",
     "description_short": "Data Engineer - Real World Evidence Analytics",
     "source": "CVS Health"
@@ -150,7 +150,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-14T06:35:40.858468",
+    "posted_date": "2026-01-13T12:46:45.854490",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -207,7 +207,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II - AMZ9629119",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3156147/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -274,7 +274,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, AWS People Analytics",
     "university_job": null,
-    "updated_time": "about 15 hours",
+    "updated_time": "about 21 hours",
     "url_next_step": "https://account.amazon.com/jobs/3160189/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -303,6 +303,26 @@ window.JOBS_DATA = [
     "posted_date": "2026-01-15T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698604",
     "description_short": "Python Data Engineer II",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556652718",
+    "title": "Software Engineer Identity Data Platform",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-01-16T03:54:57",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556652718",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "210701374",
+    "title": "Lead Data Engineer \u2013 Compute Data Platform",
+    "company": "JPMorgan Chase",
+    "location": "GLASGOW, LANARKSHIRE, United Kingdom",
+    "posted_date": "2026-01-16T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701374",
+    "description_short": "Lead Data Engineer \u2013 Compute Data Platform",
     "source": "JPMorgan Chase"
   }
 ];
