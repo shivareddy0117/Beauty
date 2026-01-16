@@ -64,7 +64,7 @@
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-09T12:46:46.154736",
+    "posted_date": "2026-01-09T18:34:38.412769",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -84,7 +84,7 @@
     "title": "Data Engineer - Real World Evidence Analytics",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-01-12T12:46:46.154682",
+    "posted_date": "2026-01-12T18:34:38.412717",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---Real-World-Evidence-Analytics_R0746766-1",
     "description_short": "Data Engineer - Real World Evidence Analytics",
     "source": "CVS Health"
@@ -150,7 +150,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-13T12:46:45.854490",
+    "posted_date": "2026-01-13T18:34:38.412699",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -274,7 +274,7 @@
     "state": "WA",
     "title": "Data Engineer, AWS People Analytics",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3160189/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -323,6 +323,16 @@
     "posted_date": "2026-01-16T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701374",
     "description_short": "Lead Data Engineer \u2013 Compute Data Platform",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210702641",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Boston, MA, United States",
+    "posted_date": "2026-01-16T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702641",
+    "description_short": "Lead Data Engineer",
     "source": "JPMorgan Chase"
   }
 ]
