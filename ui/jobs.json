@@ -1,25 +1,5 @@
 [
   {
-    "id": "1970393556643573",
-    "title": "Data Engineer II",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-01-07T23:57:41",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556643573",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556649875",
-    "title": "Senior Data Engineer (AI)",
-    "company": "Microsoft",
-    "location": "United States, Multiple Locations, Multiple Locations",
-    "posted_date": "2026-01-07T19:36:32",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556649875",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "R0756986",
     "title": "Staff Data Platform Engineer",
     "company": "CVS Health",
@@ -30,31 +10,11 @@
     "source": "CVS Health"
   },
   {
-    "id": "210696948",
-    "title": "Lead Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "Pune, Maharashtra, India",
-    "posted_date": "2026-01-08T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696948",
-    "description_short": "Lead Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210618854",
-    "title": "Lead Data Engineer - Vice President - Chase UK",
-    "company": "JPMorgan Chase",
-    "location": "Bengaluru, Karnataka, India",
-    "posted_date": "2026-01-08T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210618854",
-    "description_short": "Lead Data Engineer - Vice President - Chase UK",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "R0781617",
     "title": "Associate Cloud Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-01-08T18:38:01.510050",
+    "posted_date": "2026-01-09T01:48:12.222842",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
     "description_short": "Associate Cloud Data Engineer",
     "source": "CVS Health"
@@ -68,16 +28,6 @@
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556657893",
     "description_short": "...",
     "source": "Microsoft"
-  },
-  {
-    "id": "210698423",
-    "title": "Lead Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "OH, United States",
-    "posted_date": "2026-01-08T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698423",
-    "description_short": "Lead Data Engineer",
-    "source": "JPMorgan Chase"
   },
   {
     "id": "1970393556650916",
@@ -124,7 +74,7 @@
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-09T18:38:01.510028",
+    "posted_date": "2026-01-10T01:48:11.788990",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -144,7 +94,7 @@
     "title": "Data Engineer - Real World Evidence Analytics",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-01-12T18:38:01.168219",
+    "posted_date": "2026-01-13T01:48:11.788928",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---Real-World-Evidence-Analytics_R0746766-1",
     "description_short": "Data Engineer - Real World Evidence Analytics",
     "source": "CVS Health"
@@ -210,7 +160,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-13T18:38:01.168199",
+    "posted_date": "2026-01-14T01:48:11.347017",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -334,7 +284,7 @@
     "state": "WA",
     "title": "Data Engineer, AWS People Analytics",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.com/jobs/3160189/apply",
     "team.id": null,
     "team.business_category_id": null,
