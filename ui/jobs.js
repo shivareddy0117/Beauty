@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0781617",
-    "title": "Associate Cloud Data Engineer",
-    "company": "CVS Health",
-    "location": "TX - Irving",
-    "posted_date": "2026-01-09T01:48:12.222842",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Cloud-Data-Engineer_R0781617",
-    "description_short": "Associate Cloud Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556650916",
     "title": "Cloud Solution Architect - Cloud & AI Data Platform",
     "company": "Microsoft",
@@ -44,7 +34,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-10T01:42:55.913544",
+    "posted_date": "2026-01-10T06:32:13.506895",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -64,7 +54,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - Real World Evidence Analytics",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-01-13T01:42:55.374429",
+    "posted_date": "2026-01-13T06:32:13.097237",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---Real-World-Evidence-Analytics_R0746766-1",
     "description_short": "Data Engineer - Real World Evidence Analytics",
     "source": "CVS Health"
@@ -104,7 +94,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer, Studio Data Operations",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3157978/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -130,7 +120,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-14T01:42:55.374411",
+    "posted_date": "2026-01-14T06:32:13.097225",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
