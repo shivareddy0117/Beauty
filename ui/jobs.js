@@ -14,7 +14,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - Real World Evidence Analytics",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-01-13T06:40:00.076748",
+    "posted_date": "2026-01-12T12:51:44.184096",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---Real-World-Evidence-Analytics_R0746766-1",
     "description_short": "Data Engineer - Real World Evidence Analytics",
     "source": "CVS Health"
@@ -80,7 +80,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-14T06:40:00.076736",
+    "posted_date": "2026-01-13T12:51:44.184084",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -260,6 +260,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-01-18T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701350",
     "description_short": "Data Engineer II \u2013 Compute Infrastructure",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210685357",
+    "title": "Senior Lead Software Engineer - Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-01-19T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685357",
+    "description_short": "Senior Lead Software Engineer - Data Engineer",
     "source": "JPMorgan Chase"
   }
 ];
