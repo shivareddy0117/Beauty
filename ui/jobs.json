@@ -14,7 +14,7 @@
     "title": "Data Engineer - Real World Evidence Analytics",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-01-13T01:47:37.177756",
+    "posted_date": "2026-01-13T06:38:00.633394",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---Real-World-Evidence-Analytics_R0746766-1",
     "description_short": "Data Engineer - Real World Evidence Analytics",
     "source": "CVS Health"
@@ -54,7 +54,7 @@
     "state": "CA",
     "title": "Data Engineer, Studio Data Operations",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/3157978/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -80,7 +80,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-14T01:47:37.177745",
+    "posted_date": "2026-01-14T06:38:00.633382",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -151,7 +151,7 @@
     "state": "WA",
     "title": "Data Engineer, AWS People Analytics",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/3160189/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -270,6 +270,16 @@
     "posted_date": "2026-01-19T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685357",
     "description_short": "Senior Lead Software Engineer - Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210677504",
+    "title": "Lead Data Engineer - Vice President - Chase UK",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-01-20T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677504",
+    "description_short": "Lead Data Engineer - Vice President - Chase UK",
     "source": "JPMorgan Chase"
   }
 ]
