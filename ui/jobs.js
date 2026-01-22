@@ -10,26 +10,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "1970393556658148",
-    "title": "Principal Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-01-13T21:48:45",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556658148",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556630984",
-    "title": "Member of Technical Staff - Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, New York, New York",
-    "posted_date": "2026-01-13T18:53:44",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556630984",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "1970393556658006",
     "title": "Data Analytics Engineer",
     "company": "Microsoft",
@@ -268,7 +248,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "about 2 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.com/jobs/3163492/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -377,7 +357,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, AWS Health & Safety",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.com/jobs/3163441/apply",
     "team.id": null,
     "team.business_category_id": null,
