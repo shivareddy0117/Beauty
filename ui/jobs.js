@@ -313,7 +313,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Leo Commerce",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3163996/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -359,7 +359,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-23T12:41:52.073401",
+    "posted_date": "2026-01-23T18:31:07.817817",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -373,5 +373,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703478",
     "description_short": "Lead Data Engineer - Python, Pyspark",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556710078",
+    "title": "Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-01-24T15:11:38",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556710078",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
