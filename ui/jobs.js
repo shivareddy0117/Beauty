@@ -101,7 +101,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3163492/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -329,7 +329,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-23T12:43:29.609477",
+    "posted_date": "2026-01-23T18:31:05.673493",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
