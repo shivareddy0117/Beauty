@@ -1,35 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "1970393556726331",
-    "title": "Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-01-16T20:24:51",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556726331",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556659198",
-    "title": "Data Engineering Intern",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-01-16T20:01:20",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556659198",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556668366",
-    "title": "Data Engineer II",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-01-16T19:11:14",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556668366",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "210701387",
     "title": "Senior Lead Technical Data Engineer \u2013 Compute Data Platform",
     "company": "JPMorgan Chase",
@@ -131,7 +101,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3163492/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -359,7 +329,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-23T18:31:07.817817",
+    "posted_date": "2026-01-24T01:57:30.679601",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
