@@ -190,7 +190,7 @@
     "state": "WA",
     "title": "Data Engineer, AWS Marketing D:SE",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/3164609/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -299,7 +299,7 @@
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-24T01:53:36.849808",
+    "posted_date": "2026-01-24T06:36:59.631965",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -356,7 +356,7 @@
     "state": "WA",
     "title": "Data Engineer II, Amazon Leo Commerce",
     "university_job": null,
-    "updated_time": "about 1 hour",
+    "updated_time": "about 5 hours",
     "url_next_step": "https://account.amazon.com/jobs/3167126/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -382,9 +382,19 @@
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-27T01:53:36.849697",
+    "posted_date": "2026-01-27T06:36:59.631926",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
+  },
+  {
+    "id": "210698906",
+    "title": "Data Engineer II",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-01-27T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698906",
+    "description_short": "Data Engineer II",
+    "source": "JPMorgan Chase"
   }
 ]
