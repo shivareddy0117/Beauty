@@ -1,35 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "210677504",
-    "title": "Lead Data Engineer - Vice President - Chase UK",
-    "company": "JPMorgan Chase",
-    "location": "Bengaluru, Karnataka, India",
-    "posted_date": "2026-01-20T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677504",
-    "description_short": "Lead Data Engineer - Vice President - Chase UK",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210696315",
-    "title": "Principle Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "Mumbai, Maharashtra, India",
-    "posted_date": "2026-01-20T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696315",
-    "description_short": "Principle Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210696337",
-    "title": "Data Engineer II",
-    "company": "JPMorgan Chase",
-    "location": "Pune, Maharashtra, India",
-    "posted_date": "2026-01-20T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696337",
-    "description_short": "Data Engineer II",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "1970393556744509",
     "title": "Senior Data Engineer",
     "company": "Microsoft",
@@ -238,7 +208,7 @@ window.JOBS_DATA = [
     "job_category": "Software Development",
     "job_family": "Data Engineering",
     "job_function_id": null,
-    "job_path": "/en/jobs/3163996/data-engineer-ii-amazon-leo-commerce",
+    "job_path": "/en/jobs/3163996/data-engineer-leo-commerce",
     "job_schedule_type": "full-time",
     "location": "US, WA, Redmond",
     "locations": [
@@ -251,9 +221,9 @@ window.JOBS_DATA = [
     "primary_search_label": "alexa-and-amazon-devices.team-project-kuiper",
     "source_system": "JobCreator",
     "state": "WA",
-    "title": "Data Engineer II, Amazon Leo Commerce",
+    "title": "Data Engineer, Leo Commerce",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "about 7 hours",
     "url_next_step": "https://account.amazon.com/jobs/3163996/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -289,7 +259,7 @@ window.JOBS_DATA = [
     "title": "Lead Data Engineer - Mainframe/DB2/QREP",
     "company": "JPMorgan Chase",
     "location": "Wilmington, DE, United States",
-    "posted_date": "2026-01-22T00:00:00",
+    "posted_date": "2026-01-27T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210704550",
     "description_short": "Lead Data Engineer - Mainframe/DB2/QREP",
     "source": "JPMorgan Chase"
@@ -299,7 +269,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-23T18:40:20.394980",
+    "posted_date": "2026-01-24T01:50:08.558047",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -356,7 +326,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Leo Commerce",
     "university_job": null,
-    "updated_time": "about 2 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.com/jobs/3167126/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -382,7 +352,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-26T18:40:20.394840",
+    "posted_date": "2026-01-27T01:50:08.557929",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -439,7 +409,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer III - AMZ9672478",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3165839/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -465,7 +435,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-01-27T18:40:20.394781",
+    "posted_date": "2026-01-28T01:50:08.110697",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -475,7 +445,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-01-27T18:40:20.394807",
+    "posted_date": "2026-01-28T01:50:08.110706",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0820855",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -489,5 +459,55 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702684",
     "description_short": "Data Engineer- (AWS/PySpark/ETL)",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556748021",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Redmond, WA",
+    "posted_date": "2026-01-27T20:17:23",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556748021",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0813917",
+    "title": "ASSOCIATE DATA ENGINEER EDSO-CROSS SEGMENT DATA PRODUCT",
+    "company": "CVS Health",
+    "location": "AZ - Scottsdale",
+    "posted_date": "2026-01-28T01:50:08.110663",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/ASSOCIATE-DATA-ENGINEER-EDSO-CROSS-SEGMENT-DATA-PRODUCT_R0813917",
+    "description_short": "ASSOCIATE DATA ENGINEER EDSO-CROSS SEGMENT DATA PRODUCT",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0817068",
+    "title": "Data Engineer - Enterprise Identity Services",
+    "company": "CVS Health",
+    "location": "CT - Work from home",
+    "posted_date": "2026-01-28T01:50:08.110675",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Data-Engineer---Enterprise-Identity-Services_R0817068",
+    "description_short": "Data Engineer - Enterprise Identity Services",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0817070",
+    "title": "Associate Data Engineer - Enterprise Identity Services",
+    "company": "CVS Health",
+    "location": "CT - Work from home",
+    "posted_date": "2026-01-28T01:50:08.110679",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0817070",
+    "description_short": "Associate Data Engineer - Enterprise Identity Services",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0790710",
+    "title": "Sr. Data Engineer",
+    "company": "CVS Health",
+    "location": "50 Locations",
+    "posted_date": "2026-01-28T01:50:08.110695",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
+    "description_short": "Sr. Data Engineer",
+    "source": "CVS Health"
   }
 ];
