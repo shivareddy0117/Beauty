@@ -1,15 +1,5 @@
 [
   {
-    "id": "1970393556744509",
-    "title": "Senior Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Redmond, WA",
-    "posted_date": "2026-01-20T16:46:37",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556744509",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "basic_qualifications": "- 1+ years of data engineering experience<br/>- 1+ year of experience working in a data engineering, data science, or software engineering capacity<br/>- Deep expertise in writing and maintaining robust data pipelines in SQL and Python<br/>- Ability to turn data requirements from stakeholders into actionable plans<br/>- Extensive experience with cloud computing tools, like AWS, Azure, or Google cloud<br/>- Proven experience implementing best practices in data pipelines, ensuring accuracy, consistency, and reliability",
     "business_category": "subsidiaries",
     "city": "San Francisco",
@@ -41,7 +31,7 @@
     "state": "CA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3163492/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -185,7 +175,7 @@
     "id": "1970393556643573",
     "title": "Data Engineer II",
     "company": "Microsoft",
-    "location": "United States, Redmond, WA",
+    "location": "United States, Washington, Redmond",
     "posted_date": "2026-01-22T18:08:12",
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556643573",
     "description_short": "...",
@@ -223,7 +213,7 @@
     "state": "WA",
     "title": "Data Engineer, Leo Commerce",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 24 hours",
     "url_next_step": "https://account.amazon.com/jobs/3163996/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -269,7 +259,7 @@
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-23T12:52:35.050534",
+    "posted_date": "2026-01-23T18:39:13.695308",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -288,7 +278,7 @@
     "id": "1970393556710078",
     "title": "Data Engineer",
     "company": "Microsoft",
-    "location": "United States, Redmond, WA",
+    "location": "United States, Washington, Redmond",
     "posted_date": "2026-01-24T15:11:38",
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556710078",
     "description_short": "...",
@@ -326,7 +316,7 @@
     "state": "WA",
     "title": "Data Engineer II, Amazon Leo Commerce",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3167126/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -352,7 +342,7 @@
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-26T12:52:35.050499",
+    "posted_date": "2026-01-26T18:39:13.695262",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -409,7 +399,7 @@
     "state": "WA",
     "title": "Data Engineer III - AMZ9672478",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3165839/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -435,7 +425,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-01-27T12:52:34.718159",
+    "posted_date": "2026-01-27T18:39:13.149309",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -445,7 +435,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-01-27T12:52:34.718170",
+    "posted_date": "2026-01-27T18:39:13.695117",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0820855",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -454,7 +444,7 @@
     "id": "210702684",
     "title": "Data Engineer- (AWS/PySpark/ETL)",
     "company": "JPMorgan Chase",
-    "location": "OH, United States",
+    "location": "Columbus, OH, United States",
     "posted_date": "2026-01-27T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702684",
     "description_short": "Data Engineer- (AWS/PySpark/ETL)",
@@ -505,7 +495,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-27T12:52:34.718154",
+    "posted_date": "2026-01-27T18:39:13.149304",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -519,5 +509,35 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685357",
     "description_short": "Senior Lead Software Engineer - Data Engineer",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556726331",
+    "title": "Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-01-28T18:33:53",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556726331",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0813114",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "PA - Work from home",
+    "posted_date": "2026-01-28T18:39:13.149241",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0821166",
+    "title": "Associate Data Engineer",
+    "company": "CVS Health",
+    "location": "4 Locations",
+    "posted_date": "2026-01-28T18:39:13.149259",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
+    "description_short": "Associate Data Engineer",
+    "source": "CVS Health"
   }
 ]
