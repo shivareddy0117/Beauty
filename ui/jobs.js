@@ -160,7 +160,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, AWS Marketing D:SE",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3164609/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -223,7 +223,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Leo Commerce",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 12 hours",
     "url_next_step": "https://account.amazon.com/jobs/3163996/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -269,7 +269,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-24T01:50:08.558047",
+    "posted_date": "2026-01-24T06:37:54.740727",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -326,7 +326,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Leo Commerce",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 14 hours",
     "url_next_step": "https://account.amazon.com/jobs/3167126/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -352,7 +352,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-27T01:50:08.557929",
+    "posted_date": "2026-01-27T06:37:54.740609",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -435,7 +435,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-01-28T01:50:08.110697",
+    "posted_date": "2026-01-28T06:37:54.473780",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -445,7 +445,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-01-28T01:50:08.110706",
+    "posted_date": "2026-01-28T06:37:54.473788",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0820855",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -475,7 +475,7 @@ window.JOBS_DATA = [
     "title": "ASSOCIATE DATA ENGINEER EDSO-CROSS SEGMENT DATA PRODUCT",
     "company": "CVS Health",
     "location": "AZ - Scottsdale",
-    "posted_date": "2026-01-28T01:50:08.110663",
+    "posted_date": "2026-01-28T06:37:54.473748",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/ASSOCIATE-DATA-ENGINEER-EDSO-CROSS-SEGMENT-DATA-PRODUCT_R0813917",
     "description_short": "ASSOCIATE DATA ENGINEER EDSO-CROSS SEGMENT DATA PRODUCT",
     "source": "CVS Health"
@@ -485,7 +485,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "CT - Work from home",
-    "posted_date": "2026-01-28T01:50:08.110675",
+    "posted_date": "2026-01-28T06:37:54.473760",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Data-Engineer---Enterprise-Identity-Services_R0817068",
     "description_short": "Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -495,7 +495,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "CT - Work from home",
-    "posted_date": "2026-01-28T01:50:08.110679",
+    "posted_date": "2026-01-28T06:37:54.473764",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0817070",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -505,7 +505,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-28T01:50:08.110695",
+    "posted_date": "2026-01-28T06:37:54.473776",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
