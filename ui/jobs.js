@@ -20,16 +20,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "210703478",
-    "title": "Lead Data Engineer - Python, Pyspark",
-    "company": "JPMorgan Chase",
-    "location": "Hyderabad, Telangana, India",
-    "posted_date": "2026-01-24T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703478",
-    "description_short": "Lead Data Engineer - Python, Pyspark",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "1970393556710078",
     "title": "Data Engineer",
     "company": "Microsoft",
@@ -97,7 +87,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-26T18:33:56.881551",
+    "posted_date": "2026-01-27T02:27:53.584644",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -127,7 +117,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-01-27T18:33:56.881502",
+    "posted_date": "2026-01-28T02:27:53.584602",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -137,7 +127,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-01-27T18:33:56.881532",
+    "posted_date": "2026-01-28T02:27:53.584627",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0820855",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -197,7 +187,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-27T18:33:56.379388",
+    "posted_date": "2026-01-28T02:27:53.191366",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -237,7 +227,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-28T18:33:56.379355",
+    "posted_date": "2026-01-29T02:27:53.191332",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -247,7 +237,7 @@ window.JOBS_DATA = [
     "title": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-28T18:33:56.379317",
+    "posted_date": "2026-01-29T02:27:53.191291",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0809424",
     "description_short": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "source": "CVS Health"
