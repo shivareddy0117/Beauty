@@ -10,16 +10,6 @@ window.JOBS_DATA = [
     "source": "JPMorgan Chase"
   },
   {
-    "id": "R0790701-1",
-    "title": "Analytic Data Engineer",
-    "company": "CVS Health",
-    "location": "50 Locations",
-    "posted_date": "2026-01-24T06:40:54.447650",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
-    "description_short": "Analytic Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556710078",
     "title": "Data Engineer",
     "company": "Microsoft",
@@ -61,7 +51,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Leo Commerce",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3167126/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -87,7 +77,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-27T02:27:53.584644",
+    "posted_date": "2026-01-27T06:50:59.238335",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -117,7 +107,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-01-28T02:27:53.584602",
+    "posted_date": "2026-01-28T06:50:59.238291",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -127,7 +117,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-01-28T02:27:53.584627",
+    "posted_date": "2026-01-28T06:50:59.238318",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0820855",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -187,7 +177,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-28T02:27:53.191366",
+    "posted_date": "2026-01-28T06:50:58.960742",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -227,7 +217,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-29T02:27:53.191332",
+    "posted_date": "2026-01-29T06:50:58.960708",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -237,7 +227,7 @@ window.JOBS_DATA = [
     "title": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-29T02:27:53.191291",
+    "posted_date": "2026-01-29T06:50:58.960658",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0809424",
     "description_short": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "source": "CVS Health"
@@ -274,7 +264,7 @@ window.JOBS_DATA = [
     "state": "CO",
     "title": "Infrastructure Edge Planning, Data Engineer, Edge Strategy and Planning",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3169655/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -328,7 +318,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Global Planning, Amazon Leo",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3169773/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -444,7 +434,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Sr. AI Platform Data Engineer, Ring Decision Science, Ring Decision Science",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3169815/apply",
     "team.id": null,
     "team.business_category_id": null,
