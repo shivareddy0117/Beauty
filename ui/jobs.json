@@ -67,7 +67,7 @@
     "title": "Senior Data Engineer (GCP) - HR Technology",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-01-26T13:01:18.849449",
+    "posted_date": "2026-01-26T18:45:21.824959",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer---HR-Technology_R0793070",
     "description_short": "Senior Data Engineer (GCP) - HR Technology",
     "source": "CVS Health"
@@ -97,7 +97,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-01-27T13:01:18.514405",
+    "posted_date": "2026-01-27T18:45:21.824941",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -167,7 +167,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-27T13:01:18.514402",
+    "posted_date": "2026-01-27T18:45:21.824936",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -207,7 +207,7 @@
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-28T13:01:18.514371",
+    "posted_date": "2026-01-28T18:45:21.824870",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -217,7 +217,7 @@
     "title": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-28T13:01:18.514312",
+    "posted_date": "2026-01-28T18:45:21.353836",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0809424",
     "description_short": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "source": "CVS Health"
@@ -570,5 +570,15 @@
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556749072",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210694296",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Columbus, OH, United States",
+    "posted_date": "2026-02-02T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694296",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
   }
 ]
