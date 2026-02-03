@@ -97,7 +97,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-01-27T13:02:05.925409",
+    "posted_date": "2026-01-27T18:58:02.804870",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -167,7 +167,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-01-27T13:02:05.925405",
+    "posted_date": "2026-01-27T18:58:02.804866",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -207,7 +207,7 @@
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-28T13:02:05.925374",
+    "posted_date": "2026-01-28T18:58:02.379261",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -217,7 +217,7 @@
     "title": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-28T13:02:05.925341",
+    "posted_date": "2026-01-28T18:58:02.379235",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0809424",
     "description_short": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "source": "CVS Health"
@@ -600,5 +600,25 @@
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556735130",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "R0822842",
+    "title": "Associate Data Engineer, Data Lakehouse Building",
+    "company": "CVS Health",
+    "location": "CT - Hartford",
+    "posted_date": "2026-02-03T18:58:01.531466",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Data-Engineer--Data-Lakehouse-Building_R0822842",
+    "description_short": "Associate Data Engineer, Data Lakehouse Building",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0822616",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Richardson",
+    "posted_date": "2026-02-03T18:58:01.531485",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
   }
 ]
