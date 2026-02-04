@@ -40,36 +40,6 @@
     "source": "Microsoft"
   },
   {
-    "id": "R0813917",
-    "title": "ASSOCIATE DATA ENGINEER EDSO-CROSS SEGMENT DATA PRODUCT",
-    "company": "CVS Health",
-    "location": "AZ - Scottsdale",
-    "posted_date": "2026-01-27T12:52:34.718119",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/ASSOCIATE-DATA-ENGINEER-EDSO-CROSS-SEGMENT-DATA-PRODUCT_R0813917",
-    "description_short": "ASSOCIATE DATA ENGINEER EDSO-CROSS SEGMENT DATA PRODUCT",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0817068",
-    "title": "Data Engineer - Enterprise Identity Services",
-    "company": "CVS Health",
-    "location": "CT - Work from home",
-    "posted_date": "2026-01-27T12:52:34.718133",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Data-Engineer---Enterprise-Identity-Services_R0817068",
-    "description_short": "Data Engineer - Enterprise Identity Services",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0817070",
-    "title": "Associate Data Engineer - Enterprise Identity Services",
-    "company": "CVS Health",
-    "location": "CT - Work from home",
-    "posted_date": "2026-01-27T12:52:34.718138",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0817070",
-    "description_short": "Associate Data Engineer - Enterprise Identity Services",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0790710",
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
@@ -114,7 +84,7 @@
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-29T06:54:04.210809",
+    "posted_date": "2026-01-28T13:01:02.352540",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -124,7 +94,7 @@
     "title": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-29T06:54:04.210794",
+    "posted_date": "2026-01-28T13:01:02.352526",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0809424",
     "description_short": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "source": "CVS Health"
@@ -278,7 +248,7 @@
     "state": "CA",
     "title": "Senior Data Engineer",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3170089/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -513,7 +483,7 @@
     "title": "Associate Data Engineer, Data Lakehouse Building",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-02-04T06:54:03.450047",
+    "posted_date": "2026-02-03T13:01:01.704073",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Data-Engineer--Data-Lakehouse-Building_R0822842",
     "description_short": "Associate Data Engineer, Data Lakehouse Building",
     "source": "CVS Health"
@@ -523,9 +493,19 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-02-04T06:54:03.450049",
+    "posted_date": "2026-02-03T13:01:01.704076",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
     "description_short": "Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "210697087",
+    "title": "Data Engineer - Spark, AWS",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-02-04T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697087",
+    "description_short": "Data Engineer - Spark, AWS",
+    "source": "JPMorgan Chase"
   }
 ]
