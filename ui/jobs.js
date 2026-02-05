@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0807871",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "FL - Work from home",
-    "posted_date": "2026-01-28T06:54:04.528909",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Senior-Data-Engineer_R0807871",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "210702684",
     "title": "Data Engineer- (AWS/PySpark/ETL)",
     "company": "JPMorgan Chase",
@@ -18,16 +8,6 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702684",
     "description_short": "Data Engineer- (AWS/PySpark/ETL)",
     "source": "JPMorgan Chase"
-  },
-  {
-    "id": "R0790710",
-    "title": "Sr. Data Engineer",
-    "company": "CVS Health",
-    "location": "50 Locations",
-    "posted_date": "2026-01-28T06:54:04.528906",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Sr-Data-Engineer_R0790710",
-    "description_short": "Sr. Data Engineer",
-    "source": "CVS Health"
   },
   {
     "id": "1970393556726331",
@@ -54,7 +34,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-29T02:06:27.491094",
+    "posted_date": "2026-01-29T07:00:44.076412",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -64,7 +44,7 @@ window.JOBS_DATA = [
     "title": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "company": "CVS Health",
     "location": "4 Locations",
-    "posted_date": "2026-01-29T02:06:27.491049",
+    "posted_date": "2026-01-29T07:00:43.741038",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0809424",
     "description_short": "Senior Software Development Engineer - (Python, API Development, Big Data)",
     "source": "CVS Health"
@@ -101,7 +81,7 @@ window.JOBS_DATA = [
     "state": "CO",
     "title": "Infrastructure Edge Planning, Data Engineer, Edge Strategy and Planning",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/3169655/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -271,7 +251,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Sr. AI Platform Data Engineer, Ring Decision Science, Ring Decision Science",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/3169815/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -324,7 +304,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3170460/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -377,7 +357,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3170459/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -453,7 +433,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer, Data Lakehouse Building",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-02-04T02:06:26.656839",
+    "posted_date": "2026-02-04T07:00:43.383024",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Data-Engineer--Data-Lakehouse-Building_R0822842",
     "description_short": "Associate Data Engineer, Data Lakehouse Building",
     "source": "CVS Health"
@@ -463,7 +443,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-02-04T02:06:26.656843",
+    "posted_date": "2026-02-04T07:00:43.383042",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -483,7 +463,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-05T02:06:26.216288",
+    "posted_date": "2026-02-05T07:00:43.079236",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Staff-Security-Engineer_R0755523",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -575,7 +555,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, NASC Data Engineering ",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.com/jobs/3174283/apply",
     "team.id": null,
     "team.business_category_id": null,
