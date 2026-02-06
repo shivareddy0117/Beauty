@@ -10,26 +10,6 @@ window.JOBS_DATA = [
     "source": "JPMorgan Chase"
   },
   {
-    "id": "R0821166",
-    "title": "Associate Data Engineer",
-    "company": "CVS Health",
-    "location": "4 Locations",
-    "posted_date": "2026-01-29T07:00:44.076412",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Associate-Data-Engineer_R0821166",
-    "description_short": "Associate Data Engineer",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0809424",
-    "title": "Senior Software Development Engineer - (Python, API Development, Big Data)",
-    "company": "CVS Health",
-    "location": "4 Locations",
-    "posted_date": "2026-01-29T07:00:43.741038",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0809424",
-    "description_short": "Senior Software Development Engineer - (Python, API Development, Big Data)",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556749160",
     "title": "Senior Data Engineer - Digital Marketing & Analytics",
     "company": "Microsoft",
@@ -210,7 +190,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-02-04T06:56:24.557806",
+    "posted_date": "2026-02-03T13:01:04.109394",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -230,7 +210,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-05T06:56:24.557685",
+    "posted_date": "2026-02-04T13:01:04.109374",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Staff-Security-Engineer_R0755523",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -332,7 +312,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer, Music Metrics & Data Platform",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.com/jobs/3175027/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -358,7 +338,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-02-06T06:56:24.158365",
+    "posted_date": "2026-02-05T13:01:03.753901",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0823581",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -398,7 +378,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer, Central InfraOps Analytics Team",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.com/jobs/3175557/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -418,5 +398,55 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210700553",
+    "title": "Lead Data Engineer - Data Platform",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-02-06T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700553",
+    "description_short": "Lead Data Engineer - Data Platform",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210682014",
+    "title": "Data Engineer II",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-02-06T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682014",
+    "description_short": "Data Engineer II",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210706253",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-02-06T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706253",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210706277",
+    "title": "Data Engineer II",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-02-06T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706277",
+    "description_short": "Data Engineer II",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210706279",
+    "title": "Data Engineer II",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-02-06T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706279",
+    "description_short": "Data Engineer II",
+    "source": "JPMorgan Chase"
   }
 ];
