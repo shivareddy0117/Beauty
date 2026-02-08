@@ -44,7 +44,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-02-04T06:51:55.604903",
+    "posted_date": "2026-02-03T12:52:07.798361",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -64,7 +64,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-05T06:51:55.101292",
+    "posted_date": "2026-02-04T12:52:07.499971",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Staff-Security-Engineer_R0755523",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -103,7 +103,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, NASC Data Engineering ",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3174283/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -192,7 +192,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-02-06T06:51:55.101234",
+    "posted_date": "2026-02-05T12:52:07.499912",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0823581",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -232,7 +232,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer, Central InfraOps Analytics Team",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3175557/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -348,7 +348,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T06:51:54.617308",
+    "posted_date": "2026-02-06T12:52:07.218644",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -358,7 +358,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Platform Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T06:51:54.617313",
+    "posted_date": "2026-02-06T12:52:07.218652",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Platform Engineer",
     "source": "CVS Health"
@@ -368,7 +368,7 @@ window.JOBS_DATA = [
     "title": "Sr Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-02-07T06:51:54.617341",
+    "posted_date": "2026-02-06T12:52:07.218683",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Sr Data Engineer",
     "source": "CVS Health"
@@ -378,7 +378,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "47 Locations",
-    "posted_date": "2026-02-07T06:51:54.617347",
+    "posted_date": "2026-02-06T12:52:07.218691",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0828535",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -388,7 +388,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T06:51:54.617352",
+    "posted_date": "2026-02-06T12:52:07.218696",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
