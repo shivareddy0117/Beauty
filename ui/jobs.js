@@ -44,7 +44,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - Spark, AWS",
     "company": "JPMorgan Chase",
     "location": "Hyderabad, Telangana, India",
-    "posted_date": "2026-02-04T00:00:00",
+    "posted_date": "2026-02-10T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697087",
     "description_short": "Data Engineer - Spark, AWS",
     "source": "JPMorgan Chase"
@@ -54,7 +54,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-05T07:05:23.515356",
+    "posted_date": "2026-02-04T13:15:41.027807",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Staff-Security-Engineer_R0755523",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -182,7 +182,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-02-06T07:05:23.209404",
+    "posted_date": "2026-02-05T13:15:40.410573",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0823581",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -222,7 +222,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer, Central InfraOps Analytics Team",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/3175557/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -338,7 +338,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T07:05:22.925168",
+    "posted_date": "2026-02-06T13:15:39.843883",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -348,7 +348,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Platform Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T07:05:22.925260",
+    "posted_date": "2026-02-06T13:15:39.843979",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Platform Engineer",
     "source": "CVS Health"
@@ -358,7 +358,7 @@ window.JOBS_DATA = [
     "title": "Sr Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-02-07T07:05:23.209348",
+    "posted_date": "2026-02-06T13:15:40.410499",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Sr Data Engineer",
     "source": "CVS Health"
@@ -368,7 +368,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "47 Locations",
-    "posted_date": "2026-02-07T07:05:23.209365",
+    "posted_date": "2026-02-06T13:15:40.410529",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0828535",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -378,7 +378,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T07:05:23.209372",
+    "posted_date": "2026-02-06T13:15:40.410539",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -437,7 +437,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Sr Data Engineer, AWS Marketplace & Partner Services",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 11 hours",
     "url_next_step": "https://account.amazon.com/jobs/3177453/apply",
     "team.id": null,
     "team.business_category_id": null,
