@@ -1,15 +1,5 @@
 [
   {
-    "id": "210694296",
-    "title": "Data Engineer III",
-    "company": "JPMorgan Chase",
-    "location": "Columbus, OH, United States",
-    "posted_date": "2026-02-02T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694296",
-    "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "1970393556749785",
     "title": "Data Engineer 2 - Partner Engineering Platform (PEP) Reporting",
     "company": "Microsoft",
@@ -44,7 +34,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-02-03T19:13:50.045384",
+    "posted_date": "2026-02-04T05:51:50.758073",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -64,7 +54,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-04T19:13:49.603375",
+    "posted_date": "2026-02-05T05:51:50.758057",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Staff-Security-Engineer_R0755523",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -166,7 +156,7 @@
     "state": "CA",
     "title": "Software Development Engineer, Music Metrics & Data Platform",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/3175027/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -192,7 +182,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-02-05T19:13:49.603318",
+    "posted_date": "2026-02-06T05:51:50.413437",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0823581",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -348,7 +338,7 @@
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T19:13:49.200400",
+    "posted_date": "2026-02-07T05:51:50.036539",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -358,7 +348,7 @@
     "title": "Senior Data Platform Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T19:13:49.200503",
+    "posted_date": "2026-02-07T05:51:50.036679",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Platform Engineer",
     "source": "CVS Health"
@@ -368,7 +358,7 @@
     "title": "Sr Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-02-06T19:13:49.200531",
+    "posted_date": "2026-02-07T05:51:50.413375",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Sr Data Engineer",
     "source": "CVS Health"
@@ -378,7 +368,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "47 Locations",
-    "posted_date": "2026-02-06T19:13:49.200538",
+    "posted_date": "2026-02-07T05:51:50.413401",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0828535",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -388,7 +378,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T19:13:49.200543",
+    "posted_date": "2026-02-07T05:51:50.413407",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -412,5 +402,60 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710643",
     "description_short": "Data Engineer",
     "source": "JPMorgan Chase"
+  },
+  {
+    "basic_qualifications": "- 5+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with SQL<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Experience mentoring team members on best practices",
+    "business_category": "aws",
+    "city": "Seattle",
+    "company_name": "Amazon Web Services, Inc.",
+    "country_code": "USA",
+    "description": "We're building the future of enterprise data systems - creating a canonical data product that serves as the single source of truth for data while enabling next-generation AI-powered experiences. <br/><br/>This isn't just moving and managing data; it's architecting coupled, intelligent systems that power both traditional analytics and agent capabilities at scale. <br/><br/>You will lead key core components of our multi-layered data architecture spanning raw ingestion through AI-ready semantic layers, working with modern cloud technologies. The technical challenges are substantial: distributed systems design, near real-time processing, complex transformations, data quality frameworks, and emerging AI architecture. <br/><br/>We are looking for someone who combines exceptional data engineering fundamentals with deep belief in AI capabilities - the ideal candidate is comfortable designing systems, delivering autonomously and thinking holistically about the future of data as a product. You will collaborate across data science, analytics, and software engineering teams with real influence on architectural decisions. <br/><br/>This position is part of the AWS Specialist and Partner Organization (ASP). Specialists own the end-to-end go-to-market strategy for their respective technology domains, providing the business and technical expertise to help our customers succeed. Partner teams own the strategy, recruiting, development, and growth of our key technology and consulting partners. Together they provide our customers with the expertise and scale needed to build innovative solutions for their most complex challenges.<br/><br/>Key job responsibilities<br/>- Champion and apply agentic development practices in daily work - leveraging agent-based assistants and tools to improve code quality and pioneer innovative approaches to data engineering challenges.<br/><br/>- Own the evolution of our AI-first data platform. You will be responsible for system designs, implementing scalable frameworks, mentoring builders, and evolving data governance systems that securely enable intelligent decision-making <br/><br/>- Champion data as a product and collaborate with data scientists, analysts, software and product teams to understand requirements and architect data solutions that enable both traditional analytics and agentic capabilities. <br/><br/>- Design and evolve data quality frameworks and validation systems to maintain trust in our canonical datasets, including automated monitoring, anomaly detection, and remediation workflows <br/><br/>- Design, build, and maintain scalable data pipelines that ingest, transform, and deliver high-quality datasets across our multi-layered architecture - from raw data landing through production ready data marts. <br/><br/>- Develop and optimize data transformations using SQL and Python to support both analytical workloads and AI-ready semantic layers, ensuring data accuracy, consistency, and performance at scale.",
+    "department_cost_center": null,
+    "description_short": "We're building the future of enterprise data systems - creating a canonical data product that serves as the single source of truth for data while enabling next-generation AI-powered experiences. This isn't",
+    "display_distance": null,
+    "id": "874bbb99-38b8-4588-880c-5003912c787d",
+    "id_icims": "3177453",
+    "is_intern": null,
+    "is_manager": null,
+    "job_category": "Data Science",
+    "job_family": "Data Engineering",
+    "job_function_id": null,
+    "job_path": "/en/jobs/3177453/sr-data-engineer-aws-marketplace-partner-services",
+    "job_schedule_type": "full-time",
+    "location": "US, WA, Seattle",
+    "locations": [
+      "{\"normalizedStateName\":\"Washington\",\"normalizedCountryCode\":\"USA\",\"city\":\"Seattle\",\"countryIso3a\":\"USA\",\"countryIso2a\":\"US\",\"locationNonStemming\":\"United States, WA, Seattle\",\"coordinates\":\"47.60357,-122.32945\",\"normalizedCountyName\":\"King\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United States\",\"normalizedLocation\":\"Seattle, Washington, USA\",\"location\":\"US, WA, Seattle\",\"region\":\"WA\",\"buildingCodeList\":[\"SEA44\"],\"normalizedCityName\":\"Seattle\"}"
+    ],
+    "normalized_location": "Seattle, Washington, USA",
+    "optional_search_labels": [
+      "aws.team-aspo"
+    ],
+    "posted_date": "February 10, 2026",
+    "preferred_qualifications": "- Experience with big data technologies such as: Hadoop, Hive, Spark, EMR<br/>- Experience operating large data warehouses<br/><br/>Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br/><br/>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit <a href=\"https://amazon.jobs/content/en/how-we-hire/accommodations\">https://amazon.jobs/content/en/how-we-hire/accommodations</a> for more information. If the country/region you\u2019re applying in isn\u2019t listed, please contact your Recruiting Partner.<br/><br/><p><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://amazon.jobs/en/benefits\"><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">https://amazon.jobs/en/benefits</span></a><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">.</span></p><br/><br/>USA, WA, Seattle - 154,600.00 - 209,100.00 USD annually",
+    "primary_search_label": "aws.team-data-science-primary",
+    "source_system": "JobCreator",
+    "state": "WA",
+    "title": "Sr Data Engineer, AWS Marketplace & Partner Services",
+    "university_job": null,
+    "updated_time": "about 4 hours",
+    "url_next_step": "https://account.amazon.com/jobs/3177453/apply",
+    "team.id": null,
+    "team.business_category_id": null,
+    "team.identifier": null,
+    "team.label": "team-data-science-primary",
+    "team.created_at": null,
+    "team.updated_at": null,
+    "team.image_file_name": null,
+    "team.image_content_type": null,
+    "team.image_file_size": null,
+    "team.image_updated_at": null,
+    "team.thumbnail_file_name": null,
+    "team.thumbnail_content_type": null,
+    "team.thumbnail_file_size": null,
+    "team.thumbnail_updated_at": null,
+    "team.hide_jobs": null,
+    "team.title": null,
+    "team.headline": null,
+    "team.description": null
   }
 ]
