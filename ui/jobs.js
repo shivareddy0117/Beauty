@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0822842",
-    "title": "Associate Data Engineer, Data Lakehouse Building",
-    "company": "CVS Health",
-    "location": "CT - Hartford",
-    "posted_date": "2026-02-03T13:03:19.132801",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Data-Engineer--Data-Lakehouse-Building_R0822842",
-    "description_short": "Associate Data Engineer, Data Lakehouse Building",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0822616",
     "title": "Data Engineer",
     "company": "CVS Health",
@@ -34,7 +24,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-05T07:02:21.339270",
+    "posted_date": "2026-02-04T13:11:59.119970",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Staff-Security-Engineer_R0755523",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -162,7 +152,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-02-06T07:02:20.843314",
+    "posted_date": "2026-02-05T13:11:58.781150",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0823581",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -318,7 +308,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T07:02:20.843170",
+    "posted_date": "2026-02-06T13:11:58.781098",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -328,7 +318,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (Platform Engineering)",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-11T07:02:20.540153",
+    "posted_date": "2026-02-10T13:11:58.348097",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Engineer (Platform Engineering)",
     "source": "CVS Health"
@@ -338,7 +328,7 @@ window.JOBS_DATA = [
     "title": "Sr Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-02-07T07:02:20.843278",
+    "posted_date": "2026-02-06T13:11:58.781116",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Sr Data Engineer",
     "source": "CVS Health"
@@ -348,7 +338,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "47 Locations",
-    "posted_date": "2026-02-07T07:02:20.843282",
+    "posted_date": "2026-02-06T13:11:58.781120",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0828535",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -358,7 +348,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T07:02:20.843286",
+    "posted_date": "2026-02-06T13:11:58.781123",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -467,5 +457,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556630984",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210710749",
+    "title": "Data Engineer II",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-02-11T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710749",
+    "description_short": "Data Engineer II",
+    "source": "JPMorgan Chase"
   }
 ];
