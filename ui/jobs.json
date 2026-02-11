@@ -1,25 +1,5 @@
 [
   {
-    "id": "1970393556749785",
-    "title": "Data Engineer 2 - Partner Engineering Platform (PEP) Reporting",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-02-03T01:58:34",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556749785",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556735130",
-    "title": "Principal Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-02-02T22:44:44",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556735130",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "R0822842",
     "title": "Associate Data Engineer, Data Lakehouse Building",
     "company": "CVS Health",
@@ -54,7 +34,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-04T19:06:06.212676",
+    "posted_date": "2026-02-05T02:26:26.099401",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Staff-Security-Engineer_R0755523",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -182,7 +162,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-02-05T19:06:05.793331",
+    "posted_date": "2026-02-06T02:26:25.719794",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0823581",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -338,19 +318,19 @@
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T19:06:05.345017",
+    "posted_date": "2026-02-07T02:26:25.719643",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
   },
   {
     "id": "R0718866-1",
-    "title": "Senior Data Platform Engineer",
+    "title": "Senior Data Engineer (Platform Engineering)",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T19:06:05.793249",
+    "posted_date": "2026-02-11T02:26:25.392132",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
-    "description_short": "Senior Data Platform Engineer",
+    "description_short": "Senior Data Engineer (Platform Engineering)",
     "source": "CVS Health"
   },
   {
@@ -358,7 +338,7 @@
     "title": "Sr Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-02-06T19:06:05.793292",
+    "posted_date": "2026-02-07T02:26:25.719758",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Sr Data Engineer",
     "source": "CVS Health"
@@ -368,7 +348,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "47 Locations",
-    "posted_date": "2026-02-06T19:06:05.793297",
+    "posted_date": "2026-02-07T02:26:25.719762",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0828535",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -378,7 +358,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T19:06:05.793302",
+    "posted_date": "2026-02-07T02:26:25.719766",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -437,7 +417,7 @@
     "state": "WA",
     "title": "Sr Data Engineer, AWS Marketplace & Partner Services",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3177453/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -467,5 +447,25 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710227",
     "description_short": "Data Engineer [Multiple Positions Available]",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556638740",
+    "title": "Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-02-10T22:51:41",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556638740",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "1970393556630984",
+    "title": "Member of Technical Staff - Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, New York, New York",
+    "posted_date": "2026-02-10T20:53:21",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556630984",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ]
