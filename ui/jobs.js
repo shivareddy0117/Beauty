@@ -243,7 +243,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T13:09:24.210478",
+    "posted_date": "2026-02-06T19:03:43.110091",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -253,7 +253,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (Platform Engineering)",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-10T13:09:23.889358",
+    "posted_date": "2026-02-10T19:03:42.562109",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Engineer (Platform Engineering)",
     "source": "CVS Health"
@@ -273,7 +273,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "47 Locations",
-    "posted_date": "2026-02-06T13:09:24.210497",
+    "posted_date": "2026-02-06T19:03:43.511284",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0828535",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -283,7 +283,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-06T13:09:24.210501",
+    "posted_date": "2026-02-06T19:03:43.511288",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -293,7 +293,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-02-11T13:09:23.889226",
+    "posted_date": "2026-02-11T19:03:42.561935",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -342,7 +342,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Sr Data Engineer, AWS Marketplace & Partner Services",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3177453/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -447,7 +447,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Software Development Engineer - Big Data, Brand Metrics and Benchmarks",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.com/jobs/3179173/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -476,6 +476,36 @@ window.JOBS_DATA = [
     "posted_date": "2026-02-11T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210686298",
     "description_short": "Data Engineer III - AWS / Databricks",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556619586",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-02-12T17:08:21",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556619586",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0822616",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Richardson",
+    "posted_date": "2026-02-12T19:03:42.561893",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210711474",
+    "title": "Data Engineer III - SQL, ETL and Analytics",
+    "company": "JPMorgan Chase",
+    "location": "GLASGOW, LANARKSHIRE, United Kingdom",
+    "posted_date": "2026-02-12T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711474",
+    "description_short": "Data Engineer III - SQL, ETL and Analytics",
     "source": "JPMorgan Chase"
   }
 ];
