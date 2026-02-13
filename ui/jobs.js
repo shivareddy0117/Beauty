@@ -180,7 +180,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T02:22:42.865154",
+    "posted_date": "2026-02-07T07:00:18.204352",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -190,7 +190,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (Platform Engineering)",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-11T02:22:42.446439",
+    "posted_date": "2026-02-11T07:00:17.907637",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Engineer (Platform Engineering)",
     "source": "CVS Health"
@@ -210,7 +210,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "47 Locations",
-    "posted_date": "2026-02-07T02:22:42.865173",
+    "posted_date": "2026-02-07T07:00:18.528029",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0828535",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -220,7 +220,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T02:22:42.865177",
+    "posted_date": "2026-02-07T07:00:18.528035",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -430,7 +430,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-02-13T02:22:42.005486",
+    "posted_date": "2026-02-13T07:00:17.907411",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0822616",
     "description_short": "Data Engineer",
     "source": "CVS Health"
