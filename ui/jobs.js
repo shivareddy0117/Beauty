@@ -24,7 +24,7 @@ window.JOBS_DATA = [
     "title": "Analytic Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T02:03:32.842173",
+    "posted_date": "2026-02-07T06:45:55.857141",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
     "description_short": "Analytic Data Engineer",
     "source": "CVS Health"
@@ -64,7 +64,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-07T02:03:32.842184",
+    "posted_date": "2026-02-07T06:45:55.857153",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -345,7 +345,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, AWS Infrastructure Supply Chain Automation",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 7 hours",
     "url_next_step": "https://account.amazon.com/jobs/3181333/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -398,7 +398,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, ISF Central Tech Team",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 12 hours",
     "url_next_step": "https://account.amazon.com/jobs/3181025/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -418,5 +418,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "1970393556754190",
+    "title": "Data Engineering- Compromise & Fraud Prevention",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-02-13T19:50:52",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556754190",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
