@@ -10,16 +10,6 @@ window.JOBS_DATA = [
     "source": "JPMorgan Chase"
   },
   {
-    "id": "R0789524-1",
-    "title": "Analytic Data Engineer",
-    "company": "CVS Health",
-    "location": "50 Locations",
-    "posted_date": "2026-02-07T06:45:55.857141",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0789524-1",
-    "description_short": "Analytic Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0718866-1",
     "title": "Senior Data Engineer (Platform Engineering)",
     "company": "CVS Health",
@@ -27,16 +17,6 @@ window.JOBS_DATA = [
     "posted_date": "2026-02-10T13:01:22.701369",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Engineer (Platform Engineering)",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0790710",
-    "title": "Sr. Data Engineer",
-    "company": "CVS Health",
-    "location": "50 Locations",
-    "posted_date": "2026-02-07T06:45:55.857153",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
-    "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
   },
   {
