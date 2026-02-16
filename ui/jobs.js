@@ -73,7 +73,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Sr Data Engineer, AWS Marketplace & Partner Services",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/3177453/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -378,5 +378,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556754190",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210712430",
+    "title": "Data Engineer II, Glass Liquidity and Cash Management",
+    "company": "JPMorgan Chase",
+    "location": "Singapore",
+    "posted_date": "2026-02-13T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712430",
+    "description_short": "Data Engineer II, Glass Liquidity and Cash Management",
+    "source": "JPMorgan Chase"
   }
 ];
