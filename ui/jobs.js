@@ -338,7 +338,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, ISF Central Tech Team",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3181025/apply",
     "team.id": null,
     "team.business_category_id": null,
