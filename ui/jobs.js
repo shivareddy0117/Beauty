@@ -30,16 +30,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "210710643",
-    "title": "Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "Dublin, Ireland",
-    "posted_date": "2026-02-09T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710643",
-    "description_short": "Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
     "basic_qualifications": "- 5+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with SQL<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Experience mentoring team members on best practices",
     "business_category": "aws",
     "city": "Seattle",
