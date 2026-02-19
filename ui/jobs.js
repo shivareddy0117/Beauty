@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (Platform Engineering)",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-18T07:00:47.810860",
+    "posted_date": "2026-02-17T13:06:35.910196",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Senior-Platform-Engineer_R0718866-1",
     "description_short": "Senior Data Engineer (Platform Engineering)",
     "source": "CVS Health"
@@ -115,7 +115,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, AWS Infrastructure Supply Chain Automation",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3181333/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -355,7 +355,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Amazon PeopleInsights eXperience (APIX)",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3182676/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -437,7 +437,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-02-18T07:00:47.810884",
+    "posted_date": "2026-02-17T13:06:35.910334",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Data-Engineer_R0833523",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -484,7 +484,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.com/jobs/3184101/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -537,7 +537,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.com/jobs/3184100/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -563,7 +563,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - PCW",
     "company": "CVS Health",
     "location": "RI - Work from home",
-    "posted_date": "2026-02-19T07:00:47.810838",
+    "posted_date": "2026-02-18T13:06:35.910169",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Work-from-home/Associate-Data-Engineer---PCW_R0831876",
     "description_short": "Associate Data Engineer - PCW",
     "source": "CVS Health"
@@ -573,7 +573,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-02-19T07:00:47.810843",
+    "posted_date": "2026-02-18T13:06:35.910176",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Staff-Data-Engineer_R0839344",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -614,7 +614,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, AMZL Orbit Data Engineering",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.com/jobs/3184381/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -644,5 +644,25 @@ window.JOBS_DATA = [
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Work-from-home/Senior-Data-Engineer_R0791191",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "210688873",
+    "title": "Data Engineer II - AWS",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-02-19T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210688873",
+    "description_short": "Data Engineer II - AWS",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210677504",
+    "title": "Lead Data Engineer - Vice President - Chase UK",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-02-19T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210677504",
+    "description_short": "Lead Data Engineer - Vice President - Chase UK",
+    "source": "JPMorgan Chase"
   }
 ];
