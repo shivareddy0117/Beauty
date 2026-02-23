@@ -363,7 +363,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - PCW",
     "company": "CVS Health",
     "location": "RI - Work from home",
-    "posted_date": "2026-02-18T18:37:06.507547",
+    "posted_date": "2026-02-19T02:11:12.822492",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Work-from-home/Associate-Data-Engineer---PCW_R0831876",
     "description_short": "Associate Data Engineer - PCW",
     "source": "CVS Health"
@@ -693,7 +693,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-20T18:37:06.236620",
+    "posted_date": "2026-02-21T02:11:12.368457",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -703,7 +703,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-20T18:37:06.236628",
+    "posted_date": "2026-02-21T02:11:12.368466",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
