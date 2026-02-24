@@ -337,7 +337,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3184100/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -693,7 +693,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-21T02:08:27.321848",
+    "posted_date": "2026-02-21T07:01:18.809619",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -703,7 +703,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-21T02:08:27.321956",
+    "posted_date": "2026-02-21T07:01:18.809739",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -769,7 +769,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-02-24T02:08:27.321821",
+    "posted_date": "2026-02-24T07:01:18.809594",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer_R0836841",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -779,7 +779,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-02-24T02:08:27.321824",
+    "posted_date": "2026-02-24T07:01:18.809600",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Senior-Data-Engineer_R0836845",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -816,7 +816,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Games Finance Analytics",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.com/jobs/3187244/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -842,7 +842,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-02-24T02:08:27.321760",
+    "posted_date": "2026-02-24T07:01:18.809548",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Associate-Data-Engineer_R0794390",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
