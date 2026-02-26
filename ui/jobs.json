@@ -1,15 +1,5 @@
 [
   {
-    "id": "R0839344",
-    "title": "Staff Data Engineer",
-    "company": "CVS Health",
-    "location": "CT - Hartford",
-    "posted_date": "2026-02-18T18:50:35.365782",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Staff-Data-Engineer_R0839344",
-    "description_short": "Staff Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0791191",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -131,7 +121,7 @@
     "state": "WA",
     "title": "Data Engineer II , UTR PLanning Tech",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3186425/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -267,7 +257,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-20T13:07:47.668795",
+    "posted_date": "2026-02-20T18:53:50.246680",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -277,7 +267,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-20T13:07:47.668822",
+    "posted_date": "2026-02-20T18:53:50.705372",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -317,7 +307,7 @@
     "state": "WA",
     "title": "Data Engineer , AWS Infrastructure Supply Chain Intelligence",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3187071/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -343,7 +333,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-02-23T13:07:47.256465",
+    "posted_date": "2026-02-23T18:53:50.246676",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer_R0836841",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -353,7 +343,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-02-23T13:07:47.256469",
+    "posted_date": "2026-02-23T18:53:50.246632",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Senior-Data-Engineer_R0836845",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -499,7 +489,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CA - Work from home",
-    "posted_date": "2026-02-24T13:07:46.589269",
+    "posted_date": "2026-02-24T18:53:49.773612",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R0840338",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -536,7 +526,7 @@
     "state": "CA",
     "title": "Data Engineer II, Ring/Blink Customer Service Engineering and Insights",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3188513/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -605,6 +595,16 @@
     "posted_date": "2026-02-26T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696948",
     "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210716247",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "BOURNEMOUTH, DORSET, United Kingdom",
+    "posted_date": "2026-02-26T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716247",
+    "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
   }
 ]
