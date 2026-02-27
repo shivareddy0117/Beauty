@@ -169,7 +169,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-20T13:00:41.546680",
+    "posted_date": "2026-02-20T18:44:12.012622",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -179,7 +179,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-02-20T13:00:41.546684",
+    "posted_date": "2026-02-20T18:44:12.012626",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -245,7 +245,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-02-23T13:00:41.546676",
+    "posted_date": "2026-02-23T18:44:12.012599",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer_R0836841",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -255,7 +255,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-02-23T13:00:41.186233",
+    "posted_date": "2026-02-23T18:44:12.012579",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Senior-Data-Engineer_R0836845",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -401,7 +401,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CA - Work from home",
-    "posted_date": "2026-02-24T13:00:41.186183",
+    "posted_date": "2026-02-24T18:44:11.659702",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R0840338",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -553,7 +553,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, Marketplace",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.com/jobs/3190726/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -614,7 +614,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer II, AWS Commerce Platform-ADC",
     "university_job": null,
-    "updated_time": "about 11 hours",
+    "updated_time": "about 5 hours",
     "url_next_step": "https://account.amazon.com/jobs/3191228/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -667,7 +667,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Payment Products",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.com/jobs/3191226/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -687,5 +687,45 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "1970393556803429",
+    "title": "Data Engineer, Global Talent Intelligence",
+    "company": "Microsoft",
+    "location": "United States, Illinois, Chicago",
+    "posted_date": "2026-02-27T17:20:29",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556803429",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "1970393556769439",
+    "title": "Senior UX Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-02-27T15:28:27",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556769439",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0835947-1",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "22 Locations",
+    "posted_date": "2026-02-27T18:44:11.263511",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0835944-1",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "22 Locations",
+    "posted_date": "2026-02-27T18:44:11.263516",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
   }
 ];
