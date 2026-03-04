@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0836841",
-    "title": "Data Engineer",
-    "company": "CVS Health",
-    "location": "IL - Buffalo Grove",
-    "posted_date": "2026-02-24T02:08:31.861241",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer_R0836841",
-    "description_short": "Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0836845",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -283,7 +273,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-28T02:03:55.410237",
+    "posted_date": "2026-02-28T06:50:21.256053",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -293,7 +283,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-28T02:03:55.410241",
+    "posted_date": "2026-02-28T06:50:21.256056",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -488,7 +478,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer, Leo Data Platform",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 8 hours",
     "url_next_step": "https://account.amazon.com/jobs/3195101/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -544,7 +534,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer, Amazon Smart Vehicles",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.com/jobs/3194491/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -597,7 +587,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Pricing Eligibility Services",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.com/jobs/3195061/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -623,7 +613,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-03-04T02:03:55.002825",
+    "posted_date": "2026-03-04T06:50:20.977846",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -633,9 +623,29 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "Work At Home-Illinois",
-    "posted_date": "2026-03-04T02:03:55.002855",
+    "posted_date": "2026-03-04T06:50:20.977874",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0836439",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "210717313",
+    "title": "Software Engineer III - Data Engineering Java/Python",
+    "company": "JPMorgan Chase",
+    "location": "Jersey City, NJ, United States",
+    "posted_date": "2026-03-03T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717313",
+    "description_short": "Software Engineer III - Data Engineering Java/Python",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210706667",
+    "title": "Lead Software Engineer - Python (Data engineering), Equities Technology",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-03-02T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706667",
+    "description_short": "Lead Software Engineer - Python (Data engineering), Equities Technology",
+    "source": "JPMorgan Chase"
   }
 ];
