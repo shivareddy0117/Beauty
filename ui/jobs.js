@@ -138,7 +138,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-28T02:05:57.244984",
+    "posted_date": "2026-02-28T06:51:15.706921",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -148,7 +148,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-28T02:05:57.245005",
+    "posted_date": "2026-02-28T06:51:15.706924",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -433,7 +433,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "Work At Home-Illinois",
-    "posted_date": "2026-03-04T02:05:56.585816",
+    "posted_date": "2026-03-04T06:51:15.283334",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0836439",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -492,7 +492,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II, Secure Third Party Tools (S3T)",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 17 hours",
     "url_next_step": "https://account.amazon.com/jobs/3196381/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -555,7 +555,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, SPIV Data Engineering",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3196756/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -581,7 +581,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-03-06T02:05:56.585671",
+    "posted_date": "2026-03-06T06:51:15.283139",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0849875",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
