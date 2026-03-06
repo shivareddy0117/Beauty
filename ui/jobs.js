@@ -138,7 +138,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-27T12:57:24.537744",
+    "posted_date": "2026-02-27T18:46:52.058389",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -148,7 +148,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-27T12:57:24.537748",
+    "posted_date": "2026-02-27T18:46:52.058393",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -288,7 +288,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer, Leo Data Platform",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3195101/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -492,7 +492,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II, Secure Third Party Tools (S3T)",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3196381/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -581,7 +581,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-03-05T12:57:24.265773",
+    "posted_date": "2026-03-05T18:46:51.721480",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0849875",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -605,5 +605,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691002",
     "description_short": "Lead Software Engineer (Data Engineering, Java/Python)",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0839728",
+    "title": "Associate Data Engineer - Enterprise Identity Services",
+    "company": "CVS Health",
+    "location": "AZ - Work from home",
+    "posted_date": "2026-03-06T18:46:51.721405",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
+    "description_short": "Associate Data Engineer - Enterprise Identity Services",
+    "source": "CVS Health"
   }
 ];
