@@ -1,25 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "1970393556803429",
-    "title": "Data Engineer, Global Talent Intelligence",
-    "company": "Microsoft",
-    "location": "United States, Illinois, Chicago",
-    "posted_date": "2026-02-27T17:20:29",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556803429",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556769439",
-    "title": "Senior UX Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-02-27T15:28:27",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556769439",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "R0835947-1",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -441,7 +421,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, SPIV Data Engineering",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3196756/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -467,7 +447,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-03-05T12:48:56.906016",
+    "posted_date": "2026-03-05T18:35:12.842397",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0849875",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -497,7 +477,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "AZ - Work from home",
-    "posted_date": "2026-03-06T12:48:56.905879",
+    "posted_date": "2026-03-06T18:35:12.842193",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -537,7 +517,7 @@ window.JOBS_DATA = [
     "state": "MA",
     "title": "Sr. Data Engineer, GO-AI Technology & Development Team",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.com/jobs/3198663/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -590,7 +570,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer II, Ring Agent Platforms",
     "university_job": null,
-    "updated_time": "about 16 hours",
+    "updated_time": "about 22 hours",
     "url_next_step": "https://account.amazon.com/jobs/3198704/apply",
     "team.id": null,
     "team.business_category_id": null,
