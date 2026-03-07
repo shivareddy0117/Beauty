@@ -24,7 +24,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-28T01:58:54.658967",
+    "posted_date": "2026-02-28T06:41:47.255755",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -34,7 +34,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-02-28T01:58:54.658974",
+    "posted_date": "2026-02-28T06:41:47.692357",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -467,7 +467,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-03-06T01:58:54.042113",
+    "posted_date": "2026-03-06T06:41:46.833923",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0849875",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -497,7 +497,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "AZ - Work from home",
-    "posted_date": "2026-03-07T01:58:54.042065",
+    "posted_date": "2026-03-07T06:41:46.833881",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -537,7 +537,7 @@ window.JOBS_DATA = [
     "state": "MA",
     "title": "Sr. Data Engineer, GO-AI Technology & Development Team",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 8 hours",
     "url_next_step": "https://account.amazon.com/jobs/3198663/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -590,7 +590,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer II, Ring Agent Platforms",
     "university_job": null,
-    "updated_time": "about 6 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.com/jobs/3198704/apply",
     "team.id": null,
     "team.business_category_id": null,
