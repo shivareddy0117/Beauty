@@ -1,25 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0835947-1",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "22 Locations",
-    "posted_date": "2026-02-28T06:41:47.255755",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0835944-1",
-    "title": "Data Engineer",
-    "company": "CVS Health",
-    "location": "22 Locations",
-    "posted_date": "2026-02-28T06:41:47.692357",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
-    "description_short": "Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556769491",
     "title": "Solution Engineer - Cloud & AI Data Platform",
     "company": "Microsoft",
@@ -295,7 +275,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II, Secure Third Party Tools (S3T)",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/3196381/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -384,7 +364,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-03-06T02:08:23.213708",
+    "posted_date": "2026-03-06T06:43:27.565734",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0849875",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -414,7 +394,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "AZ - Work from home",
-    "posted_date": "2026-03-07T02:08:23.213499",
+    "posted_date": "2026-03-07T06:43:27.565595",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
