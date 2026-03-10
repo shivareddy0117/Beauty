@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "1970393556769491",
-    "title": "Solution Engineer - Cloud & AI Data Platform",
-    "company": "Microsoft",
-    "location": "United States, Multiple Locations, Multiple Locations",
-    "posted_date": "2026-03-02T17:16:35",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556769491",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "1970393556619586",
     "title": "Senior Data Engineer",
     "company": "Microsoft",
@@ -308,7 +298,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, SPIV Data Engineering",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/3196756/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -364,7 +354,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "AZ - Work from home",
-    "posted_date": "2026-03-06T13:01:49.383302",
+    "posted_date": "2026-03-06T18:50:41.322019",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -516,7 +506,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer II, Managed Operations Data Science (MODS)",
     "university_job": null,
-    "updated_time": "about 22 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3199404/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -542,7 +532,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-09T13:01:49.383117",
+    "posted_date": "2026-03-09T18:50:40.866076",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer---HEDIS-Quality--Validation---Automation_R0848628-1",
     "description_short": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "source": "CVS Health"
@@ -589,7 +579,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Software Development Engineer - Big Data, Brand Metrics and Benchmarks",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 24 hours",
     "url_next_step": "https://account.amazon.com/jobs/3199870/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -619,5 +609,25 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556826664",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "R0841914",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "CT - Hartford",
+    "posted_date": "2026-03-10T18:50:40.865997",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0841216",
+    "title": "Sr. Data Engineer",
+    "company": "CVS Health",
+    "location": "FL - Work from home",
+    "posted_date": "2026-03-10T18:50:40.866020",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
+    "description_short": "Sr. Data Engineer",
+    "source": "CVS Health"
   }
 ];
