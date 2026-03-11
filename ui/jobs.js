@@ -1,25 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0813114",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "PA - Work from home",
-    "posted_date": "2026-03-03T12:57:58.003981",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0836439",
-    "title": "Staff Data Engineer",
-    "company": "CVS Health",
-    "location": "Work At Home-Illinois",
-    "posted_date": "2026-03-03T12:57:24.265928",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Staff-Data-Engineer_R0836439",
-    "description_short": "Staff Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "basic_qualifications": "- 3+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines",
     "business_category": "amazon-security",
     "city": "Austin",
@@ -172,7 +152,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "AZ - Work from home",
-    "posted_date": "2026-03-07T06:55:21.655606",
+    "posted_date": "2026-03-06T13:01:33.859066",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -265,7 +245,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer II, Ring Agent Platforms",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/3198704/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -324,7 +304,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer II, Managed Operations Data Science (MODS)",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3199404/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -350,7 +330,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-10T06:55:21.385965",
+    "posted_date": "2026-03-09T13:01:33.291535",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer---HEDIS-Quality--Validation---Automation_R0848628-1",
     "description_short": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "source": "CVS Health"
@@ -433,7 +413,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-11T06:55:21.385921",
+    "posted_date": "2026-03-10T13:01:33.291379",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -443,7 +423,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-03-11T06:55:21.385925",
+    "posted_date": "2026-03-10T13:01:33.291383",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
