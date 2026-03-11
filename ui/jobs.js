@@ -152,7 +152,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "AZ - Work from home",
-    "posted_date": "2026-03-06T13:01:33.859066",
+    "posted_date": "2026-03-06T18:54:30.963814",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -330,7 +330,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-09T13:01:33.291535",
+    "posted_date": "2026-03-09T18:54:30.963777",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer---HEDIS-Quality--Validation---Automation_R0848628-1",
     "description_short": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "source": "CVS Health"
@@ -377,7 +377,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Software Development Engineer - Big Data, Brand Metrics and Benchmarks",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/3199870/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -413,7 +413,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-10T13:01:33.291379",
+    "posted_date": "2026-03-10T18:54:30.497362",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -423,7 +423,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-03-10T13:01:33.291383",
+    "posted_date": "2026-03-10T18:54:30.497365",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -435,6 +435,16 @@ window.JOBS_DATA = [
     "location": "Columbus, OH, United States",
     "posted_date": "2026-03-10T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694296",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210722407",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-03-11T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722407",
     "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
   }
