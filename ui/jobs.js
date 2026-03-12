@@ -1,60 +1,5 @@
 window.JOBS_DATA = [
   {
-    "basic_qualifications": "- 3+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines",
-    "business_category": "amazon-security",
-    "city": "Austin",
-    "company_name": "Amazon.com Services LLC",
-    "country_code": "USA",
-    "description": "Security Foundations builds solutions that keep Amazon systems and data secure on behalf of our customers. We leverage technologies to solve security challenges at Amazon scale, applying automation and machine learning to reduce manual effort and continuously raise the security bar. Our mission is bold: stay ahead of the curve on security while delighting our customers with world-class products. Within Security Foundations, Secure 3P Tools (S3T) is a centralized Amazon Security team dedicated to ensuring consistent data security and service availability across all third-party interactions. Our customers include end consumers, Amazon businesses leveraging third-party, and internal compliance teams who rely on our services. <br/><br/>Do you love working with data? Are you excited about handling a lot of data? Do you want to make new tools that make it easy to get information from data? Are you keen on solving problems that no other company has solved? <br/><br/>In this role, You will work with SDEs/other DEs and Data scientists to invent, design and build data solutions that will have significant impact across vendors doing business with Amazon, and all Amazonian building software solutions<br/><br/>Your job responsibilities will include - <br/><br/>-  Design, implement, and support a platform providing secured access to large datasets.<br/>-  Architect , develop and maintain end to end scalable data infrastructure and data pipelines<br/>- Develop the teams' data strategy and technical road map of data storage & pipelines design and implementation<br/>- Interface with other technology teams to extract, transform, and load data from a wide variety of data sources using SQL, scripting and AWS big data technologies.<br/>- Designing and implementing complex ETL pipelines and other BI solutions.<br/>- Work closely with business owners, developers, Business Intelligence Engineers to explore new data sources and deliver the data.<br/>- Empower the team for self-servicing by providing the necessary skills to handle complex tasks independently. Ensure that the team can efficiently manage and troubleshoot data-related issues, leading to increased autonomy and productivity. along with fostering a culture of self-reliance.<br/><br/>Key job responsibilities<br/><br/>-  Design, implement, and support a platform providing secured access to large datasets.<br/>-  Architect , develop and maintain end to end scalable data infrastructure and data pipelines<br/>- Develop the teams' data strategy and technical road map of data storage & pipelines design and implementation<br/>- Interface with other technology teams to extract, transform, and load data from a wide variety of data sources using SQL, scripting and AWS big data technologies.<br/>- Designing and implementing complex ETL pipelines and other BI solutions.<br/>- Work closely with business owners, developers, Business Intelligence Engineers to explore new data sources and deliver the data.<br/>- Empower the team for self-servicing by providing the necessary skills to handle complex tasks independently. Ensure that the team can efficiently manage and troubleshoot data-related issues, leading to increased autonomy and productivity. along with fostering a culture of self-reliance.<br/><br/>About the team<br/>Diverse Experiences<br/>Amazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn\u2019t followed a traditional path, or includes alternative experiences, don\u2019t let it stop you from applying.<br/><br/>Why Amazon Security?<br/>At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon\u2019s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores.<br/><br/>Inclusive Team Culture<br/>In Amazon Security, it\u2019s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices.<br/><br/>Training & Career Growth<br/>We\u2019re continuously raising our performance bar as we strive to become Earth\u2019s Best Employer. That\u2019s why you\u2019ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional.<br/><br/>Work/Life Balance<br/>We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there\u2019s nothing we can\u2019t achieve.",
-    "department_cost_center": null,
-    "description_short": "Security Foundations builds solutions that keep Amazon systems and data secure on behalf of our customers. We leverage technologies to solve security challenges at Amazon scale, applying automation and",
-    "display_distance": null,
-    "id": "6cff06f0-441f-4222-95f4-fbf2210871bd",
-    "id_icims": "3196381",
-    "is_intern": null,
-    "is_manager": null,
-    "job_category": "Software Development",
-    "job_family": "Data Engineering",
-    "job_function_id": null,
-    "job_path": "/en/jobs/3196381/data-engineer-ii-secure-third-party-tools-s3t",
-    "job_schedule_type": "full-time",
-    "location": "US, TX, Austin",
-    "locations": [
-      "{\"normalizedStateName\":\"Texas\",\"normalizedCountryCode\":\"USA\",\"city\":\"Austin\",\"countryIso3a\":\"USA\",\"countryIso2a\":\"US\",\"locationNonStemming\":\"United States, TX, Austin\",\"coordinates\":\"30.26759,-97.74299\",\"normalizedCountyName\":\"Travis\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United States\",\"normalizedLocation\":\"Austin, Texas, USA\",\"location\":\"US, TX, Austin\",\"region\":\"TX\",\"buildingCodeList\":[\"AUS16\"],\"normalizedCityName\":\"Austin\"}"
-    ],
-    "normalized_location": "Austin, Texas, USA",
-    "optional_search_labels": [
-      "aws.team-security-optional"
-    ],
-    "posted_date": "March  4, 2026",
-    "preferred_qualifications": "- Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions<br/>- Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)<br/><br/>Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br/><br/>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit <a href=\"https://amazon.jobs/content/en/how-we-hire/accommodations\">https://amazon.jobs/content/en/how-we-hire/accommodations</a> for more information. If the country/region you\u2019re applying in isn\u2019t listed, please contact your Recruiting Partner.<br/><br/><p><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://amazon.jobs/en/benefits\"><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">https://amazon.jobs/en/benefits</span></a><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">.</span></p><br/><br/>USA, TX, Austin - 132,100.00 - 178,800.00 USD annually",
-    "primary_search_label": "amazon-security.team-store-security",
-    "source_system": "JobCreator",
-    "state": "TX",
-    "title": "Data Engineer II, Secure Third Party Tools (S3T)",
-    "university_job": null,
-    "updated_time": "6 days",
-    "url_next_step": "https://account.amazon.com/jobs/3196381/apply",
-    "team.id": null,
-    "team.business_category_id": null,
-    "team.identifier": null,
-    "team.label": "team-store-security",
-    "team.created_at": null,
-    "team.updated_at": null,
-    "team.image_file_name": null,
-    "team.image_content_type": null,
-    "team.image_file_size": null,
-    "team.image_updated_at": null,
-    "team.thumbnail_file_name": null,
-    "team.thumbnail_content_type": null,
-    "team.thumbnail_file_size": null,
-    "team.thumbnail_updated_at": null,
-    "team.hide_jobs": null,
-    "team.title": null,
-    "team.headline": null,
-    "team.description": null
-  },
-  {
     "id": "1970393556640997",
     "title": "Senior Data Engineer",
     "company": "Microsoft",
@@ -152,7 +97,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer - Enterprise Identity Services",
     "company": "CVS Health",
     "location": "AZ - Work from home",
-    "posted_date": "2026-03-06T18:54:30.963814",
+    "posted_date": "2026-03-07T02:08:07.053296",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Associate-Data-Engineer---Enterprise-Identity-Services_R0839728",
     "description_short": "Associate Data Engineer - Enterprise Identity Services",
     "source": "CVS Health"
@@ -330,7 +275,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-09T18:54:30.963777",
+    "posted_date": "2026-03-10T02:08:07.053254",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer---HEDIS-Quality--Validation---Automation_R0848628-1",
     "description_short": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "source": "CVS Health"
@@ -413,7 +358,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-10T18:54:30.497362",
+    "posted_date": "2026-03-11T02:08:06.640794",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -423,7 +368,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-03-10T18:54:30.497365",
+    "posted_date": "2026-03-11T02:08:06.640799",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -446,6 +391,26 @@ window.JOBS_DATA = [
     "posted_date": "2026-03-11T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722407",
     "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210718145",
+    "title": "IP PE Sol Arch Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Jersey City, NJ, United States",
+    "posted_date": "2026-03-11T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718145",
+    "description_short": "IP PE Sol Arch Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210716077",
+    "title": "Software Engineer III - Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-03-11T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716077",
+    "description_short": "Software Engineer III - Data Engineer",
     "source": "JPMorgan Chase"
   }
 ];
