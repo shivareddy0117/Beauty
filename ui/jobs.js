@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0849875",
-    "title": "Staff Data Engineer",
-    "company": "CVS Health",
-    "location": "IL - Work from home",
-    "posted_date": "2026-03-05T13:04:48.309651",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer_R0849875",
-    "description_short": "Staff Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "210691002",
     "title": "Lead Software Engineer (Data Engineering, Java/Python)",
     "company": "JPMorgan Chase",
@@ -202,7 +192,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-09T12:59:44.554489",
+    "posted_date": "2026-03-09T18:43:08.981678",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer---HEDIS-Quality--Validation---Automation_R0848628-1",
     "description_short": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "source": "CVS Health"
@@ -285,7 +275,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-10T12:59:44.554454",
+    "posted_date": "2026-03-10T18:43:08.637514",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -295,7 +285,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-03-10T12:59:44.554458",
+    "posted_date": "2026-03-10T18:43:08.637518",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -392,7 +382,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Payment Products",
     "university_job": null,
-    "updated_time": "about 19 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3200868/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -498,7 +488,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Payment Products",
     "university_job": null,
-    "updated_time": "about 19 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/3199507/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -548,5 +538,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696317",
     "description_short": "Sr Lead Data Engineer - Databricks, Snowflake, Redshift, AWS",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0828525",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "49 Locations",
+    "posted_date": "2026-03-13T18:43:08.334928",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
   }
 ];
