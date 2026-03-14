@@ -73,7 +73,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-09T12:53:12.700690",
+    "posted_date": "2026-03-09T18:39:35.731988",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer---HEDIS-Quality--Validation---Automation_R0848628-1",
     "description_short": "Senior Data Engineer \u2013 HEDIS Quality, Validation & Automation",
     "source": "CVS Health"
@@ -156,7 +156,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-10T12:53:12.700662",
+    "posted_date": "2026-03-10T18:39:35.731962",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -166,7 +166,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-03-10T12:53:12.700666",
+    "posted_date": "2026-03-10T18:39:35.731965",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -425,7 +425,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-03-13T12:53:12.379485",
+    "posted_date": "2026-03-13T18:39:35.336764",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
