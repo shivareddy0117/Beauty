@@ -110,7 +110,7 @@
     "state": "NY",
     "title": "Software Development Engineer - Big Data, Brand Metrics and Benchmarks",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/3199870/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -146,7 +146,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-10T07:18:39.122993",
+    "posted_date": "2026-03-10T13:13:43.089323",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -156,7 +156,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-03-10T07:18:39.122997",
+    "posted_date": "2026-03-10T13:13:43.089326",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -415,7 +415,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-03-13T07:18:38.732838",
+    "posted_date": "2026-03-13T13:13:42.786354",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -438,6 +438,56 @@
     "posted_date": "2026-03-09T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717226",
     "description_short": "Senior Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0836077-1",
+    "title": "Staff Data Engineer",
+    "company": "CVS Health",
+    "location": "NY - New York",
+    "posted_date": "2026-03-16T13:13:42.786154",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Staff-Data-Engineer_R0836077-1",
+    "description_short": "Staff Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210721226",
+    "title": "Data Engineer III - Python, Databricks - Senior Associate",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-03-16T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721226",
+    "description_short": "Data Engineer III - Python, Databricks - Senior Associate",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210721231",
+    "title": "Data Engineer III - Python, SQL - Senior Associate",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-03-16T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721231",
+    "description_short": "Data Engineer III - Python, SQL - Senior Associate",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210721236",
+    "title": "Lead Data Engineer - Python, SQL - Vice President",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-03-16T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721236",
+    "description_short": "Lead Data Engineer - Python, SQL - Vice President",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210721240",
+    "title": "Lead Data Engineer - Python, SQL - Team Lead - Vice President",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-03-16T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721240",
+    "description_short": "Lead Data Engineer - Python, SQL - Team Lead - Vice President",
     "source": "JPMorgan Chase"
   }
 ]
