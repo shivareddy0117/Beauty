@@ -37,7 +37,7 @@
     "state": "VA",
     "title": "Data Engineer II, Managed Operations Data Science (MODS)",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/3199404/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -146,7 +146,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-11T02:29:21.953497",
+    "posted_date": "2026-03-10T07:18:39.122993",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0841914",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -156,7 +156,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-03-11T02:29:21.953501",
+    "posted_date": "2026-03-10T07:18:39.122997",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Sr-Data-Engineer_R0841216",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -253,7 +253,7 @@
     "state": "WA",
     "title": "Data Engineer II, Amazon Payment Products",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3200868/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -359,7 +359,7 @@
     "state": "WA",
     "title": "Data Engineer II, Amazon Payment Products",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/3199507/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -415,7 +415,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-03-14T02:29:21.525049",
+    "posted_date": "2026-03-13T07:18:38.732838",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -429,5 +429,15 @@
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556769439",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210717226",
+    "title": "Senior Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Metro Manila, National Capital Region, Philippines",
+    "posted_date": "2026-03-09T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717226",
+    "description_short": "Senior Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ]
