@@ -1,25 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0828525",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "49 Locations",
-    "posted_date": "2026-03-14T02:08:22.516545",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Chicago/Sr-Data-Engineer_R0828525",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
-    "id": "1970393556769439",
-    "title": "Senior UX Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-03-13T20:53:03",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556769439",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "R0836077-1",
     "title": "Staff Data Engineer",
     "company": "CVS Health",
@@ -615,7 +595,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-03-20T18:37:19.883930",
+    "posted_date": "2026-03-21T02:14:31.434114",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
