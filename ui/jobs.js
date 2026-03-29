@@ -4,19 +4,9 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - DataStage",
     "company": "CVS Health",
     "location": "NY - Amherst",
-    "posted_date": "2026-03-24T18:41:46.775106",
+    "posted_date": "2026-03-25T02:30:05.299315",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0846962",
     "description_short": "Senior Data Engineer - DataStage",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0813114",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "PA - Work from home",
-    "posted_date": "2026-03-21T02:22:21.974620",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
-    "description_short": "Senior Data Engineer",
     "source": "CVS Health"
   },
   {
@@ -170,7 +160,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, SMGS Business Insights and Operations",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/10373421/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -809,7 +799,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, WW Speed",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/10376916/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -889,7 +879,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-26T18:41:46.319211",
+    "posted_date": "2026-03-27T02:30:05.012249",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R0858001",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
