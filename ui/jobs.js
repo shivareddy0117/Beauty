@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - DataStage",
     "company": "CVS Health",
     "location": "NY - Amherst",
-    "posted_date": "2026-03-24T12:57:22.513167",
+    "posted_date": "2026-03-24T18:43:31.951990",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0846962",
     "description_short": "Senior Data Engineer - DataStage",
     "source": "CVS Health"
@@ -879,7 +879,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-26T12:57:22.260570",
+    "posted_date": "2026-03-26T18:43:31.693527",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R0858001",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
