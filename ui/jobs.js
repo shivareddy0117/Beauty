@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - DataStage",
     "company": "CVS Health",
     "location": "NY - Amherst",
-    "posted_date": "2026-03-25T02:27:26.368389",
+    "posted_date": "2026-03-24T07:15:31.342878",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0846962",
     "description_short": "Senior Data Engineer - DataStage",
     "source": "CVS Health"
@@ -105,7 +105,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer, Analytics & Data Engineering",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/10376173/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -299,7 +299,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer - Finance Technology, Finance Technology",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/10377061/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -406,7 +406,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Principal Data Engineer, Intelligent Talent Acquisition",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/10377071/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -432,7 +432,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-27T02:27:25.703290",
+    "posted_date": "2026-03-26T07:15:30.566618",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R0858001",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -532,7 +532,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Payment Products",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "about 22 hours",
     "url_next_step": "https://account.amazon.com/jobs/10378884/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -668,7 +668,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-03-31T02:27:24.804470",
+    "posted_date": "2026-03-30T07:15:30.113978",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -678,7 +678,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "7 Locations",
-    "posted_date": "2026-03-31T02:27:24.804472",
+    "posted_date": "2026-03-30T07:15:30.113981",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer_R0860934",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -715,7 +715,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Intelligence Data Services, Amazon Leo",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 12 hours",
     "url_next_step": "https://account.amazon.com/jobs/10379499/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -744,6 +744,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-03-30T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689440",
     "description_short": "Data Engineer III- Python / Data Lake",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210706667",
+    "title": "Lead Software Engineer - Python (Data engineering), Equities Technology",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-03-27T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706667",
+    "description_short": "Lead Software Engineer - Python (Data engineering), Equities Technology",
     "source": "JPMorgan Chase"
   }
 ];
