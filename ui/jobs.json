@@ -10,16 +10,6 @@
     "source": "CVS Health"
   },
   {
-    "id": "1970393556748774",
-    "title": "Senior Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-03-24T18:04:47",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556748774",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "R0835947-1",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -259,7 +249,7 @@
     "state": "WA",
     "title": "Data Engineer - Finance Technology, Finance Technology",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 18 hours",
     "url_next_step": "https://account.amazon.com/jobs/10377061/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -392,7 +382,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-26T07:21:36.682217",
+    "posted_date": "2026-03-26T19:03:02.489218",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R0858001",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -602,7 +592,7 @@
     "state": "TX",
     "title": "Senior Data Engineer, Infrastructure Reliability",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 3 hours",
     "url_next_step": "https://account.amazon.com/jobs/10379218/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -675,7 +665,7 @@
     "state": "WA",
     "title": "Data Engineer II, Intelligence Data Services, Amazon Leo",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/10379499/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -748,7 +738,7 @@
     "state": "WA",
     "title": "Data Engineer II , UTR PLanning Tech",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/10380595/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -807,6 +797,16 @@
     "posted_date": "2026-04-01T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715508",
     "description_short": "Software Engineer III - Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210729737",
+    "title": "Lead Software Engineer Data and Payments Data Platform",
+    "company": "JPMorgan Chase",
+    "location": "Austin, TX, United States",
+    "posted_date": "2026-04-01T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729737",
+    "description_short": "Lead Software Engineer Data and Payments Data Platform",
     "source": "JPMorgan Chase"
   }
 ]
