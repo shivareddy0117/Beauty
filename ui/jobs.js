@@ -4,20 +4,10 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - DataStage",
     "company": "CVS Health",
     "location": "NY - Amherst",
-    "posted_date": "2026-03-24T19:02:34.007194",
+    "posted_date": "2026-03-25T02:38:03.634296",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0846962",
     "description_short": "Senior Data Engineer - DataStage",
     "source": "CVS Health"
-  },
-  {
-    "id": "210719050",
-    "title": "Data Engineer III",
-    "company": "JPMorgan Chase",
-    "location": "Hyderabad, Telangana, India",
-    "posted_date": "2026-03-24T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719050",
-    "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
   },
   {
     "id": "1970393556748774",
@@ -30,16 +20,6 @@ window.JOBS_DATA = [
     "source": "Microsoft"
   },
   {
-    "id": "210728225",
-    "title": "Data Engineer III \u2013 Databricks & Python",
-    "company": "JPMorgan Chase",
-    "location": "GLASGOW, LANARKSHIRE, United Kingdom",
-    "posted_date": "2026-03-24T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728225",
-    "description_short": "Data Engineer III \u2013 Databricks & Python",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "R0835947-1",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -48,16 +28,6 @@ window.JOBS_DATA = [
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
-  },
-  {
-    "id": "210721867",
-    "title": "Data Engineer III",
-    "company": "JPMorgan Chase",
-    "location": "Bengaluru, Karnataka, India",
-    "posted_date": "2026-03-24T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721867",
-    "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
   },
   {
     "basic_qualifications": "- Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions<br/>- 4+ years of developing and operating large-scale data structures for business intelligence analytics using ETL/ELT processes experience<br/>- Experience with SQL<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Current, active US Government Security Clearance of TS/SCI with Polygraph",
@@ -289,7 +259,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer - Finance Technology, Finance Technology",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "about 1 hour",
     "url_next_step": "https://account.amazon.com/jobs/10377061/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -422,7 +392,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-26T19:02:33.440059",
+    "posted_date": "2026-03-27T02:38:03.200676",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R0858001",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -668,7 +638,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "7 Locations",
-    "posted_date": "2026-03-30T19:02:32.577469",
+    "posted_date": "2026-03-31T02:38:02.357313",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer_R0860934",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -705,7 +675,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Intelligence Data Services, Amazon Leo",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/10379499/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -778,7 +748,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II , UTR PLanning Tech",
     "university_job": null,
-    "updated_time": "11 minutes",
+    "updated_time": "about 8 hours",
     "url_next_step": "https://account.amazon.com/jobs/10380595/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -817,6 +787,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-03-31T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716208",
     "description_short": "Lead Software Engineer - Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210711461",
+    "title": "Software Engineer III - Data Engineering and MLOps",
+    "company": "JPMorgan Chase",
+    "location": "Boston, MA, United States",
+    "posted_date": "2026-03-31T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711461",
+    "description_short": "Software Engineer III - Data Engineering and MLOps",
     "source": "JPMorgan Chase"
   }
 ];
