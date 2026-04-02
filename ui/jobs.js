@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0846962",
-    "title": "Senior Data Engineer - DataStage",
-    "company": "CVS Health",
-    "location": "NY - Amherst",
-    "posted_date": "2026-03-25T02:38:03.634296",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0846962",
-    "description_short": "Senior Data Engineer - DataStage",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0835947-1",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -71,7 +61,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer - Finance Technology, Finance Technology",
     "university_job": null,
-    "updated_time": "about 6 hours",
+    "updated_time": "about 11 hours",
     "url_next_step": "https://account.amazon.com/jobs/10377061/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -178,7 +168,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Principal Data Engineer, Intelligent Talent Acquisition",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/10377071/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -204,7 +194,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-03-27T02:24:24.597357",
+    "posted_date": "2026-03-26T07:13:49.829855",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R0858001",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -361,7 +351,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer, Infrastructure Reliability",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 12 hours",
     "url_next_step": "https://account.amazon.com/jobs/10379218/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -610,7 +600,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Big Data Engineer",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.com/jobs/10381795/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -630,5 +620,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210714268",
+    "title": "Data Engineer II DataBricks SnowFlake",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-04-02T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210714268",
+    "description_short": "Data Engineer II DataBricks SnowFlake",
+    "source": "JPMorgan Chase"
   }
 ];
