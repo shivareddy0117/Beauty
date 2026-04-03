@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0835947-1",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "22 Locations",
-    "posted_date": "2026-03-26T02:26:03.434851",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "210727081",
     "title": "Data Engineer III",
     "company": "JPMorgan Chase",
@@ -264,7 +254,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II , UTR PLanning Tech",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/10380595/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -444,7 +434,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, People Experience and Technology Central Science",
     "university_job": null,
-    "updated_time": "about 10 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.com/jobs/10382418/apply",
     "team.id": null,
     "team.business_category_id": null,
