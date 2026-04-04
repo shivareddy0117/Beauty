@@ -467,7 +467,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Seller Partner Trust and Store Integrity Science",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.com/jobs/10383223/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -496,6 +496,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-04-03T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732462",
     "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210726063",
+    "title": "Lead Data Engineer - Data Modeling",
+    "company": "JPMorgan Chase",
+    "location": "Plano, TX, United States",
+    "posted_date": "2026-04-04T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726063",
+    "description_short": "Lead Data Engineer - Data Modeling",
     "source": "JPMorgan Chase"
   }
 ];
