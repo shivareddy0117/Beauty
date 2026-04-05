@@ -467,7 +467,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Seller Partner Trust and Store Integrity Science",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/10383223/apply",
     "team.id": null,
     "team.business_category_id": null,
