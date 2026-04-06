@@ -517,5 +517,15 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730254",
     "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0878234",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Work from home",
+    "posted_date": "2026-04-06T19:00:39.716468",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-Engineer_R0878234",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
   }
 ]
