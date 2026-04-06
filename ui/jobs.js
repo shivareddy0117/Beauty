@@ -41,7 +41,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Payment Products",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/10378884/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -506,6 +506,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-04-04T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726063",
     "description_short": "Lead Data Engineer - Data Modeling",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210730254",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-04-05T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730254",
+    "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
   }
 ];
