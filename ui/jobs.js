@@ -10,16 +10,6 @@ window.JOBS_DATA = [
     "source": "JPMorgan Chase"
   },
   {
-    "id": "R0861003",
-    "title": "Associate Data Engineer",
-    "company": "CVS Health",
-    "location": "TX - Richardson",
-    "posted_date": "2026-03-30T13:19:41.443633",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
-    "description_short": "Associate Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0860934",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -164,7 +154,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Big Data Engineer",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/10381795/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -294,7 +284,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Seller Partner Trust and Store Integrity Science",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/10383223/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -350,7 +340,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-04-06T07:18:25.043148",
+    "posted_date": "2026-04-06T13:20:10.599393",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-Engineer_R0878234",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
