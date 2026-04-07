@@ -61,7 +61,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II , UTR PLanning Tech",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/10380595/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -241,7 +241,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, People Experience and Technology Central Science",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/10382418/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -350,7 +350,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-04-07T02:28:31.260783",
+    "posted_date": "2026-04-06T07:18:25.043148",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-Engineer_R0878234",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -374,5 +374,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556654953",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210732843",
+    "title": "Data Engineer III - Scala , Spark , Databricks",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-04-07T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732843",
+    "description_short": "Data Engineer III - Scala , Spark , Databricks",
+    "source": "JPMorgan Chase"
   }
 ];
