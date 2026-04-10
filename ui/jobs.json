@@ -87,7 +87,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-04-07T02:35:34.658978",
+    "posted_date": "2026-04-06T07:28:42.944106",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-Engineer_R0878234",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -207,7 +207,7 @@
     "state": "WA",
     "title": "Sr. Data Engineer, Amazon Freight",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/10385304/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -406,7 +406,7 @@
     "state": "WA",
     "title": "Data Engineer III - AMZ9689619",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/10383222/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -459,7 +459,7 @@
     "state": "TX",
     "title": "Data Engineer II - AMZ9629059",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.com/jobs/10383113/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -542,5 +542,25 @@
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210719050",
+    "title": "Data Engineer III  Mainframe DB2/IMS DBA",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-04-10T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719050",
+    "description_short": "Data Engineer III  Mainframe DB2/IMS DBA",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210715508",
+    "title": "Software Engineer III - Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-04-10T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715508",
+    "description_short": "Software Engineer III - Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ]
