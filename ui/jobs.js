@@ -207,7 +207,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II , NA Stores Expansion",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 14 hours",
     "url_next_step": "https://account.amazon.com/jobs/10385829/apply",
     "team.id": null,
     "team.business_category_id": null,
