@@ -44,7 +44,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer III - Scala , Spark , Databricks",
     "company": "JPMorgan Chase",
     "location": "Mumbai, Maharashtra, India",
-    "posted_date": "2026-04-07T00:00:00",
+    "posted_date": "2026-04-13T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732843",
     "description_short": "Data Engineer III - Scala , Spark , Databricks",
     "source": "JPMorgan Chase"
@@ -343,7 +343,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Platform Engineer, Fauna",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/10386612/apply",
     "team.id": null,
     "team.business_category_id": null,
