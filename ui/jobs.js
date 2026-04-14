@@ -187,7 +187,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II , NA Stores Expansion",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/10385829/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -333,7 +333,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Platform Engineer, Fauna",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "about 4 hours",
     "url_next_step": "https://account.amazon.com/jobs/10386612/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -536,7 +536,7 @@ window.JOBS_DATA = [
     "state": "SC",
     "title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/10389179/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -589,7 +589,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, Data Platform Management, Grocery Tech Foundations",
     "university_job": null,
-    "updated_time": "about 16 hours",
+    "updated_time": "about 2 hours",
     "url_next_step": "https://account.amazon.com/jobs/10390456/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -649,5 +649,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734618",
     "description_short": "Lead Data Engineer- Mainframe Db2 DBA",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0865880",
+    "title": "Staff Data Engineer, Cybersecurity",
+    "company": "CVS Health",
+    "location": "CT - Hartford",
+    "posted_date": "2026-04-14T19:16:22.943589",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Staff-Data-Engineer--Cybersecurity_R0865880",
+    "description_short": "Staff Data Engineer, Cybersecurity",
+    "source": "CVS Health"
   }
 ];
