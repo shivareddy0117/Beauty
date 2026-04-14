@@ -10,16 +10,6 @@
     "source": "JPMorgan Chase"
   },
   {
-    "id": "R0878234",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "TX - Work from home",
-    "posted_date": "2026-04-06T13:11:40.411693",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-Engineer_R0878234",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556856278",
     "title": "Senior Data Engineer",
     "company": "Microsoft",
@@ -343,7 +333,7 @@
     "state": "NY",
     "title": "Data Platform Engineer, Fauna",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/10386612/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -546,7 +536,7 @@
     "state": "SC",
     "title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "university_job": null,
-    "updated_time": "about 16 hours",
+    "updated_time": "about 21 hours",
     "url_next_step": "https://account.amazon.com/jobs/10389179/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -599,7 +589,7 @@
     "state": "TX",
     "title": "Data Engineer, Data Platform Management, Grocery Tech Foundations",
     "university_job": null,
-    "updated_time": "about 11 hours",
+    "updated_time": "about 16 hours",
     "url_next_step": "https://account.amazon.com/jobs/10390456/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -638,6 +628,26 @@
     "posted_date": "2026-04-14T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716171",
     "description_short": "Senior Lead Data Engineer - Mainframe DB2/IMS DBA",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210717811",
+    "title": "Data Engineer III-Databricks, SQL",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-04-14T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717811",
+    "description_short": "Data Engineer III-Databricks, SQL",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210734618",
+    "title": "Lead Data Engineer- Mainframe Db2 DBA",
+    "company": "JPMorgan Chase",
+    "location": "OH, United States",
+    "posted_date": "2026-04-14T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734618",
+    "description_short": "Lead Data Engineer- Mainframe Db2 DBA",
     "source": "JPMorgan Chase"
   }
 ]
