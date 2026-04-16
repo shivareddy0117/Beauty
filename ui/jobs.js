@@ -30,16 +30,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "1970393556710078",
-    "title": "Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-04-08T15:41:37",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556710078",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "210719050",
     "title": "Data Engineer III  Mainframe DB2/IMS DBA",
     "company": "JPMorgan Chase",
@@ -221,7 +211,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, Data Platform Management, Grocery Tech Foundations",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/10390456/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -287,7 +277,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer, Cybersecurity",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-04-14T13:45:21.170802",
+    "posted_date": "2026-04-14T19:15:28.806450",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Staff-Data-Engineer--Cybersecurity_R0865880",
     "description_short": "Staff Data Engineer, Cybersecurity",
     "source": "CVS Health"
@@ -297,7 +287,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-04-14T13:45:20.838261",
+    "posted_date": "2026-04-14T19:15:28.806415",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -307,7 +297,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-04-14T13:45:20.838267",
+    "posted_date": "2026-04-14T19:15:28.806422",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -317,7 +307,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "WA - Work from home",
-    "posted_date": "2026-04-15T13:45:20.838151",
+    "posted_date": "2026-04-15T19:15:28.806287",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/WA---Work-from-home/Sr-Data-Engineer_R0835268",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -365,7 +355,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer II, Data Management Team",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/10392752/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -423,7 +413,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer II, Data Management Team",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/10392755/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -479,7 +469,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, PXT PeopleInsight",
     "university_job": null,
-    "updated_time": "about 16 hours",
+    "updated_time": "11 minutes",
     "url_next_step": "https://account.amazon.com/jobs/10393316/apply",
     "team.id": null,
     "team.business_category_id": null,
