@@ -148,7 +148,7 @@ window.JOBS_DATA = [
     "state": "SC",
     "title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.com/jobs/10389179/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -237,7 +237,7 @@ window.JOBS_DATA = [
     "title": "Senior Lead Data Engineer - Mainframe DB2/IMS DBA",
     "company": "JPMorgan Chase",
     "location": "Hyderabad, Telangana, India",
-    "posted_date": "2026-04-14T00:00:00",
+    "posted_date": "2026-04-17T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716171",
     "description_short": "Senior Lead Data Engineer - Mainframe DB2/IMS DBA",
     "source": "JPMorgan Chase"
@@ -267,7 +267,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer, Cybersecurity",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-04-15T02:36:29.814860",
+    "posted_date": "2026-04-14T07:47:42.624238",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Staff-Data-Engineer--Cybersecurity_R0865880",
     "description_short": "Staff Data Engineer, Cybersecurity",
     "source": "CVS Health"
@@ -297,7 +297,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "WA - Work from home",
-    "posted_date": "2026-04-16T02:36:29.814734",
+    "posted_date": "2026-04-15T07:47:42.624206",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/WA---Work-from-home/Sr-Data-Engineer_R0835268",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
