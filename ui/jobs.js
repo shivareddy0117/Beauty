@@ -161,7 +161,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer, Cybersecurity",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-04-14T13:02:53.542500",
+    "posted_date": "2026-04-14T18:52:56.781177",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Staff-Data-Engineer--Cybersecurity_R0865880",
     "description_short": "Staff Data Engineer, Cybersecurity",
     "source": "CVS Health"
@@ -472,7 +472,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "39 Locations",
-    "posted_date": "2026-04-17T13:02:52.795535",
+    "posted_date": "2026-04-17T18:52:55.999325",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -512,7 +512,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer, Kuiper Data Platform",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.com/jobs/10395119/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -538,7 +538,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-04-17T13:02:52.795476",
+    "posted_date": "2026-04-17T18:52:55.999280",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
