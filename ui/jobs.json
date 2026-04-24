@@ -44,7 +44,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "39 Locations",
-    "posted_date": "2026-04-18T02:39:54.583472",
+    "posted_date": "2026-04-17T08:04:22.017058",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -110,7 +110,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-04-18T02:39:54.583429",
+    "posted_date": "2026-04-17T08:04:22.017033",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -231,7 +231,7 @@
     "state": "WA",
     "title": "Data Engineer, Content And Data Platform",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.com/jobs/10396738/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -632,7 +632,7 @@
     "state": "WA",
     "title": "Data Engineer Internship - Fall 2026 (US)",
     "university_job": null,
-    "updated_time": "about 10 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.com/jobs/10399655/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -713,7 +713,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-04-23T02:39:54.121638",
+    "posted_date": "2026-04-22T08:04:21.702334",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0891167",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -914,6 +914,16 @@
     "posted_date": "2026-04-23T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730800",
     "description_short": "Data Engineer II - Python, AWS & Pyspark",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210737115",
+    "title": "SQL Server DBA - Data Engineer III - Neovest",
+    "company": "JPMorgan Chase",
+    "location": "Pleasant Grove, UT, United States",
+    "posted_date": "2026-04-24T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737115",
+    "description_short": "SQL Server DBA - Data Engineer III - Neovest",
     "source": "JPMorgan Chase"
   }
 ]
