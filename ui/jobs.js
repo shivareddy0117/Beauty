@@ -1,45 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "210716171",
-    "title": "Senior Lead Data Engineer - Mainframe DB2/IMS DBA",
-    "company": "JPMorgan Chase",
-    "location": "Hyderabad, Telangana, India",
-    "posted_date": "2026-04-17T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210716171",
-    "description_short": "Senior Lead Data Engineer - Mainframe DB2/IMS DBA",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "1970393556858380",
-    "title": "Senior Software Engineer - Data Platform, AI Infrastructure",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-04-17T00:22:22",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556858380",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556858869",
-    "title": "Senior Data Engineer - AI Infrastructure",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-04-17T00:21:50",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556858869",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "210736552",
-    "title": "Data Engineer III",
-    "company": "JPMorgan Chase",
-    "location": "Jersey City, NJ, United States",
-    "posted_date": "2026-04-17T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736552",
-    "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "R0835944-1",
     "title": "Data Engineer",
     "company": "CVS Health",
@@ -50,80 +10,14 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "basic_qualifications": "- 3+ years of non-internship professional software development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience<br/>- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience<br/>- Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design",
-    "business_category": "alexa-and-amazon-devices",
-    "city": "Redmond",
-    "company_name": "Amazon Kuiper Manufacturing Enterprises LLC",
-    "country_code": "USA",
-    "description": "Amazon Leo is Amazon\u2019s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual households to schools, hospitals, businesses, and government agencies, Amazon Leo will serve people and organizations operating in locations without reliable connectivity.<br/><br/>Export Control Requirement:<br/>Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.<br/><br/>Key job responsibilities<br/>This role is for a Software Development Engineer who will design, implement, and operate globally distributed systems that enable Leo to achieve low single-digit-second query responses within a near real-time analytics layer or lakehouse, and to support agentic AI capabilities on top. You\u2019ll build these systems using the latest AWS technologies and best-in-industry software engineering practices.<br/><br/>- Architect and implement a scalable, cost-performance-optimized OLAP-based analytics layer.<br/>- Architect a centralized metrics repository that becomes the source of truth for all Leo metrics.<br/>- Establish metadata management with automated data classification and lineage tracking.<br/>- Design and enforce standardized data ingestion patterns with built-in quality controls and validation gates.<br/>- Design extensible metrics schemas that support complex analytical queries while optimizing for AI retrieval patterns.<br/>- Design semantic data models that balance analytical performance with AI retrieval requirements.<br/>- Implement robust data quality frameworks with staging-first policies and automated validation pipelines.<br/>- Develop intelligent orchestration for metrics generation workflows with comprehensive audit trails.<br/>- Implement cross-domain federated query capabilities with sophisticated query optimization techniques.<br/>- Implement hybrid search strategies combining dense vectors with sparse representations for optimal semantic retrieval.<br/>- Establish automated compliance validation frameworks ensuring data handling meets Amazon's security standards.<br/><br/><br/>A day in the life<br/>This role is for a Software Development Engineer who will build new cloud services and APIs that facilitate and orchestrate the Leo AI Foundations - enabling intelligent software operation across Leo devices such as satellites, ground gateways, and customer terminals. You will design and deliver low-latency, highly scalable architectures that are critical to providing high-quality internet service, operational insights, and AI capabilities to customers.<br/><br/>About the team<br/>Our team will design, implement and operate the systems that direct the Kuiper network to optimize and manage throughput and quality of services. These systems include Low Earth Orbit satellites, customer terminals, gateways, Cloud services and terrestrial network infrastructure that connects into public and private networks.",
-    "department_cost_center": null,
-    "description_short": "Amazon Leo is Amazon\u2019s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual households to",
-    "display_distance": null,
-    "id": "77b89b59-7a51-4094-b819-342dfa6dac8e",
-    "id_icims": "10395119",
-    "is_intern": null,
-    "is_manager": null,
-    "job_category": "Software Development",
-    "job_family": "Software Development",
-    "job_function_id": null,
-    "job_path": "/en/jobs/10395119/software-development-engineer-kuiper-data-platform",
-    "job_schedule_type": "full-time",
-    "location": "US, WA, Redmond",
-    "locations": [
-      "{\"normalizedStateName\":\"Washington\",\"normalizedCountryCode\":\"USA\",\"city\":\"Redmond\",\"countryIso3a\":\"USA\",\"countryIso2a\":\"US\",\"locationNonStemming\":\"United States, WA, Redmond\",\"coordinates\":\"47.67858,-122.13158\",\"normalizedCountyName\":\"King\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United States\",\"normalizedLocation\":\"Redmond, Washington, USA\",\"location\":\"US, WA, Redmond\",\"region\":\"WA\",\"buildingCodeList\":[\"SEA114\"],\"normalizedCityName\":\"Redmond\"}"
-    ],
-    "normalized_location": "Redmond, Washington, USA",
-    "optional_search_labels": [
-      "alexa-and-amazon-devices.team-software-development-job-family",
-      "kuiper-sde"
-    ],
-    "posted_date": "April 17, 2026",
-    "preferred_qualifications": "- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience<br/>- Bachelor's degree or equivalent<br/><br/>Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br/><br/>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit <a href=\"https://amazon.jobs/content/en/how-we-hire/accommodations\">https://amazon.jobs/content/en/how-we-hire/accommodations</a> for more information. If the country/region you\u2019re applying in isn\u2019t listed, please contact your Recruiting Partner.<br/><br/><p><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://amazon.jobs/en/benefits\"><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">https://amazon.jobs/en/benefits</span></a><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">.</span></p><br/><br/>USA, WA, Redmond - 143,700.00 - 194,400.00 USD annually",
-    "primary_search_label": "alexa-and-amazon-devices.team-project-kuiper",
-    "source_system": "JobCreator",
-    "state": "WA",
-    "title": "Software Development Engineer, Kuiper Data Platform",
-    "university_job": null,
-    "updated_time": "1 day",
-    "url_next_step": "https://account.amazon.com/jobs/10395119/apply",
-    "team.id": null,
-    "team.business_category_id": null,
-    "team.identifier": null,
-    "team.label": "team-project-kuiper",
-    "team.created_at": null,
-    "team.updated_at": null,
-    "team.image_file_name": null,
-    "team.image_content_type": null,
-    "team.image_file_size": null,
-    "team.image_updated_at": null,
-    "team.thumbnail_file_name": null,
-    "team.thumbnail_content_type": null,
-    "team.thumbnail_file_size": null,
-    "team.thumbnail_updated_at": null,
-    "team.hide_jobs": null,
-    "team.title": null,
-    "team.headline": null,
-    "team.description": null
-  },
-  {
     "id": "R0835947-1",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-04-17T18:53:40.686432",
+    "posted_date": "2026-04-18T02:29:21.555264",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
-  },
-  {
-    "id": "210717226",
-    "title": "Senior Data Management Specialist (Data Engineer)",
-    "company": "JPMorgan Chase",
-    "location": "Metro Manila, National Capital Region, Philippines",
-    "posted_date": "2026-04-17T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717226",
-    "description_short": "Senior Data Management Specialist (Data Engineer)",
-    "source": "JPMorgan Chase"
   },
   {
     "basic_qualifications": "- 3+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with SQL",
@@ -157,7 +51,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "AI Platform Data Engineer, Ring Decision Science, Ring Decision Science",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/10395942/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -959,7 +853,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II,  Transportation Execution, Speed Team",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 11 hours",
     "url_next_step": "https://account.amazon.com/jobs/10402689/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -979,5 +873,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210737118",
+    "title": "Data Engineer II - AWS/PySpark/ETL",
+    "company": "JPMorgan Chase",
+    "location": "OH, United States",
+    "posted_date": "2026-04-24T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737118",
+    "description_short": "Data Engineer II - AWS/PySpark/ETL",
+    "source": "JPMorgan Chase"
   }
 ];
