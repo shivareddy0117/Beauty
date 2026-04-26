@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0835947-1",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "22 Locations",
-    "posted_date": "2026-04-18T02:29:21.555264",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "basic_qualifications": "- 3+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with SQL",
     "business_category": "alexa-and-amazon-devices",
     "city": "Hawthorne",
@@ -41,7 +31,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "AI Platform Data Engineer, Ring Decision Science, Ring Decision Science",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/10395942/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -390,7 +380,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, AWS Specialist and Partner Organization",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.com/jobs/10397978/apply",
     "team.id": null,
     "team.business_category_id": null,
