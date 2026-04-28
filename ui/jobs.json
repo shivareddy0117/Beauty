@@ -249,7 +249,7 @@
     "state": "CA",
     "title": "Data Engineer, Ring Agent Platforms",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.com/jobs/10398979/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -499,7 +499,7 @@
     "state": "VA",
     "title": "Data Engineer/Architect, WWPS ProServe Data and Machine Learning",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/10399985/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -555,7 +555,7 @@
     "state": "TX",
     "title": "Data Engineer, ORBIT (AMZL operational reporting and BI) ",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.com/jobs/10399979/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -639,7 +639,7 @@
     "state": "WA",
     "title": "Data Engineer II,  Transportation Execution, Speed Team",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.com/jobs/10402689/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -695,7 +695,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "39 Locations",
-    "posted_date": "2026-04-28T02:55:06.333968",
+    "posted_date": "2026-04-28T19:41:55.730150",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -719,5 +719,15 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738229",
     "description_short": "Lead Data Engineer - Mainframe DB2 DBA",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556619586",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-04-28T16:05:23",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556619586",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ]
