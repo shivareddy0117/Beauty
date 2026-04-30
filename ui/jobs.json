@@ -10,16 +10,6 @@
     "source": "JPMorgan Chase"
   },
   {
-    "id": "R0891167",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "TX - Irving",
-    "posted_date": "2026-04-22T18:53:40.280258",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0891167",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556860992",
     "title": "Data Engineer II",
     "company": "Microsoft",
@@ -291,7 +281,7 @@
     "title": "PySpark Data Engineer III - Python/Java/SQL",
     "company": "JPMorgan Chase",
     "location": "Boston, MA, United States",
-    "posted_date": "2026-04-29T00:00:00",
+    "posted_date": "2026-04-30T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742789",
     "description_short": "PySpark Data Engineer III - Python/Java/SQL",
     "source": "JPMorgan Chase"
@@ -328,7 +318,7 @@
     "state": "WA",
     "title": "Data Engineer II, ShipTech Analytics",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 2 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10407554/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -367,6 +357,26 @@
     "posted_date": "2026-04-29T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737013",
     "description_short": "Lead Software Engineer - Data Platform",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0896040-1",
+    "title": "Staff Data Engineer",
+    "company": "CVS Health",
+    "location": "49 Locations",
+    "posted_date": "2026-04-30T19:22:12.994751",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
+    "description_short": "Staff Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210736672",
+    "title": "Software Engineer III - Senior Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, United Kingdom",
+    "posted_date": "2026-04-30T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736672",
+    "description_short": "Software Engineer III - Senior Data Engineer",
     "source": "JPMorgan Chase"
   }
 ]
