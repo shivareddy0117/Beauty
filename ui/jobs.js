@@ -261,7 +261,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "AL - Work from home",
-    "posted_date": "2026-04-29T08:22:03.797143",
+    "posted_date": "2026-04-29T13:55:46.638006",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Work-from-home/Senior-Data-Engineer_R0890259",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -328,7 +328,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, ShipTech Analytics",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10407554/apply",
     "team.id": null,
     "team.business_category_id": null,
