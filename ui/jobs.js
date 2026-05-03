@@ -260,7 +260,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-04-30T08:01:26.546927",
+    "posted_date": "2026-04-30T13:11:08.491560",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -375,7 +375,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II , UTR Data Engineering",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10408987/apply",
     "team.id": null,
     "team.business_category_id": null,
