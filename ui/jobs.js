@@ -260,7 +260,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-04-30T19:00:01.987746",
+    "posted_date": "2026-05-01T02:52:55.968824",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
