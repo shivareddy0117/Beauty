@@ -214,7 +214,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, ShipTech Analytics",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10407554/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -260,7 +260,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-04-30T08:29:49.694826",
+    "posted_date": "2026-04-30T14:01:22.715442",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -438,7 +438,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Platform Engineer, Fauna",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10409226/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -458,5 +458,25 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "R0861003",
+    "title": "Associate Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Richardson",
+    "posted_date": "2026-05-04T14:01:22.350752",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
+    "description_short": "Associate Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210732843",
+    "title": "Data Engineer III - Scala , Spark , Databricks",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-05-04T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732843",
+    "description_short": "Data Engineer III - Scala , Spark , Databricks",
+    "source": "JPMorgan Chase"
   }
 ];
