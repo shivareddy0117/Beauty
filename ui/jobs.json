@@ -220,7 +220,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-05-01T02:44:51.580389",
+    "posted_date": "2026-04-30T08:10:03.029644",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -270,7 +270,7 @@
     "state": "WA",
     "title": "Sr. Data Engineer, Amazon PeopleInsights eXperience (APIX)",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10405619/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -296,7 +296,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "7 Locations",
-    "posted_date": "2026-05-05T02:44:50.736862",
+    "posted_date": "2026-05-04T08:10:02.007111",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer_R0860934",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -335,7 +335,7 @@
     "state": "WA",
     "title": "Data Engineer II , UTR Data Engineering",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10408987/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -424,7 +424,7 @@
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-05-05T02:44:50.736890",
+    "posted_date": "2026-05-04T08:10:02.007143",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -472,7 +472,7 @@
     "state": "WA",
     "title": "Data Engineer II, Professional Services Strategy & Operation, Analytics & Insights Center (PAIC)",
     "university_job": null,
-    "updated_time": "about 11 hours",
+    "updated_time": "about 17 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10409965/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -525,7 +525,7 @@
     "state": "WA",
     "title": "Data Engineer I, AWS WW Field Enablement, Analytics and Product Operations",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 11 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10410579/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -564,6 +564,16 @@
     "posted_date": "2026-05-04T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700683",
     "description_short": "Software Engineer III- Data Engineering",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210740065",
+    "title": "Software Engineer III - AWS Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-05-05T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740065",
+    "description_short": "Software Engineer III - AWS Data Engineer",
     "source": "JPMorgan Chase"
   }
 ]
