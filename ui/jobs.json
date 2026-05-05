@@ -1,20 +1,10 @@
 [
   {
-    "id": "210739543",
-    "title": "Data Engineer III Spark , python , data bricks",
-    "company": "JPMorgan Chase",
-    "location": "Bengaluru, Karnataka, India",
-    "posted_date": "2026-04-27T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739543",
-    "description_short": "Data Engineer III Spark , python , data bricks",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "R0835947-1",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "22 Locations",
-    "posted_date": "2026-04-28T02:55:06.333950",
+    "posted_date": "2026-05-05T02:44:50.736819",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -28,26 +18,6 @@
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
-  },
-  {
-    "id": "210739835",
-    "title": "Data Engineer III - Python / SQL",
-    "company": "JPMorgan Chase",
-    "location": "Plano, TX, United States",
-    "posted_date": "2026-04-27T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739835",
-    "description_short": "Data Engineer III - Python / SQL",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210738229",
-    "title": "Lead Data Engineer - Mainframe DB2 DBA",
-    "company": "JPMorgan Chase",
-    "location": "Plano, TX, United States",
-    "posted_date": "2026-04-27T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738229",
-    "description_short": "Lead Data Engineer - Mainframe DB2 DBA",
-    "source": "JPMorgan Chase"
   },
   {
     "id": "1970393556619586",
@@ -121,16 +91,6 @@
     "team.title": null,
     "team.headline": null,
     "team.description": null
-  },
-  {
-    "id": "210730332",
-    "title": "Data Management Senior Associate (Data Engineer)",
-    "company": "JPMorgan Chase",
-    "location": "Metro Manila, National Capital Region, Philippines",
-    "posted_date": "2026-04-27T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730332",
-    "description_short": "Data Management Senior Associate (Data Engineer)",
-    "source": "JPMorgan Chase"
   },
   {
     "id": "210739482",
@@ -260,7 +220,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-04-30T19:40:45.314989",
+    "posted_date": "2026-05-01T02:44:51.580389",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -336,7 +296,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "7 Locations",
-    "posted_date": "2026-05-04T19:40:44.959232",
+    "posted_date": "2026-05-05T02:44:50.736862",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer_R0860934",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -375,7 +335,7 @@
     "state": "WA",
     "title": "Data Engineer II , UTR Data Engineering",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "about 8 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10408987/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -464,7 +424,7 @@
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-05-04T19:40:44.959265",
+    "posted_date": "2026-05-05T02:44:50.736890",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -512,7 +472,7 @@
     "state": "WA",
     "title": "Data Engineer II, Professional Services Strategy & Operation, Analytics & Insights Center (PAIC)",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 11 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10409965/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -532,5 +492,78 @@
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "basic_qualifications": "- 2+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Bachelor's degree or above in a quantitative/technical field such as computer science, engineering, statistics<br/>- Knowledge of basics of designing and implementing a data schema like normalization, relational model vs dimensional model<br/>- Knowledge of software engineering best practices across the development life cycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations",
+    "business_category": "aws",
+    "city": "Seattle",
+    "company_name": "Amazon Web Services, Inc.",
+    "country_code": "USA",
+    "description": "AWS Worldwide Field Enablement (WWFE) is looking for a Data Engineer helping us evolving our data infrastructure to next phase of providing insights through AI based solutions. You'll create data solutions that will optimize existing workflows providing better insights. You will have access to entire AWS AI stack to create next generation data solutions for AI based productivity tools and automation. <br/><br/>AWS Global Sales drives adoption of the AWS cloud worldwide, enabling customers of all sizes to innovate and expand in the cloud. Our team empowers every customer to grow by providing tailored service, unmatched technology, and support. We dive deep to understand each customer's unique challenges, then craft innovative solutions that accelerate their success. This customer-first approach is how we built the world's most adopted cloud. Join us and help us grow.<br/><br/>Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating \u2014 that\u2019s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.<br/><br/><br/>Key job responsibilities<br/>- Design, build, and optimize logical data models and data pipelines for complex datasets<br/>- Own ongoing data quality and create self-service access to datasets for business intelligence, AI based tools and Model Context Protocols (MCP)<br/>- Improve metadata for better AI results<br/>- Collaborate with Program Managers, Technical Program Managers and other Data Engineers to design stable, performant data solutions<br/>- Write secure, stable, testable, and maintainable code with minimal defects<br/>- Apply appropriate data design approaches and make judicious trade-offs without over-engineering<br/>- Optimize resource usage including system hardware, data storage, query optimization, and AWS infrastructure<br/>- Participate actively in code reviews, design discussions, and team planning<br/>- Resolve root causes of complex problems and balance customer requirements with team needs<br/>- Stay current on distributed systems technologies (MapReduce, MPP architectures, NoSQL databases)<br/><br/>About the team<br/>About AWS<br/>Diverse Experiences<br/>AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn\u2019t followed a traditional path, or includes alternative experiences, don\u2019t let it stop you from applying. <br/> <br/>Why AWS?<br/>Amazon Web Services (AWS) is the world\u2019s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating \u2014 that\u2019s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.<br/> <br/>Inclusive Team Culture<br/>Here at AWS, it\u2019s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.<br/> <br/>Mentorship & Career Growth<br/>We\u2019re continuously raising our performance bar as we strive to become Earth\u2019s Best Employer. That\u2019s why you\u2019ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. <br/> <br/>Work/Life Balance<br/>We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there\u2019s nothing we can\u2019t achieve in the cloud. <br/><br/>AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector. The AWS Global Support team interacts with leading companies and believes that world-class support is critical to customer success. AWS Support also partners with a global list of customers that are building mission-critical applications on top of AWS services.",
+    "department_cost_center": null,
+    "description_short": "AWS Worldwide Field Enablement (WWFE) is looking for a Data Engineer helping us evolving our data infrastructure to next phase of providing insights through AI based solutions. You'll create data solutions",
+    "display_distance": null,
+    "id": "62f1d467-147f-4759-a26c-49ae908b4158",
+    "id_icims": "10410579",
+    "is_intern": null,
+    "is_manager": null,
+    "job_category": "Software Development",
+    "job_family": "Data Engineering",
+    "job_function_id": null,
+    "job_path": "/en/jobs/10410579/data-engineer-i-aws-ww-field-enablement-analytics-and-product-operations",
+    "job_schedule_type": "full-time",
+    "location": "US, WA, Seattle",
+    "locations": [
+      "{\"normalizedStateName\":\"Washington\",\"normalizedCountryCode\":\"USA\",\"city\":\"Seattle\",\"countryIso3a\":\"USA\",\"countryIso2a\":\"US\",\"locationNonStemming\":\"United States, WA, Seattle\",\"coordinates\":\"47.60357,-122.32945\",\"normalizedCountyName\":\"King\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United States\",\"normalizedLocation\":\"Seattle, Washington, USA\",\"location\":\"US, WA, Seattle\",\"region\":\"WA\",\"buildingCodeList\":[\"SEA81\"],\"normalizedCityName\":\"Seattle\"}"
+    ],
+    "normalized_location": "Seattle, Washington, USA",
+    "optional_search_labels": [],
+    "posted_date": "May  4, 2026",
+    "preferred_qualifications": "- Experience with big data technologies such as: Hadoop, Hive, Spark, EMR<br/>- Experience with any ETL tool like, Informatica, ODI, SSIS, BODI, Datastage, etc.<br/>- 4+ years of analyzing and interpreting data with Redshift, Oracle, NoSQL etc. experience<br/>- Knowledge of AWS Infrastructure<br/>- Knowledge of BI analytics, reporting or visualization tools like Tableau, AWS QuickSight, Cognos or other third-party tools<br/><br/>Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br/><br/>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit <a href=\"https://amazon.jobs/content/en/how-we-hire/accommodations\">https://amazon.jobs/content/en/how-we-hire/accommodations</a> for more information. If the country/region you\u2019re applying in isn\u2019t listed, please contact your Recruiting Partner.<br/><br/><p><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://amazon.jobs/en/benefits\"><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">https://amazon.jobs/en/benefits</span></a><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">.</span></p><br/><br/>USA, WA, Seattle - 101,300.00 - 160,000.00 USD annually",
+    "primary_search_label": "aws.team-sales-primary",
+    "source_system": "JobCreator",
+    "state": "WA",
+    "title": "Data Engineer I, AWS WW Field Enablement, Analytics and Product Operations",
+    "university_job": null,
+    "updated_time": "about 5 hours",
+    "url_next_step": "https://account.amazon.jobs/jobs/10410579/apply",
+    "team.id": null,
+    "team.business_category_id": null,
+    "team.identifier": null,
+    "team.label": "team-sales-primary",
+    "team.created_at": null,
+    "team.updated_at": null,
+    "team.image_file_name": null,
+    "team.image_content_type": null,
+    "team.image_file_size": null,
+    "team.image_updated_at": null,
+    "team.thumbnail_file_name": null,
+    "team.thumbnail_content_type": null,
+    "team.thumbnail_file_size": null,
+    "team.thumbnail_updated_at": null,
+    "team.hide_jobs": null,
+    "team.title": null,
+    "team.headline": null,
+    "team.description": null
+  },
+  {
+    "id": "210734582",
+    "title": "Data Engineer II - Alteryx/Tableau/Qlik Sense",
+    "company": "JPMorgan Chase",
+    "location": "Plano, TX, United States",
+    "posted_date": "2026-05-04T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734582",
+    "description_short": "Data Engineer II - Alteryx/Tableau/Qlik Sense",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210700683",
+    "title": "Software Engineer III- Data Engineering",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-05-04T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700683",
+    "description_short": "Software Engineer III- Data Engineering",
+    "source": "JPMorgan Chase"
   }
 ]
