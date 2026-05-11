@@ -531,7 +531,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, AIR DABI (Data Analytics and Business Intelligence)",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10411675/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -824,7 +824,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, Amazon Publisher Monetization, Analytics",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10414428/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -969,7 +969,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - AI and Analytics",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-05-08T09:39:18.420831",
+    "posted_date": "2026-05-08T14:51:47.862705",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Senior-Data-Engineer---AI-and-Analytics_R0906794",
     "description_short": "Senior Data Engineer - AI and Analytics",
     "source": "CVS Health"
@@ -979,7 +979,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - AI and Analytics",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-05-08T09:39:18.420839",
+    "posted_date": "2026-05-08T14:51:47.862712",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---AI-and-Analytics_R0906685-1",
     "description_short": "Data Engineer - AI and Analytics",
     "source": "CVS Health"
@@ -992,6 +992,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-05-08T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739957",
     "description_short": "Software Engineer III - AWS Glue / Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210737154",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-05-11T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737154",
+    "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
   }
 ];
