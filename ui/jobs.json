@@ -10,16 +10,6 @@
     "source": "CVS Health"
   },
   {
-    "id": "R0890911",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "NY - Amherst",
-    "posted_date": "2026-05-05T19:20:08.872469",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer_R0890911",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "210741893",
     "title": "AI/ML Lead Data Engineer - Automation/Image Processing",
     "company": "JPMorgan Chase",
@@ -183,7 +173,7 @@
     "state": "TX",
     "title": "Data Engineer II, Sales Planning and Compensation (SPC)",
     "university_job": null,
-    "updated_time": "about 16 hours",
+    "updated_time": "about 22 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10413709/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -246,7 +236,7 @@
     "state": "WA",
     "title": "Data Engineer II, NAST CX Tech",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "about 2 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10415042/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -368,7 +358,7 @@
     "state": "WA",
     "title": "Data Engineer, PXT Central Science",
     "university_job": null,
-    "updated_time": "about 24 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10415447/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -529,7 +519,7 @@
     "state": "WA",
     "title": "Data Engineer, Compensation, CPSA",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10414395/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -585,7 +575,7 @@
     "state": "VA",
     "title": "Senior Data Engineer/Architect, WWPS ProServe Data and Machine Learning",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10414814/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -621,7 +611,7 @@
     "title": "Senior Data Engineer - AI and Analytics",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-05-08T14:34:23.664031",
+    "posted_date": "2026-05-08T19:54:48.856766",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Senior-Data-Engineer---AI-and-Analytics_R0906794",
     "description_short": "Senior Data Engineer - AI and Analytics",
     "source": "CVS Health"
@@ -631,7 +621,7 @@
     "title": "Data Engineer - AI and Analytics",
     "company": "CVS Health",
     "location": "IL - Buffalo Grove",
-    "posted_date": "2026-05-08T14:34:23.664035",
+    "posted_date": "2026-05-08T19:54:48.856773",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer---AI-and-Analytics_R0906685-1",
     "description_short": "Data Engineer - AI and Analytics",
     "source": "CVS Health"
@@ -771,7 +761,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-05-11T14:34:23.663974",
+    "posted_date": "2026-05-11T19:54:48.387416",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -894,7 +884,7 @@
     "state": "CA",
     "title": "AI Data Engineer, Ring/Blink Customer Service Engineering and Insights",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10417500/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -940,7 +930,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "7 Locations",
-    "posted_date": "2026-05-13T14:34:22.324616",
+    "posted_date": "2026-05-13T19:54:47.954063",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Senior-Data-Engineer_R0860934",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -954,5 +944,15 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721867",
     "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0907559",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "NY - Work from hom",
+    "posted_date": "2026-05-13T19:54:47.954044",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer_R0907559",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
   }
 ]
