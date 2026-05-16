@@ -211,7 +211,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-05-15T13:22:35.191984",
+    "posted_date": "2026-05-15T19:04:57.658242",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -400,7 +400,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "NY - Work from hom",
-    "posted_date": "2026-05-13T13:22:35.577064",
+    "posted_date": "2026-05-13T19:04:58.096809",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer_R0907559",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -430,7 +430,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-05-14T13:22:35.577011",
+    "posted_date": "2026-05-14T19:04:58.096759",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -469,7 +469,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR), EMR EKS",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10420457/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -522,7 +522,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer",
     "university_job": null,
-    "updated_time": "about 24 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10420946/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -548,7 +548,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-05-15T13:22:35.191965",
+    "posted_date": "2026-05-15T19:04:57.658223",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
