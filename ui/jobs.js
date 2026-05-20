@@ -113,7 +113,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR), EMR EKS",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "about 5 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10420457/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -192,7 +192,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-05-16T03:35:38.594533",
+    "posted_date": "2026-05-15T09:34:21.529693",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Treehouse/Analytic-Data-Engineer_R0790701-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -282,7 +282,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Compensation, CPSA",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10422752/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -410,7 +410,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, SCOT OSS - Sourcing Execution & Performance",
     "university_job": null,
-    "updated_time": "about 6 hours",
+    "updated_time": "about 12 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10424552/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -430,5 +430,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210711812",
+    "title": "Data Analytics & Data Engineering Vice President",
+    "company": "JPMorgan Chase",
+    "location": "India",
+    "posted_date": "2026-05-20T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711812",
+    "description_short": "Data Analytics & Data Engineering Vice President",
+    "source": "JPMorgan Chase"
   }
 ];
