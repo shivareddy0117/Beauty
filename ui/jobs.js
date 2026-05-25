@@ -275,7 +275,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "MAC Automation & Analytics Engineer, Leo MAC",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10425021/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -328,7 +328,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "MAC Automation & Analytics Engineer, Leo MAC",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10425022/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -593,7 +593,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-05-21T19:17:21.788899",
+    "posted_date": "2026-05-22T03:51:14.932369",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920565",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -768,7 +768,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-05-21T19:17:21.788875",
+    "posted_date": "2026-05-22T03:51:14.932345",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Farmers-Branch-4055-Valley-Vw-Ln/Staff-Data-Engineer_R0918897",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -778,7 +778,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "2 Locations",
-    "posted_date": "2026-05-21T19:17:21.788879",
+    "posted_date": "2026-05-22T03:51:14.932350",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920552",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -788,7 +788,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-05-21T19:17:21.788883",
+    "posted_date": "2026-05-22T03:51:14.932354",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
