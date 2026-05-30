@@ -1,45 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0920565",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "5 Locations",
-    "posted_date": "2026-05-22T03:51:10.078962",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920565",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0918897",
-    "title": "Staff Data Engineer",
-    "company": "CVS Health",
-    "location": "50 Locations",
-    "posted_date": "2026-05-22T03:37:04.800180",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Farmers-Branch-4055-Valley-Vw-Ln/Staff-Data-Engineer_R0918897",
-    "description_short": "Staff Data Engineer",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0920552",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "2 Locations",
-    "posted_date": "2026-05-22T03:51:10.078951",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920552",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R0918733",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "5 Locations",
-    "posted_date": "2026-05-22T03:51:10.078955",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "210751058",
     "title": "Software Engineer III - Postgres, ETL, Python, AWS",
     "company": "JPMorgan Chase",
@@ -90,7 +50,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Deal Intelligence & Automation, AWS GDSP",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10430551/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -613,7 +573,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Software Development Engineer,  Data Platform, Prime Video Personalization & Discovery",
     "university_job": null,
-    "updated_time": "about 16 hours",
+    "updated_time": "about 21 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10434159/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -643,5 +603,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0781016-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "1970393556866255",
+    "title": "Solution Engineer - Cloud & AI Data Platform",
+    "company": "Microsoft",
+    "location": "United States, Multiple Locations, Multiple Locations",
+    "posted_date": "2026-05-30T05:00:00",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556866255",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
