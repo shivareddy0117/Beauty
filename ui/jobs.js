@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-05-28T03:37:21.375924",
+    "posted_date": "2026-06-04T20:05:40.110122",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -662,7 +662,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer, Amazon Ads",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10439144/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -688,7 +688,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T15:14:57.244671",
+    "posted_date": "2026-06-03T20:05:40.110157",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -698,7 +698,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T15:14:57.244674",
+    "posted_date": "2026-06-03T20:05:40.491708",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -747,7 +747,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Sr. Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 19 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10439451/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -823,7 +823,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer, Prime Video Global Brand & Marketing Insights",
     "university_job": null,
-    "updated_time": "about 2 hours",
+    "updated_time": "about 6 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10439765/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -843,5 +843,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "R0920565",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "5 Locations",
+    "posted_date": "2026-06-04T20:05:40.110118",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920565",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
   }
 ];
