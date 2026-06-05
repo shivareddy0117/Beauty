@@ -4,20 +4,10 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-06-04T14:51:18.880378",
+    "posted_date": "2026-06-04T19:55:11.069106",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
-  },
-  {
-    "id": "1970393556868981",
-    "title": "Data Engineer II",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-05-28T18:44:22",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556868981",
-    "description_short": "...",
-    "source": "Microsoft"
   },
   {
     "basic_qualifications": "- 3+ years of non-internship professional software development experience<br/>- 3+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience<br/>- 3+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience<br/>- 3+ years of programming using a modern programming language such as Java, C++, or C#, including object-oriented design experience<br/>- 3+ years of big data technologies such as AWS, Hadoop, Spark, Pig, Hive, Lucene/SOLR or Storm/Samza experience",
@@ -129,7 +119,7 @@
     "state": "WA",
     "title": "Data Engineer II, PPE Product Intelligence",
     "university_job": null,
-    "updated_time": "about 15 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10435665/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -556,7 +546,7 @@
     "state": "NY",
     "title": "Data Engineer, Amazon Ads",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "about 4 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10439144/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -582,7 +572,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T14:51:19.242204",
+    "posted_date": "2026-06-03T19:55:11.393097",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -592,7 +582,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T14:51:19.242208",
+    "posted_date": "2026-06-03T19:55:11.393101",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -641,7 +631,7 @@
     "state": "WA",
     "title": "Sr. Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10439451/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -743,7 +733,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-04T14:51:18.880373",
+    "posted_date": "2026-06-04T19:55:11.069103",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920565",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -780,7 +770,7 @@
     "state": "CA",
     "title": "Member of Technical Staff - Data Platform Engineer, Frontier AI Robotics",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10440315/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -830,5 +820,15 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755867",
     "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0861003",
+    "title": "Associate Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Richardson",
+    "posted_date": "2026-06-05T19:55:11.069016",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
+    "description_short": "Associate Data Engineer",
+    "source": "CVS Health"
   }
 ]
