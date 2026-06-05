@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-06-04T09:50:42.381828",
+    "posted_date": "2026-06-04T14:51:18.880378",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -129,7 +129,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, PPE Product Intelligence",
     "university_job": null,
-    "updated_time": "about 10 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10435665/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -556,7 +556,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer, Amazon Ads",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10439144/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -582,7 +582,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T09:50:42.797306",
+    "posted_date": "2026-06-03T14:51:19.242204",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -592,7 +592,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T09:50:42.797313",
+    "posted_date": "2026-06-03T14:51:19.242208",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -743,7 +743,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-04T09:50:42.381825",
+    "posted_date": "2026-06-04T14:51:18.880373",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920565",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -780,7 +780,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Member of Technical Staff - Data Platform Engineer, Frontier AI Robotics",
     "university_job": null,
-    "updated_time": "about 13 hours",
+    "updated_time": "about 18 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10440315/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -819,6 +819,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-06-05T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751058",
     "description_short": "Software Engineer III \u2013 Data Engineering (PostgreSQL, Python, AWS)",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210755867",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "posted_date": "2026-06-05T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755867",
+    "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
   }
 ];
