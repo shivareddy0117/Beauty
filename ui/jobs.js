@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-06-04T13:52:37.248468",
+    "posted_date": "2026-06-04T19:22:26.851051",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -494,7 +494,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T13:52:37.567547",
+    "posted_date": "2026-06-03T19:22:27.367306",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -504,7 +504,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-06-03T13:52:37.567551",
+    "posted_date": "2026-06-03T19:22:27.367310",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -655,7 +655,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-04T13:52:37.248465",
+    "posted_date": "2026-06-04T19:22:26.851040",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920565",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -748,7 +748,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-06-05T13:52:37.248373",
+    "posted_date": "2026-06-05T19:22:26.850899",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -785,7 +785,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer, Amazon Customer Service",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10441355/apply",
     "team.id": null,
     "team.business_category_id": null,
