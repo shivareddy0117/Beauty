@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-06-04T16:01:14.724577",
+    "posted_date": "2026-06-04T20:22:15.447291",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -213,7 +213,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Member of Technical Staff - Data Platform Engineer, Frontier AI Robotics",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "about 24 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10440315/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -269,7 +269,7 @@ window.JOBS_DATA = [
     "title": "Associate Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-06-05T16:01:14.724539",
+    "posted_date": "2026-06-05T20:22:15.005032",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
     "description_short": "Associate Data Engineer",
     "source": "CVS Health"
@@ -332,7 +332,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (Requiring GCP)",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-08T16:01:14.724522",
+    "posted_date": "2026-06-08T20:22:15.005017",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer--Requiring-GCP-_R0907366-1",
     "description_short": "Senior Data Engineer (Requiring GCP)",
     "source": "CVS Health"
@@ -395,7 +395,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-08T16:01:14.724498",
+    "posted_date": "2026-06-08T20:22:15.005002",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -460,7 +460,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-09T16:01:14.359178",
+    "posted_date": "2026-06-09T20:22:14.724988",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-New-York/Data-Engineer_R0929092",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -586,7 +586,7 @@ window.JOBS_DATA = [
     "title": "Senior Software Development/Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-06-10T16:01:13.670409",
+    "posted_date": "2026-06-10T20:22:14.724853",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Data-Engineer_R0936460",
     "description_short": "Senior Software Development/Data Engineer",
     "source": "CVS Health"
@@ -623,7 +623,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
     "university_job": null,
-    "updated_time": "about 22 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10445126/apply",
     "team.id": null,
     "team.business_category_id": null,
