@@ -101,7 +101,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer, Amazon Customer Service",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 16 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10441355/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -127,7 +127,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (Requiring GCP)",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-08T10:13:15.963663",
+    "posted_date": "2026-06-08T14:58:50.454820",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer--Requiring-GCP-_R0907366-1",
     "description_short": "Senior Data Engineer (Requiring GCP)",
     "source": "CVS Health"
@@ -190,7 +190,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-08T10:13:15.963648",
+    "posted_date": "2026-06-08T14:58:50.454805",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -255,7 +255,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-09T10:13:15.473508",
+    "posted_date": "2026-06-09T14:58:50.170258",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-New-York/Data-Engineer_R0929092",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -381,7 +381,7 @@ window.JOBS_DATA = [
     "title": "Senior Software Development/Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-06-10T10:13:15.473473",
+    "posted_date": "2026-06-10T14:58:50.170223",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Data-Engineer_R0936460",
     "description_short": "Senior Software Development/Data Engineer",
     "source": "CVS Health"
@@ -418,7 +418,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10445126/apply",
     "team.id": null,
     "team.business_category_id": null,
