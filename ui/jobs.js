@@ -10,21 +10,11 @@ window.JOBS_DATA = [
     "source": "JPMorgan Chase"
   },
   {
-    "id": "R0861003",
-    "title": "Associate Data Engineer",
-    "company": "CVS Health",
-    "location": "TX - Richardson",
-    "posted_date": "2026-06-06T03:58:46.552590",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003",
-    "description_short": "Associate Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0907366-1",
     "title": "Senior Data Engineer (Requiring GCP)",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-08T19:25:22.656141",
+    "posted_date": "2026-06-09T04:05:20.599503",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer--Requiring-GCP-_R0907366-1",
     "description_short": "Senior Data Engineer (Requiring GCP)",
     "source": "CVS Health"
@@ -87,7 +77,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-08T19:25:22.198125",
+    "posted_date": "2026-06-09T04:05:20.299185",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -152,7 +142,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-09T19:25:22.198067",
+    "posted_date": "2026-06-10T04:05:20.299129",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-New-York/Data-Engineer_R0929092",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -193,7 +183,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Partner Experience",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10444729/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -490,7 +480,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-12T19:25:21.323263",
+    "posted_date": "2026-06-13T04:05:19.759988",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
