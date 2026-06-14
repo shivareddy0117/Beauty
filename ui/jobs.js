@@ -14,7 +14,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer (Requiring GCP)",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-08T14:03:00.596084",
+    "posted_date": "2026-06-08T19:26:26.472788",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer--Requiring-GCP-_R0907366-1",
     "description_short": "Senior Data Engineer (Requiring GCP)",
     "source": "CVS Health"
@@ -77,7 +77,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-08T14:03:00.596069",
+    "posted_date": "2026-06-08T19:26:26.472773",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Texas/Staff-Data-Engineer_R0896040-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -142,7 +142,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-06-09T14:03:00.596013",
+    "posted_date": "2026-06-09T19:26:26.472716",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-New-York/Data-Engineer_R0929092",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -480,7 +480,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-06-12T14:02:59.868342",
+    "posted_date": "2026-06-12T19:26:25.484954",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
