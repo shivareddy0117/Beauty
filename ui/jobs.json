@@ -1,15 +1,5 @@
 [
   {
-    "id": "R0929092",
-    "title": "Data Engineer",
-    "company": "CVS Health",
-    "location": "49 Locations",
-    "posted_date": "2026-06-10T04:08:26.275002",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-New-York/Data-Engineer_R0929092",
-    "description_short": "Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0936460",
     "title": "Senior Software Development/Data Engineer",
     "company": "CVS Health",
@@ -211,7 +201,7 @@
     "state": "WA",
     "title": "Data Engineer, Prime Video - GSS Planning & Strategy",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10449267/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -264,7 +254,7 @@
     "state": "WA",
     "title": "Data Engineer II, QuBIT",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10449062/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -318,7 +308,7 @@
     "state": "AZ",
     "title": "Data Engineer I, AMXL Post Slam, Regional Support ",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10449342/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -344,7 +334,7 @@
     "title": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-06-16T03:59:37.173012",
+    "posted_date": "2026-06-15T10:20:22.531645",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Cloud-Data-Engineer---SQL---Python---ETL--Cloud--_R0857894",
     "description_short": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
     "source": "CVS Health"
@@ -383,7 +373,7 @@
     "state": "WA",
     "title": "Data Engineer, Decision Intelligence Technology",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10449497/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -436,7 +426,7 @@
     "state": "WA",
     "title": "Data Engineer II, Amazon Manufacturing Services (AMS)",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10449431/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -489,7 +479,7 @@
     "state": "WA",
     "title": "Data Engineer II, Amazon Manufacturing Services (AMS)",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10449430/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -578,7 +568,7 @@
     "title": "Data Engineer III",
     "company": "JPMorgan Chase",
     "location": "LONDON, United Kingdom",
-    "posted_date": "2026-06-16T00:00:00",
+    "posted_date": "2026-06-18T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735003",
     "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
@@ -665,7 +655,7 @@
     "state": "WA",
     "title": "Senior Data Engineer , Amazon Customer Service",
     "university_job": null,
-    "updated_time": "about 6 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10452121/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -691,7 +681,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-06-18T03:59:37.172862",
+    "posted_date": "2026-06-17T10:20:22.531489",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -704,6 +694,16 @@
     "posted_date": "2026-06-17T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760913",
     "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210735001",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, United Kingdom",
+    "posted_date": "2026-06-18T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735001",
+    "description_short": "Lead Data Engineer",
     "source": "JPMorgan Chase"
   }
 ]
