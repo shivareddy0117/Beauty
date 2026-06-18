@@ -1,15 +1,5 @@
 [
   {
-    "id": "R0936460",
-    "title": "Senior Software Development/Data Engineer",
-    "company": "CVS Health",
-    "location": "CT - Hartford",
-    "posted_date": "2026-06-10T20:10:58.231848",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Software-Development-Data-Engineer_R0936460",
-    "description_short": "Senior Software Development/Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "210748549",
     "title": "Sr Lead Data Engineer",
     "company": "JPMorgan Chase",
@@ -334,7 +324,7 @@
     "title": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-06-15T15:24:07.856679",
+    "posted_date": "2026-06-15T20:26:00.619549",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Cloud-Data-Engineer---SQL---Python---ETL--Cloud--_R0857894",
     "description_short": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
     "source": "CVS Health"
@@ -542,7 +532,7 @@
     "state": "WA",
     "title": "Data Engineer, WW Ops Finance S&A ",
     "university_job": null,
-    "updated_time": "9 minutes",
+    "updated_time": "about 5 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10449789/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -655,7 +645,7 @@
     "state": "WA",
     "title": "Senior Data Engineer , Amazon Customer Service",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10452121/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -681,7 +671,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-06-17T15:24:07.372864",
+    "posted_date": "2026-06-17T20:26:00.619398",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -715,5 +705,25 @@
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736991",
     "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R0941316",
+    "title": "Senior Analytics Engineer",
+    "company": "CVS Health",
+    "location": "TX - Irving",
+    "posted_date": "2026-06-18T20:26:00.176915",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Analytics-Engineer_R0941316",
+    "description_short": "Senior Analytics Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0835944-1",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "3 Locations",
+    "posted_date": "2026-06-18T20:26:00.176948",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
   }
 ]
