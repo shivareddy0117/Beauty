@@ -1,45 +1,5 @@
 [
   {
-    "id": "210748549",
-    "title": "Sr Lead Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "Bengaluru, Karnataka, India",
-    "posted_date": "2026-06-11T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748549",
-    "description_short": "Sr Lead Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210737013",
-    "title": "Lead Software Engineer - Data Platform",
-    "company": "JPMorgan Chase",
-    "location": "Jersey City, NJ, United States",
-    "posted_date": "2026-06-11T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737013",
-    "description_short": "Lead Software Engineer - Data Platform",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210756017",
-    "title": "Software Engineer III: Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "New York, NY, United States",
-    "posted_date": "2026-06-11T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756017",
-    "description_short": "Software Engineer III: Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210758261",
-    "title": "Software Engineer II: Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "New York, NY, United States",
-    "posted_date": "2026-06-11T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758261",
-    "description_short": "Software Engineer II: Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
     "basic_qualifications": "- 5+ years of data engineering experience<br/>- 3+ years of developing and operating large-scale data structures for business intelligence analytics using ETL/ELT processes experience<br/>- 3+ years of developing and operating large-scale data structures for business intelligence analytics using OLAP technologies experience<br/>- 3+ years of developing and operating large-scale data structures for business intelligence analytics using data modeling experience<br/>- 3+ years of developing and operating large-scale data structures for business intelligence analytics using SQL experience<br/>- 3+ years of developing and operating large-scale data structures for business intelligence analytics using Oracle experience<br/>- Experience with data modeling, warehousing and building ETL pipelines",
     "business_category": "aws",
     "city": "Seattle",
@@ -134,7 +94,7 @@
     "state": "WA",
     "title": "Software Development Engineer II, AWS Data Platform",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10448904/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -324,7 +284,7 @@
     "title": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-06-15T20:26:00.619549",
+    "posted_date": "2026-06-16T04:18:57.962988",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Cloud-Data-Engineer---SQL---Python---ETL--Cloud--_R0857894",
     "description_short": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
     "source": "CVS Health"
@@ -532,7 +492,7 @@
     "state": "WA",
     "title": "Data Engineer, WW Ops Finance S&A ",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10449789/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -645,7 +605,7 @@
     "state": "WA",
     "title": "Senior Data Engineer , Amazon Customer Service",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10452121/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -671,7 +631,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "PA - Work from home",
-    "posted_date": "2026-06-17T20:26:00.619398",
+    "posted_date": "2026-06-18T04:18:57.962852",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -711,7 +671,7 @@
     "title": "Senior Analytics Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-18T20:26:00.176915",
+    "posted_date": "2026-06-19T04:18:57.516222",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Analytics-Engineer_R0941316",
     "description_short": "Senior Analytics Engineer",
     "source": "CVS Health"
@@ -725,5 +685,25 @@
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "1970393556875947",
+    "title": "Data Engineer II",
+    "company": "Microsoft",
+    "location": "United States, Multiple Locations, Multiple Locations",
+    "posted_date": "2026-06-18T23:42:09",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556875947",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "210736692",
+    "title": "Lead Software Engineer - Java/Python - Risk Data Platform & Strategy",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-06-18T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736692",
+    "description_short": "Lead Software Engineer - Java/Python - Risk Data Platform & Strategy",
+    "source": "JPMorgan Chase"
   }
 ]
