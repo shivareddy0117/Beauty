@@ -522,7 +522,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-23T03:34:53.697653",
+    "posted_date": "2026-06-22T09:38:21.300923",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942501",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -532,7 +532,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:53.697657",
+    "posted_date": "2026-06-22T09:38:21.300947",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942505",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -542,7 +542,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "MA - Wellesley",
-    "posted_date": "2026-06-23T03:34:54.488561",
+    "posted_date": "2026-06-22T09:38:23.443413",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Staff-Data-Engineer_R0942520",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -552,7 +552,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-23T03:34:54.875691",
+    "posted_date": "2026-06-22T09:38:23.915655",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942384",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -562,7 +562,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "MA - Wellesley",
-    "posted_date": "2026-06-23T03:34:54.875694",
+    "posted_date": "2026-06-22T09:38:23.915657",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0942398",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -572,7 +572,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-23T03:34:54.875697",
+    "posted_date": "2026-06-22T09:38:23.915659",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942401",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -582,7 +582,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.875699",
+    "posted_date": "2026-06-22T09:38:23.915661",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942412",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -592,7 +592,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "MA - Wellesley",
-    "posted_date": "2026-06-23T03:34:54.875702",
+    "posted_date": "2026-06-22T09:38:23.915663",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0942419",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -602,7 +602,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-23T03:34:54.875705",
+    "posted_date": "2026-06-22T09:38:23.915665",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942420",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -612,7 +612,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:53.697632",
+    "posted_date": "2026-06-22T09:38:21.300904",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942442",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -622,7 +622,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:53.697634",
+    "posted_date": "2026-06-22T09:38:21.300906",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942446",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -632,7 +632,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-23T03:34:53.697637",
+    "posted_date": "2026-06-22T09:38:21.300909",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942447",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -642,7 +642,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-06-23T03:34:53.697639",
+    "posted_date": "2026-06-22T09:38:21.300911",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0942490",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -652,7 +652,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-23T03:34:53.697642",
+    "posted_date": "2026-06-22T09:38:21.300913",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942491",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -662,7 +662,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-23T03:34:53.697649",
+    "posted_date": "2026-06-22T09:38:21.300919",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942493",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -692,7 +692,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.107730",
+    "posted_date": "2026-06-22T09:38:23.132957",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942450",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -702,7 +702,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.107733",
+    "posted_date": "2026-06-22T09:38:23.132959",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942454",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -712,7 +712,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.107736",
+    "posted_date": "2026-06-22T09:38:23.132962",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942455",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -722,7 +722,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.107739",
+    "posted_date": "2026-06-22T09:38:23.132964",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942462",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -732,7 +732,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.107741",
+    "posted_date": "2026-06-22T09:38:23.132966",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942468",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -742,7 +742,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "Chicago-525 West Monroe",
-    "posted_date": "2026-06-23T03:34:54.107746",
+    "posted_date": "2026-06-22T09:38:23.132970",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Chicago-525-West-Monroe/Sr-Data-Engineer_R0942488",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -752,7 +752,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "NC - High Point",
-    "posted_date": "2026-06-23T03:34:54.107749",
+    "posted_date": "2026-06-22T09:38:23.132972",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---High-Point/Sr-Data-Engineer_R0942495",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -878,7 +878,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Amazon Prime Video Product Analytics",
     "university_job": null,
-    "updated_time": "about 10 hours",
+    "updated_time": "about 16 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10455291/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -913,8 +913,8 @@ window.JOBS_DATA = [
     "id": "210760671",
     "title": "Sr. Lead Data Engineer",
     "company": "JPMorgan Chase",
-    "location": "LONDON, United Kingdom",
-    "posted_date": "2026-06-22T00:00:00",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-06-23T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760671",
     "description_short": "Sr. Lead Data Engineer",
     "source": "JPMorgan Chase"
@@ -924,7 +924,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.488555",
+    "posted_date": "2026-06-22T09:38:23.443408",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Staff-Data-Engineer_R0942460",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -934,7 +934,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.488558",
+    "posted_date": "2026-06-22T09:38:23.443411",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Staff-Data-Engineer_R0942481",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -944,7 +944,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-23T03:34:54.875683",
+    "posted_date": "2026-06-22T09:38:23.915649",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942311",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -954,7 +954,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-23T03:34:54.875686",
+    "posted_date": "2026-06-22T09:38:23.915651",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942328",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -964,7 +964,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-23T03:34:54.875689",
+    "posted_date": "2026-06-22T09:38:23.915653",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942350",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -974,7 +974,7 @@ window.JOBS_DATA = [
     "title": "Principal Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-06-23T03:34:55.195010",
+    "posted_date": "2026-06-22T09:38:24.235023",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Principal-Data-Engineer_R0942352",
     "description_short": "Principal Data Engineer",
     "source": "CVS Health"
