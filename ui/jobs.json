@@ -10,59 +10,6 @@
     "source": "Microsoft"
   },
   {
-    "basic_qualifications": "- 3+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Bachelor's degree<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Knowledge of distributed systems as it pertains to data storage and computing",
-    "business_category": "finance",
-    "city": "Bellevue",
-    "company_name": "Amazon.com Services LLC",
-    "country_code": "USA",
-    "description": "Are you passionate about standardizing data platforms and automating data engineering to drive analytics and reporting? Do you excel in dynamic, fast-paced environments and find joy in converting data into actionable insights? Are you adept at implementing data governance practices and defining data access and quality standards? If you thrive in innovation and can deliver scalable Data Engineering Solutions, then the Worldwide Operations Finance Standardization & Automation (S&A) team has an exciting opportunity for you! We are seeking a customer-centric Data Engineer to establish a reliable and accessible data platform, ensuring Operations Finance customers have complete trust in the data, technology, and tools to make data-driven business decisions. We are looking for a top-notch Data Engineer to be part of our Global Data Delivery organization, working with one of the world's largest and most complex data warehouse environments.<br/><br/>As a Data Engineer in WW Ops S&A, you will design, implement and support scalable data infrastructure solutions and implement complex data models for Amazon Customer Fulfillment business. You will create solutions to integrate with multi heterogeneous data sources, aggregate and retrieve data in a fast and safe mode, curate data that can be used in reporting, analysis, GenAI models and ad-hoc data requests. You should have excellent business and communication skills to be able to work with business owners, Finance and Product teams along with tech leaders to gather infrastructure requirements, design data infrastructure, build up data pipelines and data-sets to meet business needs. You will be responsible for developing and operating a data service platform using Python, Airflow, and SQL to build various ETL, analytics, and data quality components. You'll automate deployments using AWS CodeDeploy, AWS CodePipeline, AWS Cloud Development Kit (CDK), and AWS Cloud Formation. You will work with AWS services like Redshift, Glue, S3, IAM, CloudWatch, and more. Strong experience in Data Warehouse and Business Intelligence application development, expert knowledge in SQL query optimization, and experience with programming languages such as Scala/Python are essential for this role.<br/><br/><br/>Key job responsibilities<br/>\u2022 Design, build, and maintain complex data solutions and ETL pipelines using Python, Spark, SQL, and AWS services (S3, Glue, Redshift, MWAA, EMR, Lambda)<br/><br/>\u2022 Develop high-quality data architecture and scalable pipelines to support customer reporting needs, while implementing and supporting analytics infrastructure for internal Finance customers<br/><br/>\u2022 Interface with technology teams to extract, transform, and load data from various sources, ensuring data quality and making appropriate trade-offs in design decisions<br/><br/>\u2022 Collaborate with business users, developers, and BI Engineers to deliver on data architecture projects and next-generation financial solutions<br/><br/>\u2022 Actively participate in code reviews, design discussions, and team planning, while continually improving reporting processes and automating self-service support<br/><br/>\u2022 Identify and implement process improvements to drive innovation, scale existing solutions, and create new ones based on stakeholder needs<br/><br/>\u2022 Diagnose and resolve operational issues through detailed root cause analysis, maintaining high standards of system availability and reliability<br/><br/><br/>About the team<br/>The Operations finance data ecosystem supports global data management solutions inclusive of the scaling solutions to support 10+ data producer teams and 2500 finance customers. The role will work with BIE/DE teams across the organization, identifying critical customer pain points and help design , implement and drive customer's data journey. In the age of AI capabilities, the role will identify newer mechanisms to help incorporate AI driven workflows both for our builder and customer communities. ",
-    "department_cost_center": null,
-    "description_short": "Are you passionate about standardizing data platforms and automating data engineering to drive analytics and reporting? Do you excel in dynamic, fast-paced environments and find joy in converting data",
-    "display_distance": null,
-    "id": "445ce9bb-c754-4bd0-af9a-a13ce08fe48d",
-    "id_icims": "10449789",
-    "is_intern": null,
-    "is_manager": null,
-    "job_category": "Data Science",
-    "job_family": "Data Engineering",
-    "job_function_id": null,
-    "job_path": "/en/jobs/10449789/data-engineer-ww-ops-finance-s-a",
-    "job_schedule_type": "full-time",
-    "location": "US, WA, Bellevue",
-    "locations": [
-      "{\"normalizedStateName\":\"Washington\",\"normalizedCountryCode\":\"USA\",\"city\":\"Bellevue\",\"countryIso3a\":\"USA\",\"countryIso2a\":\"US\",\"locationNonStemming\":\"United States, WA, Bellevue\",\"coordinates\":\"47.61001,-122.1872\",\"normalizedCountyName\":\"King\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United States\",\"normalizedLocation\":\"Bellevue, Washington, USA\",\"location\":\"US, WA, Bellevue\",\"region\":\"WA\",\"buildingCodeList\":[\"SEA104\"],\"normalizedCityName\":\"Bellevue\"}"
-    ],
-    "normalized_location": "Bellevue, Washington, USA",
-    "optional_search_labels": [],
-    "posted_date": "June 16, 2026",
-    "preferred_qualifications": "- Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions<br/>- Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)<br/>- Experience building large-scale, high-throughput, 24x7 data systems<br/><br/>Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br/><br/>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit <a href=\"https://amazon.jobs/content/en/how-we-hire/accommodations\">https://amazon.jobs/content/en/how-we-hire/accommodations</a> for more information. If the country/region you\u2019re applying in isn\u2019t listed, please contact your Recruiting Partner.<br/><br/><p><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://amazon.jobs/en/benefits\"><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">https://amazon.jobs/en/benefits</span></a><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">.</span></p><br/><br/>USA, WA, Bellevue - 132,100.00 - 178,800.00 USD annually",
-    "primary_search_label": "finance.team-consumer",
-    "source_system": "JobCreator",
-    "state": "WA",
-    "title": "Data Engineer, WW Ops Finance S&A ",
-    "university_job": null,
-    "updated_time": "5 days",
-    "url_next_step": "https://account.amazon.jobs/jobs/10449789/apply",
-    "team.id": null,
-    "team.business_category_id": null,
-    "team.identifier": null,
-    "team.label": "team-consumer",
-    "team.created_at": null,
-    "team.updated_at": null,
-    "team.image_file_name": null,
-    "team.image_content_type": null,
-    "team.image_file_size": null,
-    "team.image_updated_at": null,
-    "team.thumbnail_file_name": null,
-    "team.thumbnail_content_type": null,
-    "team.thumbnail_file_size": null,
-    "team.thumbnail_updated_at": null,
-    "team.hide_jobs": null,
-    "team.title": null,
-    "team.headline": null,
-    "team.description": null
-  },
-  {
     "id": "210735003",
     "title": "Data Engineer III",
     "company": "JPMorgan Chase",
@@ -70,26 +17,6 @@
     "posted_date": "2026-06-18T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735003",
     "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210721226",
-    "title": "Data Engineer III - Python, Databricks - Senior Associate",
-    "company": "JPMorgan Chase",
-    "location": "LONDON, LONDON, United Kingdom",
-    "posted_date": "2026-06-16T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721226",
-    "description_short": "Data Engineer III - Python, Databricks - Senior Associate",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210721240",
-    "title": "Lead Data Engineer - Python, SQL - Team Lead - Vice President",
-    "company": "JPMorgan Chase",
-    "location": "LONDON, LONDON, United Kingdom",
-    "posted_date": "2026-06-16T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721240",
-    "description_short": "Lead Data Engineer - Python, SQL - Team Lead - Vice President",
     "source": "JPMorgan Chase"
   },
   {
@@ -287,7 +214,7 @@
     "state": "WA",
     "title": "Data Engineer II, IAM and Abuse Prevention",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10453654/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -344,7 +271,7 @@
     "state": "WA",
     "title": "Senior Data Engineer, PV Prime Video TV-Tech",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10453868/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -401,7 +328,7 @@
     "state": "WA",
     "title": "Data Engineer, PV Prime Video TV - Tech",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10453867/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -512,7 +439,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-22T20:05:20.112176",
+    "posted_date": "2026-06-23T03:35:22.958466",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942501",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -522,7 +449,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.112178",
+    "posted_date": "2026-06-23T03:35:22.958468",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942505",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -532,7 +459,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "MA - Wellesley",
-    "posted_date": "2026-06-22T20:05:20.711474",
+    "posted_date": "2026-06-23T03:35:24.254942",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Staff-Data-Engineer_R0942520",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -542,7 +469,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-22T20:05:20.990467",
+    "posted_date": "2026-06-23T03:35:24.254984",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942384",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -552,7 +479,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "MA - Wellesley",
-    "posted_date": "2026-06-22T20:05:20.990469",
+    "posted_date": "2026-06-23T03:35:24.254987",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0942398",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -562,7 +489,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-22T20:05:20.990472",
+    "posted_date": "2026-06-23T03:35:24.254991",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942401",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -572,7 +499,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.990476",
+    "posted_date": "2026-06-23T03:35:24.254993",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942412",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -582,7 +509,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "MA - Wellesley",
-    "posted_date": "2026-06-22T20:05:20.990478",
+    "posted_date": "2026-06-23T03:35:24.254996",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0942419",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -592,7 +519,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-22T20:05:20.990481",
+    "posted_date": "2026-06-23T03:35:24.254999",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942420",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -602,7 +529,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.112142",
+    "posted_date": "2026-06-23T03:35:22.958450",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942442",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -612,7 +539,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.112160",
+    "posted_date": "2026-06-23T03:35:22.958453",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942446",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -622,7 +549,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-22T20:05:20.112164",
+    "posted_date": "2026-06-23T03:35:22.958455",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942447",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -632,7 +559,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-06-22T20:05:20.112167",
+    "posted_date": "2026-06-23T03:35:22.958458",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0942490",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -642,7 +569,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-22T20:05:20.112170",
+    "posted_date": "2026-06-23T03:35:22.958460",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942491",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -652,7 +579,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-22T20:05:20.112173",
+    "posted_date": "2026-06-23T03:35:22.958463",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942493",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -682,7 +609,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.403466",
+    "posted_date": "2026-06-23T03:35:23.397431",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942450",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -692,7 +619,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.403471",
+    "posted_date": "2026-06-23T03:35:23.397434",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942454",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -702,7 +629,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.403476",
+    "posted_date": "2026-06-23T03:35:23.397436",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942455",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -712,7 +639,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.403481",
+    "posted_date": "2026-06-23T03:35:23.397439",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942462",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -722,7 +649,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.403486",
+    "posted_date": "2026-06-23T03:35:23.867569",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942468",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -732,7 +659,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "Chicago-525 West Monroe",
-    "posted_date": "2026-06-22T20:05:20.403491",
+    "posted_date": "2026-06-23T03:35:23.867580",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Chicago-525-West-Monroe/Sr-Data-Engineer_R0942488",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -742,7 +669,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "NC - High Point",
-    "posted_date": "2026-06-22T20:05:20.403496",
+    "posted_date": "2026-06-23T03:35:23.867584",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---High-Point/Sr-Data-Engineer_R0942495",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -914,7 +841,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.711469",
+    "posted_date": "2026-06-23T03:35:23.867631",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Staff-Data-Engineer_R0942460",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -924,7 +851,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.711472",
+    "posted_date": "2026-06-23T03:35:23.867634",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Staff-Data-Engineer_R0942481",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -934,7 +861,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-22T20:05:20.990459",
+    "posted_date": "2026-06-23T03:35:24.254976",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942311",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -944,7 +871,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T20:05:20.990462",
+    "posted_date": "2026-06-23T03:35:24.254979",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942328",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -954,7 +881,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-22T20:05:20.990464",
+    "posted_date": "2026-06-23T03:35:24.254981",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942350",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -1011,7 +938,7 @@
     "state": "WA",
     "title": "Data Engineer I, AFT BI Content",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10456503/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -1091,9 +1018,29 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-06-23T20:05:19.831899",
+    "posted_date": "2026-06-24T03:35:22.435103",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0942785",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Work from home",
+    "posted_date": "2026-06-24T03:35:22.435061",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Data-Engineer_R0942785",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0942170",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "CT - Hartford",
+    "posted_date": "2026-06-24T03:35:22.435064",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0942170",
+    "description_short": "Data Engineer",
     "source": "CVS Health"
   }
 ]
