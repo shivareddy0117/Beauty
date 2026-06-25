@@ -10,89 +10,6 @@ window.JOBS_DATA = [
     "source": "JPMorgan Chase"
   },
   {
-    "id": "1970393556858380",
-    "title": "Senior Software Engineer - Data Platform, AI Infrastructure",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-06-16T20:29:40",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556858380",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "1970393556874355",
-    "title": "Senior Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Multiple Locations, Multiple Locations",
-    "posted_date": "2026-06-16T23:55:49",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556874355",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "210760111",
-    "title": "Data Engineer II",
-    "company": "JPMorgan Chase",
-    "location": "BOURNEMOUTH, DORSET, United Kingdom",
-    "posted_date": "2026-06-17T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760111",
-    "description_short": "Data Engineer II",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "basic_qualifications": "- 5+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with SQL<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Experience mentoring team members on best practices<br/>- Bachelor\u2019s degree in Computer Science, Engineering, or a related technical discipline",
-    "business_category": "customer-service",
-    "city": "Seattle",
-    "company_name": "Amazon.com Services LLC",
-    "country_code": "USA",
-    "description": "As a Senior Data Engineer on the Amazon Customer Service Data Intelligence team, you will design and implement robust data pipelines and infrastructure that power our organization's data-driven decisions and AI capabilities. This role is critical in developing and maintaining our enterprise-scale data processing systems that handle high-volume transactions while ensuring data security, privacy compliance, and optimal performance. You'll be part of a dynamic team that designs and implements comprehensive data solutions, from real-time processing architectures to secure storage solutions and privacy-compliant data access layers. The role involves close collaboration with cross-functional teams, including software development engineers, product managers and scientists, to create data products that power critical business capabilities. You'll have the opportunity to work with leading technologies in cloud computing, big data processing, and machine learning infrastructure, while contributing to the development of robust data governance frameworks.<br/><br/>If you're passionate about solving complex technical challenges in high-scale environments, thrive in a collaborative team setting, and want to make a lasting impact on our organization's data infrastructure, this role offers an exciting opportunity to shape the future of our data and AI capabilities.<br/><br/>Key job responsibilities<br/>- Architect and drive adoption of enterprise-scale data platforms and frameworks, establishing technical standards for data products<br/>- Design data security and compliance frameworks, automated enforcement mechanisms that scale across multiple data stores while meeting regulatory requirements.<br/>- Lead strategic technical initiatives for next-generation data platforms, designing highly available distributed systems that support both real-time processing and batch operations at enterprise scale, with particular focus on enabling advanced AI/ML capabilities.<br/>- Lead technical design reviews that impact multiple teams, mentoring senior engineers, and establishing engineering excellence programs that elevate organizational capabilities.<br/>- Develop enterprise-wide data governance frameworks, implementing automated testing strategies, monitoring quality, and self-healing capabilities that ensure data reliability across data products.<br/>- Drive innovation in data engineering practices by evaluating emerging technologies, creating technical roadmaps, and architecting solutions that improve system scalability, performance, and cost-efficiency while positioning the organization for future growth.<br/>- Partner with senior leadership to translate business strategy into technical direction, influence product roadmaps, and make architectural decisions that fundamentally shape the organization's data landscape.<br/><br/>A day in the life<br/>As a Senior Data Engineer,  your day begins by leading cross-functional team stand-ups, where you guide technical decisions impacting enterprise-wide architecture. Your technical leadership role involves architecting complex data solutions spanning multiple domains such as designing real-time processing frameworks that will serve as the foundation for next-generation AI/ML capabilities. You will mentor Data Engineers providing technical guidance on complex problems while driving technical excellence across the organization. You establish engineering best practices and develop technical standards that serve multiple teams. You lead major technical initiatives such as platform migrations and implementation of enterprise-scale data governance frameworks. Your expertise is crucial in troubleshooting complex technical issues and leading design reviews for critical data systems. You participate in strategic planning sessions with senior leadership, translating business objectives into technical roadmaps for data infrastructure. By day's end, you've advanced multiple strategic initiatives that shape the organization's data landscape. Your impact extends beyond your immediate team - you're a recognized technical leader whose architectural decisions and patterns are adopted organization-wide, fundamentally influencing how the organization leverages data for competitive advantage.<br/><br/>About the team<br/>The Data Intelligence team is a new function within Amazon Customer Service, a global, cross-functional organization of applied scientists, data scientists, economists, software engineers, data engineers, and technical product managers dedicated to advancing AI capabilities and creating meaningful impact for customers. We build data solutions and contextual intelligence using Generative AI, Machine Learning, Natural Language Processing, Ontology, Agentic AI, Multi-Agentic AI Architectures, Reinforcement Learning, Knowledge Graphs, and Model Context Protocol. We move with urgency, build for the long term, and prioritize getting customer experience right, because our work is only successful when it meaningfully improves outcomes for customers",
-    "department_cost_center": null,
-    "description_short": "As a Senior Data Engineer on the Amazon Customer Service Data Intelligence team, you will design and implement robust data pipelines and infrastructure that power our organization's data-driven decisions",
-    "display_distance": null,
-    "id": "97fe1d32-8900-4305-9d27-17bc548bd794",
-    "id_icims": "10452121",
-    "is_intern": null,
-    "is_manager": null,
-    "job_category": "Business Intelligence",
-    "job_family": "Data Engineering",
-    "job_function_id": null,
-    "job_path": "/en/jobs/10452121/senior-data-engineer-amazon-customer-service",
-    "job_schedule_type": "full-time",
-    "location": "US, WA, Seattle",
-    "locations": [
-      "{\"normalizedStateName\":\"Washington\",\"normalizedCountryCode\":\"USA\",\"city\":\"Seattle\",\"countryIso3a\":\"USA\",\"countryIso2a\":\"US\",\"locationNonStemming\":\"United States, WA, Seattle\",\"coordinates\":\"47.60357,-122.32945\",\"normalizedCountyName\":\"King\",\"type\":\"ONSITE\",\"normalizedCountryName\":\"United States\",\"normalizedLocation\":\"Seattle, Washington, USA\",\"location\":\"US, WA, Seattle\",\"region\":\"WA\",\"buildingCodeList\":[\"SEA29\"],\"normalizedCityName\":\"Seattle\"}"
-    ],
-    "normalized_location": "Seattle, Washington, USA",
-    "optional_search_labels": [],
-    "posted_date": "June 17, 2026",
-    "preferred_qualifications": "- Proven track record of tackling highly ambiguous, complex data challenges and delivering impactful solutions.<br/>- Advanced degree (Master's) in Computer Science, Computer Engineering, or a quantitative field preferred<br/>- Hands-on experience working with large language models, including understanding of data infrastructure requirements for AI model training.<br/>- Experience in leading and architecting Data solutions using AWS data services (Redshift, S3, Glue, EMR, Kinesis, Lambda, RDS, Bedrock) and understanding of IAM security frameworks.<br/><br/>Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br/><br/>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit <a href=\"https://amazon.jobs/content/en/how-we-hire/accommodations\">https://amazon.jobs/content/en/how-we-hire/accommodations</a> for more information. If the country/region you\u2019re applying in isn\u2019t listed, please contact your Recruiting Partner.<br/><br/><p><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life &amp; AD&amp;D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://amazon.jobs/en/benefits\"><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">https://amazon.jobs/en/benefits</span></a><span style=\"color: rgb(35, 47, 62)\" class=\"ProseMirror-FontColor\">.</span></p><br/><br/>USA, WA, Seattle - 154,600.00 - 209,100.00 USD annually",
-    "primary_search_label": "customer-service.technology",
-    "source_system": "JobCreator",
-    "state": "WA",
-    "title": "Senior Data Engineer , Amazon Customer Service",
-    "university_job": null,
-    "updated_time": "5 days",
-    "url_next_step": "https://account.amazon.jobs/jobs/10452121/apply",
-    "team.id": null,
-    "team.business_category_id": null,
-    "team.identifier": null,
-    "team.label": "technology",
-    "team.created_at": null,
-    "team.updated_at": null,
-    "team.image_file_name": null,
-    "team.image_content_type": null,
-    "team.image_file_size": null,
-    "team.image_updated_at": null,
-    "team.thumbnail_file_name": null,
-    "team.thumbnail_content_type": null,
-    "team.thumbnail_file_size": null,
-    "team.thumbnail_updated_at": null,
-    "team.hide_jobs": null,
-    "team.title": null,
-    "team.headline": null,
-    "team.description": null
-  },
-  {
     "id": "R0813114",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -101,16 +18,6 @@ window.JOBS_DATA = [
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Work-from-home/Senior-Data-Engineer_R0813114",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
-  },
-  {
-    "id": "210760913",
-    "title": "Data Engineer III",
-    "company": "JPMorgan Chase",
-    "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
-    "posted_date": "2026-06-17T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760913",
-    "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
   },
   {
     "id": "210735001",
@@ -204,7 +111,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, IAM and Abuse Prevention",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10453654/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -429,7 +336,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-22T14:30:31.009693",
+    "posted_date": "2026-06-23T03:34:07.229636",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942501",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -439,7 +346,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:31.009697",
+    "posted_date": "2026-06-23T03:34:07.229640",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942505",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -449,7 +356,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "MA - Wellesley",
-    "posted_date": "2026-06-22T14:30:32.575628",
+    "posted_date": "2026-06-23T03:34:07.962577",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Staff-Data-Engineer_R0942520",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -519,7 +426,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:31.009667",
+    "posted_date": "2026-06-23T03:34:06.823486",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942442",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -529,7 +436,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:31.009672",
+    "posted_date": "2026-06-23T03:34:06.823490",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942446",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -539,7 +446,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-22T14:30:31.009676",
+    "posted_date": "2026-06-23T03:34:06.823494",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942447",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -549,7 +456,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-06-22T14:30:31.009680",
+    "posted_date": "2026-06-23T03:34:06.823498",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Data-Engineer_R0942490",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -559,7 +466,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-22T14:30:31.009684",
+    "posted_date": "2026-06-23T03:34:07.229603",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942491",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -569,7 +476,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-22T14:30:31.009688",
+    "posted_date": "2026-06-23T03:34:07.229629",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942493",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -599,7 +506,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:31.444336",
+    "posted_date": "2026-06-23T03:34:07.541611",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942450",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -609,7 +516,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:31.444340",
+    "posted_date": "2026-06-23T03:34:07.541615",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942454",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -619,7 +526,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:31.444344",
+    "posted_date": "2026-06-23T03:34:07.541618",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942455",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -629,7 +536,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:32.015948",
+    "posted_date": "2026-06-23T03:34:07.541622",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942462",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -639,7 +546,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:32.015974",
+    "posted_date": "2026-06-23T03:34:07.541625",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942468",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -649,7 +556,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "Chicago-525 West Monroe",
-    "posted_date": "2026-06-22T14:30:32.015980",
+    "posted_date": "2026-06-23T03:34:07.541629",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Chicago-525-West-Monroe/Sr-Data-Engineer_R0942488",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -659,7 +566,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "NC - High Point",
-    "posted_date": "2026-06-22T14:30:32.015984",
+    "posted_date": "2026-06-23T03:34:07.541633",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---High-Point/Sr-Data-Engineer_R0942495",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -831,7 +738,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:32.016049",
+    "posted_date": "2026-06-23T03:34:07.962569",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Staff-Data-Engineer_R0942460",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -841,7 +748,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "RI - Woonsocket",
-    "posted_date": "2026-06-22T14:30:32.575576",
+    "posted_date": "2026-06-23T03:34:07.962573",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Staff-Data-Engineer_R0942481",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -851,7 +758,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-06-22T14:30:32.575667",
+    "posted_date": "2026-06-23T03:34:07.962612",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942311",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -1008,7 +915,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "50 Locations",
-    "posted_date": "2026-06-23T14:30:30.400964",
+    "posted_date": "2026-06-24T03:34:06.823349",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Sr-Data-Engineer_R0790710",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -1018,7 +925,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-06-23T14:30:30.400924",
+    "posted_date": "2026-06-24T03:34:06.354786",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Data-Engineer_R0942785",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -1028,7 +935,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-06-23T14:30:30.400927",
+    "posted_date": "2026-06-24T03:34:06.354790",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0942170",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -1066,7 +973,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Sr. Data Engineer, Amazon Fuse",
     "university_job": null,
-    "updated_time": "about 1 hour",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10458150/apply",
     "team.id": null,
     "team.business_category_id": null,
