@@ -270,16 +270,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "R0942311",
-    "title": "Data Engineer",
-    "company": "CVS Health",
-    "location": "NY - New York",
-    "posted_date": "2026-06-22T09:21:53.959142",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942311",
-    "description_short": "Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0942328",
     "title": "Data Engineer",
     "company": "CVS Health",
@@ -451,7 +441,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "2 Locations",
-    "posted_date": "2026-06-30T03:38:54.291781",
+    "posted_date": "2026-06-29T09:35:32.747928",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/New-York-161-Ave-of-the-Americas/Data-Engineer_R0942170",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -645,7 +635,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer III - AMZ9899641",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10458346/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -698,7 +688,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer II - AMZ10046151",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10458329/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -763,7 +753,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer- Data Science Focus, Ads Science Analysis & Tech (ASAT)",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10461781/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -783,5 +773,25 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210754266",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-06-30T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754266",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210764635",
+    "title": "Data Engineer III \u2013 Palmos (Enterprise Platforms)",
+    "company": "JPMorgan Chase",
+    "location": "Dublin, Ireland",
+    "posted_date": "2026-06-29T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764635",
+    "description_short": "Data Engineer III \u2013 Palmos (Enterprise Platforms)",
+    "source": "JPMorgan Chase"
   }
 ];
