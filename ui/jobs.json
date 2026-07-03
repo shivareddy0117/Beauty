@@ -83,7 +83,7 @@
     "state": "NY",
     "title": "Data Engineer- Data Science Focus, Ads Science Analysis & Tech (ASAT)",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10461781/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -182,7 +182,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-30T09:17:41.076733",
+    "posted_date": "2026-06-30T14:03:51.574660",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R0942307",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -232,7 +232,7 @@
     "title": "Senior Data engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-06-30T09:17:41.076717",
+    "posted_date": "2026-06-30T14:03:51.574644",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-engineer_R0942588",
     "description_short": "Senior Data engineer",
     "source": "CVS Health"
@@ -281,7 +281,7 @@
     "state": "WA",
     "title": "Data Engineer, NAST-CX Tech",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10462993/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -356,7 +356,7 @@
     "state": "WA",
     "title": "Data Engineer, Amazon Ads",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10463961/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -536,7 +536,7 @@
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "about 10 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10465337/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -556,5 +556,15 @@
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210764968",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-07-03T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764968",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
   }
 ]
