@@ -10,16 +10,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "R0945326-1",
-    "title": "Senior Data Engineer - DataStage",
-    "company": "CVS Health",
-    "location": "NY - Amherst",
-    "posted_date": "2026-06-25T14:34:36.262636",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Senior-Data-Engineer---DataStage_R0945326-1",
-    "description_short": "Senior Data Engineer - DataStage",
-    "source": "CVS Health"
-  },
-  {
     "id": "R0857894",
     "title": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
     "company": "CVS Health",
@@ -182,7 +172,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-30T14:03:51.574660",
+    "posted_date": "2026-06-30T19:22:14.427419",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R0942307",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -232,7 +222,7 @@ window.JOBS_DATA = [
     "title": "Senior Data engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-06-30T14:03:51.574644",
+    "posted_date": "2026-06-30T19:22:14.427403",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-engineer_R0942588",
     "description_short": "Senior Data engineer",
     "source": "CVS Health"
@@ -536,7 +526,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "about 15 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10465337/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -565,6 +555,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-07-03T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764968",
     "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210746000",
+    "title": "Lead Data Engineer - Pipelines, Spark Streaming and Spark Offline",
+    "company": "JPMorgan Chase",
+    "location": "Tampa, FL, United States",
+    "posted_date": "2026-07-03T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746000",
+    "description_short": "Lead Data Engineer - Pipelines, Spark Streaming and Spark Offline",
     "source": "JPMorgan Chase"
   }
 ];
