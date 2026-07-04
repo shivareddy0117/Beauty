@@ -10,36 +10,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "R0857894",
-    "title": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
-    "company": "CVS Health",
-    "location": "CT - Hartford",
-    "posted_date": "2026-06-25T19:57:50.211290",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Associate-Cloud-Data-Engineer---SQL---Python---ETL--Cloud--_R0857894",
-    "description_short": "Associate Cloud Data Engineer ( SQL , Python , ETL, Cloud )",
-    "source": "CVS Health"
-  },
-  {
-    "id": "210762245",
-    "title": "Sr. Lead Software Engineer - Data Engineer, AWS,AI",
-    "company": "JPMorgan Chase",
-    "location": "Mumbai, Maharashtra, India",
-    "posted_date": "2026-06-26T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762245",
-    "description_short": "Sr. Lead Software Engineer - Data Engineer, AWS,AI",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210763839",
-    "title": "Lead Software Engineering - Java/Python - Risk Data Platform & Strategy",
-    "company": "JPMorgan Chase",
-    "location": "LONDON, LONDON, United Kingdom",
-    "posted_date": "2026-06-26T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763839",
-    "description_short": "Lead Software Engineering - Java/Python - Risk Data Platform & Strategy",
-    "source": "JPMorgan Chase"
-  },
-  {
     "basic_qualifications": "- 1+ years of data engineering experience<br/>- Experience with SQL<br/>- Experience with data modeling, warehousing and building ETL pipelines",
     "business_category": "finance",
     "city": "New York",
@@ -146,7 +116,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, SSD/ R2L Infrastructure",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10462238/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -172,7 +142,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-30T19:22:14.427419",
+    "posted_date": "2026-07-01T02:54:17.793779",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R0942307",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -222,7 +192,7 @@ window.JOBS_DATA = [
     "title": "Senior Data engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-06-30T19:22:14.427403",
+    "posted_date": "2026-07-01T02:54:17.793764",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-engineer_R0942588",
     "description_short": "Senior Data engineer",
     "source": "CVS Health"
@@ -410,7 +380,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, WWGS GDT Store Systems",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10464490/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -526,7 +496,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10465337/apply",
     "team.id": null,
     "team.business_category_id": null,
