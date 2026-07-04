@@ -43,7 +43,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer- Data Science Focus, Ads Science Analysis & Tech (ASAT)",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10461781/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -142,7 +142,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-30T08:36:35.475599",
+    "posted_date": "2026-06-30T13:25:32.149252",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R0942307",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -192,7 +192,7 @@ window.JOBS_DATA = [
     "title": "Senior Data engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-06-30T08:36:35.475585",
+    "posted_date": "2026-06-30T13:25:32.149236",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-engineer_R0942588",
     "description_short": "Senior Data engineer",
     "source": "CVS Health"
