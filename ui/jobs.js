@@ -142,7 +142,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-06-30T19:17:31.378536",
+    "posted_date": "2026-07-01T03:32:04.810876",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R0942307",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -192,7 +192,7 @@ window.JOBS_DATA = [
     "title": "Senior Data engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-06-30T19:17:31.378520",
+    "posted_date": "2026-07-01T03:32:04.810867",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-engineer_R0942588",
     "description_short": "Senior Data engineer",
     "source": "CVS Health"
@@ -241,7 +241,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, NAST-CX Tech",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "about 3 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10462993/apply",
     "team.id": null,
     "team.business_category_id": null,
