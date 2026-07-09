@@ -10,16 +10,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "R0942307",
-    "title": "Sr. Data Engineer",
-    "company": "CVS Health",
-    "location": "TX - Irving",
-    "posted_date": "2026-07-01T03:22:39.263603",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R0942307",
-    "description_short": "Sr. Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556874355",
     "title": "Senior Data Engineer",
     "company": "Microsoft",
@@ -28,16 +18,6 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556874355",
     "description_short": "...",
     "source": "Microsoft"
-  },
-  {
-    "id": "R0942588",
-    "title": "Senior Data engineer",
-    "company": "CVS Health",
-    "location": "TX - Work from home",
-    "posted_date": "2026-07-01T03:22:39.263586",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-engineer_R0942588",
-    "description_short": "Senior Data engineer",
-    "source": "CVS Health"
   },
   {
     "basic_qualifications": "- 5+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Knowledge of batch and streaming data architectures like Kafka, Kinesis, Flink, Storm, Beam",
@@ -341,7 +321,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-07-08T03:16:42.486187",
+    "posted_date": "2026-07-07T09:38:50.728355",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -389,7 +369,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, Data Platform Management, Grocery Tech Foundations",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 14 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10469108/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -446,7 +426,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Publisher Monetization, Insights, APM Insights",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 16 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10469116/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -501,7 +481,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data engineer, Decision Intelligence Technology",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10469213/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -554,7 +534,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Big Data Engineer II",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 14 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10469282/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -607,7 +587,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II, OTS - Data ANCHOR Team",
     "university_job": null,
-    "updated_time": "about 6 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10469385/apply",
     "team.id": null,
     "team.business_category_id": null,
