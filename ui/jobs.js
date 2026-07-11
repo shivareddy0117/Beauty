@@ -20,26 +20,6 @@ window.JOBS_DATA = [
     "source": "Microsoft"
   },
   {
-    "id": "210764968",
-    "title": "Data Engineer III",
-    "company": "JPMorgan Chase",
-    "location": "Bengaluru, Karnataka, India",
-    "posted_date": "2026-07-03T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764968",
-    "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
-  },
-  {
-    "id": "210746000",
-    "title": "Lead Data Engineer - Pipelines, Spark Streaming and Spark Offline",
-    "company": "JPMorgan Chase",
-    "location": "Tampa, FL, United States",
-    "posted_date": "2026-07-03T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746000",
-    "description_short": "Lead Data Engineer - Pipelines, Spark Streaming and Spark Offline",
-    "source": "JPMorgan Chase"
-  },
-  {
     "basic_qualifications": "- 2+ years of non-internship professional software development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience<br/>- Experience programming with at least one software programming language",
     "business_category": "entertainment",
     "city": "San Francisco",
@@ -151,7 +131,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-07-10T19:26:59.368282",
+    "posted_date": "2026-07-11T02:37:43.739189",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -417,7 +397,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II, OTS - Data ANCHOR Team",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10469385/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -470,7 +450,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, Price Perception and Evaluation",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10470566/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -496,7 +476,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-07-10T19:26:59.368249",
+    "posted_date": "2026-07-11T02:37:43.739171",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
