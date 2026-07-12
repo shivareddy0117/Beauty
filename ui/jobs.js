@@ -51,7 +51,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer, Music Metrics & Data Platform",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10465926/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -476,7 +476,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-07-10T13:18:48.337573",
+    "posted_date": "2026-07-10T19:05:34.732943",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
