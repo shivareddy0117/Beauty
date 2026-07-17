@@ -44,7 +44,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Work from home",
-    "posted_date": "2026-07-13T08:09:18.194657",
+    "posted_date": "2026-07-13T13:27:36.735751",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Work-from-home/Senior-Data-Engineer_R0917422",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -303,7 +303,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": " Data Engineer, AFT BI Content",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 19 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10476644/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -356,7 +356,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Intelligent Talent Acquisition (ITA) - Data",
     "university_job": null,
-    "updated_time": "about 13 hours",
+    "updated_time": "about 18 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10476682/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -382,7 +382,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-07-16T08:09:17.853417",
+    "posted_date": "2026-07-16T13:27:36.268861",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0920565",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -415,6 +415,16 @@ window.JOBS_DATA = [
     "posted_date": "2026-07-16T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759920",
     "description_short": "Data Engineer III - Python, Databricks",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210767093",
+    "title": "Lead Data Engineer - Strategic Data Provisioning Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-07-17T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767093",
+    "description_short": "Lead Data Engineer - Strategic Data Provisioning Data Engineer",
     "source": "JPMorgan Chase"
   }
 ];
