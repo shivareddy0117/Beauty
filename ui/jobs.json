@@ -71,7 +71,7 @@
     "state": "WA",
     "title": "Data Engineer II, Intl. Seller Services",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10473856/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -177,7 +177,7 @@
     "state": "WA",
     "title": "Data Engineer III - AMZ10212104",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10474537/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -346,7 +346,7 @@
     "state": "WA",
     "title": "Data Engineer II, Intelligent Talent Acquisition (ITA) - Data",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10476682/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -449,7 +449,7 @@
     "state": "WA",
     "title": "Data Engineer, Workforce Solutions - Talent Mobility",
     "university_job": null,
-    "updated_time": "about 10 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10477655/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -478,6 +478,16 @@
     "posted_date": "2026-07-17T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769358",
     "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210766537",
+    "title": "Senior Lead Software Engineer  Data Platform Python or Java, big data",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-07-17T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766537",
+    "description_short": "Senior Lead Software Engineer  Data Platform Python or Java, big data",
     "source": "JPMorgan Chase"
   }
 ]
