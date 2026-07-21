@@ -14,7 +14,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "3 Locations",
-    "posted_date": "2026-07-14T02:28:58.193857",
+    "posted_date": "2026-07-21T19:21:35.681437",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -336,7 +336,7 @@
     "state": "WA",
     "title": "Data Engineer II, Intelligent Talent Acquisition (ITA) - Data",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10476682/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -512,7 +512,7 @@
     "state": "WA",
     "title": "Software Development Engineer II, AWS Data Platform",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10479142/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -565,7 +565,7 @@
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "about 19 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10479204/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -604,6 +604,26 @@
     "posted_date": "2026-07-21T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752829",
     "description_short": "Lead Software Engineer - Data Engineering",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "1970393556937462",
+    "title": "Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Georgia, Atlanta",
+    "posted_date": "2026-07-21T16:31:53",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556937462",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "210767115",
+    "title": "Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python)",
+    "company": "JPMorgan Chase",
+    "location": "Jersey City, NJ, United States",
+    "posted_date": "2026-07-21T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767115",
+    "description_short": "Data Engineer III - (Pyspark/databricks/Mongo/Sql/Python)",
     "source": "JPMorgan Chase"
   }
 ]
