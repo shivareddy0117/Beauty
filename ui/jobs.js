@@ -426,7 +426,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, AWS Marketplace and Partner Services",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10481199/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -590,7 +590,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-07-22T19:09:25.383104",
+    "posted_date": "2026-07-23T02:54:11.130621",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Data-Engineer_R0977321",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -620,7 +620,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-07-23T19:09:25.108424",
+    "posted_date": "2026-07-24T02:54:10.742157",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -630,7 +630,7 @@ window.JOBS_DATA = [
     "title": "Senior GCP Data Engineer for Patient Safety Measure Engine",
     "company": "CVS Health",
     "location": "MA - Work from home",
-    "posted_date": "2026-07-23T19:09:25.108442",
+    "posted_date": "2026-07-24T02:54:10.742173",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Work-from-home/Senior-GCP-Data-Engineer-for-Patient-Safety-Measure-Engine_R0958541",
     "description_short": "Senior GCP Data Engineer for Patient Safety Measure Engine",
     "source": "CVS Health"
@@ -660,7 +660,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "GA - Work from home",
-    "posted_date": "2026-07-24T19:09:25.108368",
+    "posted_date": "2026-07-25T02:54:10.742097",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/GA---Work-from-home/Senior-Data-Engineer_R0961959",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
