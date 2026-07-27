@@ -590,7 +590,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-07-22T14:33:00.188264",
+    "posted_date": "2026-07-22T19:26:31.163960",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Data-Engineer_R0977321",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -620,7 +620,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-07-23T14:33:00.188193",
+    "posted_date": "2026-07-23T19:26:30.891907",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -630,7 +630,7 @@ window.JOBS_DATA = [
     "title": "Senior GCP Data Engineer for Patient Safety Measure Engine",
     "company": "CVS Health",
     "location": "MA - Work from home",
-    "posted_date": "2026-07-23T14:33:00.188208",
+    "posted_date": "2026-07-23T19:26:30.891918",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Work-from-home/Senior-GCP-Data-Engineer-for-Patient-Safety-Measure-Engine_R0958541",
     "description_short": "Senior GCP Data Engineer for Patient Safety Measure Engine",
     "source": "CVS Health"
@@ -660,7 +660,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "GA - Work from home",
-    "posted_date": "2026-07-24T14:32:59.758790",
+    "posted_date": "2026-07-24T19:26:30.588931",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/GA---Work-from-home/Senior-Data-Engineer_R0961959",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
