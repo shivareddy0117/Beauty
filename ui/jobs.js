@@ -44,7 +44,7 @@ window.JOBS_DATA = [
     "state": "GA",
     "title": "Data Engineer, Data Center Engineering, Data Center Engineering Analytics",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10485477/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -614,7 +614,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10488614/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -909,7 +909,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, NAST CX Tech",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10489805/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -962,7 +962,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer, Infrastructure Reliability",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 12 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10489946/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -982,5 +982,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "R0835947-1",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "3 Locations",
+    "posted_date": "2026-08-03T14:37:53.877125",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
   }
 ];
