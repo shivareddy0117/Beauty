@@ -351,7 +351,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-08-04T07:14:32.579793",
+    "posted_date": "2026-08-04T13:01:57.792173",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -389,7 +389,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Data Management Team",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10493224/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -435,7 +435,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-05T07:14:32.298308",
+    "posted_date": "2026-08-05T13:01:57.792140",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R0990429",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -445,7 +445,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-05T07:14:32.579738",
+    "posted_date": "2026-08-05T13:01:57.792145",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -545,7 +545,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Canada Product & Tech",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "about 22 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10489174/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -598,7 +598,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer II, Creator Services",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10495351/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -628,5 +628,35 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556933657",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "R0999180-1",
+    "title": "Data Engineer with GCP experience",
+    "company": "CVS Health",
+    "location": "FL - Work from home",
+    "posted_date": "2026-08-07T13:01:57.270100",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Data-Engineer-with-GCP-experience_R0999180-1",
+    "description_short": "Data Engineer with GCP experience",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0999424",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "IL - Buffalo Grove",
+    "posted_date": "2026-08-07T13:01:57.270110",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Buffalo-Grove/Data-Engineer_R0999424",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210759999",
+    "title": "Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-08-07T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759999",
+    "description_short": "Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ];
