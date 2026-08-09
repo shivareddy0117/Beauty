@@ -288,7 +288,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-08-04T18:36:11.163458",
+    "posted_date": "2026-08-05T01:42:58.908553",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R0918733",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -372,7 +372,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-05T18:36:11.163433",
+    "posted_date": "2026-08-06T01:42:58.908526",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R0990429",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -382,7 +382,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-05T18:36:11.163436",
+    "posted_date": "2026-08-06T01:42:58.908530",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -518,7 +518,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer with GCP experience",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-08-07T18:36:10.853966",
+    "posted_date": "2026-08-08T01:42:58.490330",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Data-Engineer-with-GCP-experience_R0999180-1",
     "description_short": "Data Engineer with GCP experience",
     "source": "CVS Health"
@@ -577,7 +577,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, Marketplace",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10496061/apply",
     "team.id": null,
     "team.business_category_id": null,
