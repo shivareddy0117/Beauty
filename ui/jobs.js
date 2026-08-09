@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0835944-1",
-    "title": "Data Engineer",
-    "company": "CVS Health",
-    "location": "3 Locations",
-    "posted_date": "2026-08-01T02:46:22.567003",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0835944-1",
-    "description_short": "Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "basic_qualifications": "- 5+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with SQL<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Experience mentoring team members on best practices<br/>- Bachelor's degree in computer science, engineering, analytics, mathematics, statistics, IT or equivalent",
     "business_category": "subsidiaries",
     "city": "Austin",
@@ -326,7 +316,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Data Management Team",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10493224/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -372,7 +362,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-06T01:42:58.908526",
+    "posted_date": "2026-08-06T06:55:30.468016",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R0990429",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -382,7 +372,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-06T01:42:58.908530",
+    "posted_date": "2026-08-06T06:55:30.468020",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -518,7 +508,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer with GCP experience",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-08-08T01:42:58.490330",
+    "posted_date": "2026-08-08T06:55:30.163635",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Data-Engineer-with-GCP-experience_R0999180-1",
     "description_short": "Data Engineer with GCP experience",
     "source": "CVS Health"
