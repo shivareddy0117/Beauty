@@ -252,7 +252,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer I, Sales Data Services (SDS)",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10492413/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -362,7 +362,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-05T12:48:57.895844",
+    "posted_date": "2026-08-05T18:39:12.266036",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R0990429",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -372,7 +372,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-05T12:48:57.895848",
+    "posted_date": "2026-08-05T18:39:12.266040",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -508,7 +508,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer with GCP experience",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-08-07T12:48:57.430903",
+    "posted_date": "2026-08-07T18:39:11.882054",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Data-Engineer-with-GCP-experience_R0999180-1",
     "description_short": "Data Engineer with GCP experience",
     "source": "CVS Health"
