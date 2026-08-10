@@ -362,7 +362,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-05T18:39:12.266036",
+    "posted_date": "2026-08-06T01:45:53.771799",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R0990429",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -372,7 +372,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-05T18:39:12.266040",
+    "posted_date": "2026-08-06T01:45:53.771804",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -508,7 +508,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer with GCP experience",
     "company": "CVS Health",
     "location": "FL - Work from home",
-    "posted_date": "2026-08-07T18:39:11.882054",
+    "posted_date": "2026-08-08T01:45:53.453185",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Work-from-home/Data-Engineer-with-GCP-experience_R0999180-1",
     "description_short": "Data Engineer with GCP experience",
     "source": "CVS Health"
@@ -567,7 +567,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, Marketplace",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10496061/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -624,7 +624,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer , AWS Infrastructure Supply Chain Intelligence",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10495750/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -752,5 +752,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210768357",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Jersey City, NJ, United States",
+    "posted_date": "2026-08-09T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768357",
+    "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ];
