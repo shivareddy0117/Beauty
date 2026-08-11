@@ -190,7 +190,7 @@
     "state": "WA",
     "title": "Data Engineer II, Data Management Team",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10493224/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -236,7 +236,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-06T01:42:46.010186",
+    "posted_date": "2026-08-05T07:06:11.896532",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R0990429",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -246,7 +246,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-06T01:42:46.010190",
+    "posted_date": "2026-08-05T07:06:11.896535",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -551,7 +551,7 @@
     "state": "NY",
     "title": "Data Engineer I, Sales Data Services (SDS)",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10496112/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -606,7 +606,7 @@
     "state": "CA",
     "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR), EMR EKS",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10496096/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -682,7 +682,7 @@
     "state": "WA",
     "title": "Data Engineer, Data Center Engineering, DCE Design Tech",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 17 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10496943/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -735,7 +735,7 @@
     "state": "WA",
     "title": "Data Engineer, Data : Science Engineering, AWS Marketing, Data : Science Engineering, AWS Marketing,  TAA-Data: Science & Engineering",
     "university_job": null,
-    "updated_time": "about 6 hours",
+    "updated_time": "about 11 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10497200/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -755,5 +755,15 @@
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210775187",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-08-11T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775187",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
   }
 ]
