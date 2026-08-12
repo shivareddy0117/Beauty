@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "1970393556866255",
-    "title": "Solution Engineer - Cloud & AI Data Platform",
-    "company": "Microsoft",
-    "location": "United States, Multiple Locations, Multiple Locations",
-    "posted_date": "2026-08-04T18:30:42",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556866255",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "basic_qualifications": "- 1+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with one or more query language (e.g., SQL, PL/SQL, DDL, MDX, HiveQL, SparkSQL, Scala)<br/>- Experience with one or more scripting language (e.g., Python, KornShell)",
     "business_category": "advertising",
     "city": "New York",
@@ -41,7 +31,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer I, Sales Data Services (SDS)",
     "university_job": null,
-    "updated_time": "7 days",
+    "updated_time": "8 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10492413/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -151,7 +141,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-05T13:07:23.764405",
+    "posted_date": "2026-08-05T19:01:10.076773",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R0990429",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -161,7 +151,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-05T13:07:23.764409",
+    "posted_date": "2026-08-05T19:01:10.076777",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -413,7 +403,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer , AWS Infrastructure Supply Chain Intelligence",
     "university_job": null,
-    "updated_time": "about 22 hours",
+    "updated_time": "3 minutes",
     "url_next_step": "https://account.amazon.jobs/jobs/10495750/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -650,7 +640,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Data : Science Engineering, AWS Marketing, Data : Science Engineering, AWS Marketing,  TAA-Data: Science & Engineering",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10497200/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -717,7 +707,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, Amazon Publisher Monetization, Analytics",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10498577/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -790,7 +780,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer II, Accounting, Accounting",
     "university_job": null,
-    "updated_time": "about 11 hours",
+    "updated_time": "about 17 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10499131/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -845,7 +835,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements",
     "university_job": null,
-    "updated_time": "about 11 hours",
+    "updated_time": "about 17 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10499389/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -865,5 +855,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210741893",
+    "title": "AI/ML Lead Data Engineer - Automation/Image Processing",
+    "company": "JPMorgan Chase",
+    "location": "Tampa, FL, United States",
+    "posted_date": "2026-08-12T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741893",
+    "description_short": "AI/ML Lead Data Engineer - Automation/Image Processing",
+    "source": "JPMorgan Chase"
   }
 ];
