@@ -73,7 +73,7 @@
     "state": "TX",
     "title": "Data Engineer, Marketplace",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10496061/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -367,7 +367,7 @@
     "state": "WA",
     "title": "Data Engineer, Data : Science Engineering, AWS Marketing, Data : Science Engineering, AWS Marketing,  TAA-Data: Science & Engineering",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10497200/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -653,7 +653,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-08-13T07:23:41.003792",
+    "posted_date": "2026-08-13T13:04:22.207294",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0991055",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -673,7 +673,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "VA - Work from home",
-    "posted_date": "2026-08-13T07:23:41.003766",
+    "posted_date": "2026-08-13T13:04:22.207261",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer_R0992884-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -711,7 +711,7 @@
     "state": "TX",
     "title": "Data Engineer, Worldwide Grocery Data & Analytics",
     "university_job": null,
-    "updated_time": "19 minutes",
+    "updated_time": "about 1 hour",
     "url_next_step": "https://account.amazon.jobs/jobs/10502035/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -739,6 +739,26 @@
     "location": "Hyderabad, Telangana, India",
     "posted_date": "2026-08-14T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764704",
+    "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210773265",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-08-14T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773265",
+    "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210778464",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, LONDON, United Kingdom",
+    "posted_date": "2026-08-14T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778464",
     "description_short": "Lead Data Engineer",
     "source": "JPMorgan Chase"
   }
