@@ -64,7 +64,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Data Center Engineering, DCE Design Tech",
     "university_job": null,
-    "updated_time": "44 minutes",
+    "updated_time": "about 8 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10496943/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -403,7 +403,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-08-13T18:28:48.203337",
+    "posted_date": "2026-08-14T01:16:14.848529",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0991055",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -423,7 +423,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "VA - Work from home",
-    "posted_date": "2026-08-13T18:28:47.875713",
+    "posted_date": "2026-08-14T01:16:14.496670",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer_R0992884-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -527,7 +527,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "48 Locations",
-    "posted_date": "2026-08-14T18:28:47.875546",
+    "posted_date": "2026-08-15T01:16:14.496463",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -537,7 +537,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "Work At Home-Florida",
-    "posted_date": "2026-08-14T18:28:47.875551",
+    "posted_date": "2026-08-15T01:16:14.496472",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Florida/Staff-Platform-Engineer_R0985533-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
