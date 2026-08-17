@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "210768357",
-    "title": "Lead Data Engineer",
-    "company": "JPMorgan Chase",
-    "location": "Jersey City, NJ, United States",
-    "posted_date": "2026-08-09T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768357",
-    "description_short": "Lead Data Engineer",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "210776665",
     "title": "Data Engineer III",
     "company": "JPMorgan Chase",
@@ -393,7 +383,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-08-13T18:28:11.466457",
+    "posted_date": "2026-08-14T01:13:39.555353",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0991055",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -413,7 +403,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "VA - Work from home",
-    "posted_date": "2026-08-13T18:28:11.116874",
+    "posted_date": "2026-08-14T01:13:39.286585",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer_R0992884-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -451,7 +441,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, Worldwide Grocery Data & Analytics",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10502035/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -517,7 +507,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "48 Locations",
-    "posted_date": "2026-08-14T18:28:11.116809",
+    "posted_date": "2026-08-15T01:13:39.286456",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -527,7 +517,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "Work At Home-Florida",
-    "posted_date": "2026-08-14T18:28:11.116813",
+    "posted_date": "2026-08-15T01:13:39.286464",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Florida/Staff-Platform-Engineer_R0985533-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
