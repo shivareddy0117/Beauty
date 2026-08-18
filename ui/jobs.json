@@ -118,7 +118,7 @@
     "state": "VA",
     "title": "Data Engineer - Front End/UI, Accounting",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10499131/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -173,7 +173,7 @@
     "state": "WA",
     "title": "Data Engineer, Deal Tooling and Insights, Strategic Customer Engagements",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10499389/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -284,7 +284,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "VA - Work from home",
-    "posted_date": "2026-08-13T12:43:36.725572",
+    "posted_date": "2026-08-13T18:37:30.056164",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer_R0992884-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -388,7 +388,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "48 Locations",
-    "posted_date": "2026-08-14T12:43:36.422625",
+    "posted_date": "2026-08-14T18:37:29.637167",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -398,7 +398,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "Work At Home-Florida",
-    "posted_date": "2026-08-14T12:43:36.422729",
+    "posted_date": "2026-08-14T18:37:29.637293",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Florida/Staff-Platform-Engineer_R0985533-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -435,7 +435,7 @@
     "state": "TX",
     "title": "Data Engineer, CIA-Core Engine",
     "university_job": null,
-    "updated_time": "about 20 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10503757/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -461,7 +461,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-17T12:43:36.013064",
+    "posted_date": "2026-08-17T18:37:29.637140",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -471,7 +471,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-17T12:43:36.422582",
+    "posted_date": "2026-08-17T18:37:29.637145",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -484,6 +484,26 @@
     "posted_date": "2026-08-17T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758859",
     "description_short": "Lead Data Engineer - Python/PySpark/Databricks/AWS/AI",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210772012",
+    "title": "Lead Data Engineer - Snowflake/Python/AWS",
+    "company": "JPMorgan Chase",
+    "location": "Wilmington, DE, United States",
+    "posted_date": "2026-08-18T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772012",
+    "description_short": "Lead Data Engineer - Snowflake/Python/AWS",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210727002",
+    "title": "Data Engineer III -  UI/Java/React/Agentic AI",
+    "company": "JPMorgan Chase",
+    "location": "Plano, TX, United States",
+    "posted_date": "2026-08-18T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727002",
+    "description_short": "Data Engineer III -  UI/Java/React/Agentic AI",
     "source": "JPMorgan Chase"
   }
 ]
