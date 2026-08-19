@@ -108,7 +108,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Devices Sales & Marketing",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10500177/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -154,7 +154,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "VA - Work from home",
-    "posted_date": "2026-08-14T06:41:50.770032",
+    "posted_date": "2026-08-13T12:44:53.917661",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer_R0992884-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -258,7 +258,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "48 Locations",
-    "posted_date": "2026-08-15T06:41:50.417933",
+    "posted_date": "2026-08-14T12:44:53.511950",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -268,7 +268,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "Work At Home-Florida",
-    "posted_date": "2026-08-15T06:41:50.418028",
+    "posted_date": "2026-08-14T12:44:53.511954",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Florida/Staff-Platform-Engineer_R0985533-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -305,7 +305,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, CIA-Core Engine",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10503757/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -331,7 +331,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-19T06:41:49.976157",
+    "posted_date": "2026-08-18T12:44:53.198015",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -341,7 +341,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-18T06:41:50.417908",
+    "posted_date": "2026-08-17T12:44:53.511917",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
