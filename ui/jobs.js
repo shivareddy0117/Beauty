@@ -154,7 +154,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "VA - Work from home",
-    "posted_date": "2026-08-14T01:12:37.629600",
+    "posted_date": "2026-08-14T06:41:50.770032",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer_R0992884-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -258,7 +258,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "48 Locations",
-    "posted_date": "2026-08-15T01:12:36.920934",
+    "posted_date": "2026-08-15T06:41:50.417933",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -268,7 +268,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "Work At Home-Florida",
-    "posted_date": "2026-08-15T01:12:36.921030",
+    "posted_date": "2026-08-15T06:41:50.418028",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Florida/Staff-Platform-Engineer_R0985533-1",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -331,7 +331,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-19T01:12:36.486760",
+    "posted_date": "2026-08-19T06:41:49.976157",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -341,7 +341,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-18T01:12:36.920919",
+    "posted_date": "2026-08-18T06:41:50.417908",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
