@@ -128,7 +128,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "48 Locations",
-    "posted_date": "2026-08-15T06:43:50.902964",
+    "posted_date": "2026-08-14T12:48:00.019232",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -201,7 +201,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-19T06:43:50.589178",
+    "posted_date": "2026-08-18T12:47:59.277323",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -211,7 +211,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-18T06:43:50.902917",
+    "posted_date": "2026-08-17T12:47:59.611476",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -288,7 +288,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II - AMZ10414442",
     "university_job": null,
-    "updated_time": "about 13 hours",
+    "updated_time": "about 19 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10507174/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -324,7 +324,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - AI and Analytics",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-08-20T06:43:50.268095",
+    "posted_date": "2026-08-19T12:47:59.277150",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer---AI-and-Analytics_R1008059-1",
     "description_short": "Data Engineer - AI and Analytics",
     "source": "CVS Health"
