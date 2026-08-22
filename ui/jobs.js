@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R0992884-1",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "VA - Work from home",
-    "posted_date": "2026-08-14T01:11:48.764711",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer_R0992884-1",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393556958759",
     "title": "Principal Data Engineer",
     "company": "Microsoft",
@@ -71,7 +61,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, CIA-Core Engine",
     "university_job": null,
-    "updated_time": "about 1 hour",
+    "updated_time": "about 7 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10503757/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -184,7 +174,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II - AMZ10414442",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10507174/apply",
     "team.id": null,
     "team.business_category_id": null,
