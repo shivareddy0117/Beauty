@@ -61,7 +61,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer, CIA-Core Engine",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10503757/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -87,7 +87,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-19T01:11:36.250176",
+    "posted_date": "2026-08-18T12:37:19.182097",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -97,7 +97,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-18T01:11:36.250247",
+    "posted_date": "2026-08-17T12:37:19.542669",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
