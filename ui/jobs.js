@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R1002562",
-    "title": "Data Engineer",
-    "company": "CVS Health",
-    "location": "48 Locations",
-    "posted_date": "2026-08-15T06:44:44.440115",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
-    "description_short": "Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "basic_qualifications": "- 3+ years of data engineering experience<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Bachelor's degree or foreign equivalent in computer science, engineering, analytics, mathematics, statistics, IT or equivalent<br/>- Proficient in Python development<br/>- Experience with big data technologies (Spark/Hadoop)",
     "business_category": "subsidiaries",
     "city": "Austin",
@@ -67,7 +57,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-19T06:39:27.425546",
+    "posted_date": "2026-08-18T12:38:12.574558",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -77,7 +67,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-18T06:39:27.783712",
+    "posted_date": "2026-08-17T12:38:12.904740",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -259,7 +249,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10509702/apply",
     "team.id": null,
     "team.business_category_id": null,
