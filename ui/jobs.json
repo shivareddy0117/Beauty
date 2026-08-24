@@ -57,7 +57,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-18T12:49:09.728700",
+    "posted_date": "2026-08-18T18:38:56.096676",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -67,7 +67,7 @@
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-17T12:49:10.065912",
+    "posted_date": "2026-08-17T18:38:56.500236",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -287,6 +287,16 @@
     "location": "Plano, TX, United States",
     "posted_date": "2026-08-21T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769357",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210775258",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Mumbai, Maharashtra, India",
+    "posted_date": "2026-08-24T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775258",
     "description_short": "Data Engineer III",
     "source": "JPMorgan Chase"
   }
