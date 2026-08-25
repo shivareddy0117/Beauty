@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-19T01:13:30.280331",
+    "posted_date": "2026-08-19T06:45:06.313974",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -14,7 +14,7 @@ window.JOBS_DATA = [
     "title": "Sr. Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-08-18T01:13:30.724155",
+    "posted_date": "2026-08-18T06:45:06.690278",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
     "description_short": "Sr. Data Engineer",
     "source": "CVS Health"
@@ -81,7 +81,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II - AMZ10414442",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10507174/apply",
     "team.id": null,
     "team.business_category_id": null,
