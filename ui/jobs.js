@@ -242,7 +242,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, Fire TV",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10513820/apply",
     "team.id": null,
     "team.business_category_id": null,
