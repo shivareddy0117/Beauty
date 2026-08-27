@@ -1,25 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "1970393556962751",
-    "title": "Senior Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-08-19T16:35:30",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556962751",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
-    "id": "R1008059-1",
-    "title": "Data Engineer - AI and Analytics",
-    "company": "CVS Health",
-    "location": "IL - Work from home",
-    "posted_date": "2026-08-19T18:37:56.929488",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer---AI-and-Analytics_R1008059-1",
-    "description_short": "Data Engineer - AI and Analytics",
-    "source": "CVS Health"
-  },
-  {
     "id": "210783048",
     "title": "Data Engineer III - Python, Databricks, React",
     "company": "JPMorgan Chase",
@@ -159,7 +139,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, Fire TV",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10513820/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -179,5 +159,55 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "1970393556981453",
+    "title": "Senior Software Engineer - Ads Data Platform",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-08-27T18:51:33",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556981453",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "R0990454-1",
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "location": "16 Locations",
+    "posted_date": "2026-08-27T21:51:06.908775",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
+    "description_short": "Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R0992413",
+    "title": "Data Engineer - Software Engineering  API, Front End",
+    "company": "CVS Health",
+    "location": "CT - Hartford",
+    "posted_date": "2026-08-27T21:51:06.908796",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Software-Engineer---Data--API--Front-End_R0992413",
+    "description_short": "Data Engineer - Software Engineering  API, Front End",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210736986",
+    "title": "Data Engineer III - Python / SQL",
+    "company": "JPMorgan Chase",
+    "location": "Plano, TX, United States",
+    "posted_date": "2026-08-27T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736986",
+    "description_short": "Data Engineer III - Python / SQL",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210758864",
+    "title": "Data Engineer III - Python/PySpark/Databricks/AI",
+    "company": "JPMorgan Chase",
+    "location": "GA, United States",
+    "posted_date": "2026-08-27T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758864",
+    "description_short": "Data Engineer III - Python/PySpark/Databricks/AI",
+    "source": "JPMorgan Chase"
   }
 ];
