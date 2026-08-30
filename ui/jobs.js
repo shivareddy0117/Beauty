@@ -80,7 +80,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "16 Locations",
-    "posted_date": "2026-08-27T16:08:37.394080",
+    "posted_date": "2026-08-27T20:38:42.220280",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer_R0990454-1",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -407,7 +407,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer, PXT Central Science",
     "university_job": null,
-    "updated_time": "about 22 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10521258/apply",
     "team.id": null,
     "team.business_category_id": null,
