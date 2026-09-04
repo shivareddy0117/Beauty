@@ -593,7 +593,7 @@ window.JOBS_DATA = [
     "state": "VA",
     "title": "Data Engineer II, Amazon Leo",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10528887/apply",
     "team.id": null,
     "team.business_category_id": null,
