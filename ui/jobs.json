@@ -1,15 +1,5 @@
 [
   {
-    "id": "1970393556933657",
-    "title": "Senior Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-08-28T18:12:51",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556933657",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "basic_qualifications": "- Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence<br/>- 3+ years of data engineering experience<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Experience with data modeling, warehousing and building ETL pipelines<br/>- Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions<br/>- Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)",
     "business_category": "pxt",
     "city": "Arlington",
@@ -44,7 +34,7 @@
     "state": "VA",
     "title": "Data Engineer, PXT Central Science",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10521258/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -452,7 +442,7 @@
     "state": "NY",
     "title": "Data Engineer I, Zappos Analytics",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10530461/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -505,7 +495,7 @@
     "state": "NY",
     "title": "Data Engineer II, Shopbop Data",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10530458/apply",
     "team.id": null,
     "team.business_category_id": null,
