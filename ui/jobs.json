@@ -1,15 +1,5 @@
 [
   {
-    "id": "1970393556980087",
-    "title": "Data Platform Solution Engineer",
-    "company": "Microsoft",
-    "location": "United States, Multiple Locations, Multiple Locations",
-    "posted_date": "2026-09-01T16:01:18",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556980087",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "R1021325-1",
     "title": "Senior Data Engineer",
     "company": "CVS Health",
@@ -197,7 +187,7 @@
     "state": "NY",
     "title": "Data Engineer II, Shopbop Data",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10530458/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -253,7 +243,7 @@
     "state": "TX",
     "title": "Senior Data Engineer \u2014 Amazon Web Service, ProServe Analytics and Intelligence",
     "university_job": null,
-    "updated_time": "about 22 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10532163/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -328,7 +318,7 @@
     "state": "CA",
     "title": "Software Development Engineer, Data Platform & Analytics - ART19",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10532746/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -358,5 +348,15 @@
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R0835947-1",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "210727002",
+    "title": "Data Engineer III -  UI/Java/React/Agentic AI",
+    "company": "JPMorgan Chase",
+    "location": "Plano, TX, United States",
+    "posted_date": "2026-09-09T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727002",
+    "description_short": "Data Engineer III -  UI/Java/React/Agentic AI",
+    "source": "JPMorgan Chase"
   }
 ]
