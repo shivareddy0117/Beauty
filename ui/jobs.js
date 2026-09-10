@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R1021325-1",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "10 Locations",
-    "posted_date": "2026-09-02T15:52:38.074881",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R1021325-1",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "210785183",
     "title": "Lead Data Engineer - Python, Databricks",
     "company": "JPMorgan Chase",
@@ -167,7 +157,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer II, Shopbop Data",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10530458/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -223,7 +213,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer \u2014 Amazon Web Service, ProServe Analytics and Intelligence",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10532163/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -298,7 +288,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer, Data Platform & Analytics - ART19",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10532746/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -338,5 +328,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727002",
     "description_short": "Data Engineer III -  UI/Java/React/Agentic AI",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R1021325-1",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "10 Locations",
+    "posted_date": "2026-09-10T15:55:13.746456",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Engineer_R1021325-1",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
   }
 ];
