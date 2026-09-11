@@ -94,7 +94,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer II, Shopbop Data",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10530458/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -150,7 +150,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer \u2014 Amazon Web Service, ProServe Analytics and Intelligence",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10532163/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -225,7 +225,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer, Data Platform & Analytics - ART19",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10532746/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -308,7 +308,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer, Ring Agent Platforms",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 14 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10536794/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -328,5 +328,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210773265",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-09-11T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773265",
+    "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ];
