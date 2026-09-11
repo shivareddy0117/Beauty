@@ -308,7 +308,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer, Ring Agent Platforms",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 19 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10536794/apply",
     "team.id": null,
     "team.business_category_id": null,
