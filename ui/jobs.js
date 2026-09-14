@@ -109,7 +109,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer, Data Platform & Analytics - ART19",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "32 minutes",
     "url_next_step": "https://account.amazon.jobs/jobs/10532746/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -275,5 +275,35 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "210786146",
+    "title": "Data Engineer III - PySpark/Databricks/SQL/AWS",
+    "company": "JPMorgan Chase",
+    "location": "Wilmington, DE, United States",
+    "posted_date": "2026-09-14T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786146",
+    "description_short": "Data Engineer III - PySpark/Databricks/SQL/AWS",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210786148",
+    "title": "Data Engineer III - PySpark/Databricks/SQL/AWS",
+    "company": "JPMorgan Chase",
+    "location": "Wilmington, DE, United States",
+    "posted_date": "2026-09-14T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786148",
+    "description_short": "Data Engineer III - PySpark/Databricks/SQL/AWS",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210786162",
+    "title": "Lead Data Engineer - PySpark/Databricks/SQL/AWS",
+    "company": "JPMorgan Chase",
+    "location": "Wilmington, DE, United States",
+    "posted_date": "2026-09-14T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786162",
+    "description_short": "Lead Data Engineer - PySpark/Databricks/SQL/AWS",
+    "source": "JPMorgan Chase"
   }
 ];
