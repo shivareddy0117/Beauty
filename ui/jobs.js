@@ -109,7 +109,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Software Development Engineer, Data Platform & Analytics - ART19",
     "university_job": null,
-    "updated_time": "about 4 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10532746/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -338,7 +338,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, Business Data Technologies",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10539106/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -391,7 +391,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer I, Business Data Technologies",
     "university_job": null,
-    "updated_time": "about 3 hours",
+    "updated_time": "about 10 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10539104/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -417,9 +417,19 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - AdTech",
     "company": "CVS Health",
     "location": "Work At Home-Rhode Island",
-    "posted_date": "2026-09-14T21:33:45.344600",
+    "posted_date": "2026-09-15T03:39:03.794258",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Rhode-Island/Senior-Data-Engineer---AdTech_R1023889",
     "description_short": "Senior Data Engineer - AdTech",
     "source": "CVS Health"
+  },
+  {
+    "id": "1970393556991988",
+    "title": "Principle Data Platform Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-09-14T20:35:01",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556991988",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
