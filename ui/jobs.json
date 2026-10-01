@@ -356,7 +356,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-09-29T04:26:50.201620",
+    "posted_date": "2026-09-28T12:32:31.307153",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Staff-Data-Engineer_R1045855",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -423,7 +423,7 @@
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10564331/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -476,7 +476,7 @@
     "state": "CA",
     "title": "Data Engineer, Studios Analytics",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10564106/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -532,7 +532,7 @@
     "state": "TX",
     "title": "Data Engineer II, AWS Partnerships",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10564179/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -658,7 +658,7 @@
     "state": "WA",
     "title": "Data Engineer, WW Ops Finance S&A ",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10565654/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -694,7 +694,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-01T04:26:50.201495",
+    "posted_date": "2026-09-30T12:32:31.306994",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1053501",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -744,7 +744,7 @@
     "state": "WA",
     "title": "Data Engineer II, Amazon Key",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 13 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10566103/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -774,5 +774,25 @@
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557014828",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "1970393556922931",
+    "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-10-01T07:00:00",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556922931",
+    "description_short": "...",
+    "source": "Microsoft"
+  },
+  {
+    "id": "210795193",
+    "title": "SQL Server DBA - Data Engineer III - Neovest",
+    "company": "JPMorgan Chase",
+    "location": "Pleasant Grove, UT, United States",
+    "posted_date": "2026-09-30T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795193",
+    "description_short": "SQL Server DBA - Data Engineer III - Neovest",
+    "source": "JPMorgan Chase"
   }
 ]
