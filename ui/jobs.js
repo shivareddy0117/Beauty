@@ -253,7 +253,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-09-28T17:46:49.073444",
+    "posted_date": "2026-09-28T21:52:34.991608",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Staff-Data-Engineer_R1045855",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -373,7 +373,7 @@ window.JOBS_DATA = [
     "state": "CA",
     "title": "Data Engineer, Studios Analytics",
     "university_job": null,
-    "updated_time": "about 15 hours",
+    "updated_time": "about 19 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10564106/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -591,7 +591,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-09-30T17:46:48.671070",
+    "posted_date": "2026-09-30T21:52:34.643184",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1053501",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -641,7 +641,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Key",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10566103/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -684,12 +684,22 @@ window.JOBS_DATA = [
   },
   {
     "id": "210795193",
-    "title": "SQL Server DBA - Data Engineer III - Neovest",
+    "title": "SQL Server Database Administrator - Data Engineer III - Neovest",
     "company": "JPMorgan Chase",
     "location": "Pleasant Grove, UT, United States",
     "posted_date": "2026-09-30T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795193",
-    "description_short": "SQL Server DBA - Data Engineer III - Neovest",
+    "description_short": "SQL Server Database Administrator - Data Engineer III - Neovest",
     "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R1040005",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Irving",
+    "posted_date": "2026-10-02T21:52:34.280267",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R1040005",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
   }
 ];
