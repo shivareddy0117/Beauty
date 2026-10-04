@@ -464,7 +464,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-09-30T16:30:40.471545",
+    "posted_date": "2026-09-30T20:55:46.896859",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1053501",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -570,7 +570,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-10-02T16:30:40.170418",
+    "posted_date": "2026-10-02T20:55:46.573338",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R1040005",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
