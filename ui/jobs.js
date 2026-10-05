@@ -99,7 +99,7 @@ window.JOBS_DATA = [
     "title": "Lead Data Engineer",
     "company": "JPMorgan Chase",
     "location": "New York, NY, United States",
-    "posted_date": "2026-09-29T00:00:00",
+    "posted_date": "2026-10-05T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790524",
     "description_short": "Lead Data Engineer",
     "source": "JPMorgan Chase"
@@ -136,7 +136,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10564331/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -245,7 +245,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II, AWS Partnerships",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10564179/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -298,7 +298,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II, OpsTech Team, OTS Anchor Team",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10564399/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -371,7 +371,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, WW Ops Finance S&A ",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10565654/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -407,7 +407,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-01T04:20:30.294243",
+    "posted_date": "2026-09-30T13:45:08.115296",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1053501",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -457,7 +457,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Key",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10566103/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -513,7 +513,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-10-03T04:20:29.931295",
+    "posted_date": "2026-10-02T13:45:07.701221",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R1040005",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -527,5 +527,15 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557022600",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210793923",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "LONDON, United Kingdom",
+    "posted_date": "2026-10-05T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793923",
+    "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ];
