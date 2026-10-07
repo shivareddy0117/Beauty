@@ -41,7 +41,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, WW Ops Finance S&A ",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10565654/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -77,7 +77,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-09-30T12:45:00.640143",
+    "posted_date": "2026-09-30T22:47:56.879686",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1053501",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -183,7 +183,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-10-02T12:45:00.127657",
+    "posted_date": "2026-10-02T22:47:56.879625",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R1040005",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -297,7 +297,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, AWS Marketplace and Partner Services",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "about 3 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10571092/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -327,5 +327,25 @@ window.JOBS_DATA = [
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557023101",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210796387",
+    "title": "Data Engineer III - ETL",
+    "company": "JPMorgan Chase",
+    "location": "Jersey City, NJ, United States",
+    "posted_date": "2026-10-07T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796387",
+    "description_short": "Data Engineer III - ETL",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "210794950",
+    "title": "Corporate Sector - Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Houston, TX, United States",
+    "posted_date": "2026-10-07T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794950",
+    "description_short": "Corporate Sector - Lead Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ];
