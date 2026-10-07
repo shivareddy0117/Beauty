@@ -77,7 +77,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-01T04:35:08.658044",
+    "posted_date": "2026-09-30T12:45:00.640143",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1053501",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -127,7 +127,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Amazon Key",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10566103/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -183,7 +183,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-10-03T04:35:08.305726",
+    "posted_date": "2026-10-02T12:45:00.127657",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R1040005",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -297,7 +297,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, AWS Marketplace and Partner Services",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 17 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10571092/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -317,5 +317,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "1970393557023101",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-10-06T15:01:44",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557023101",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
