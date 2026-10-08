@@ -20,16 +20,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "1970393557014828",
-    "title": "Principal Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-09-30T18:46:03",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557014828",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "1970393556922931",
     "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
     "company": "Microsoft",
@@ -44,7 +34,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Irving",
-    "posted_date": "2026-10-02T12:53:58.011374",
+    "posted_date": "2026-10-02T22:59:25.658995",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Senior-Data-Engineer_R1040005",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -158,7 +148,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, AWS Marketplace and Partner Services",
     "university_job": null,
-    "updated_time": "about 17 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10571092/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -241,7 +231,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, Product BI",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10572785/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -261,5 +251,45 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "R1045855",
+    "title": "Staff Data Engineer - UniVerse",
+    "company": "CVS Health",
+    "location": "6 Locations",
+    "posted_date": "2026-10-08T22:59:25.331461",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Staff-Data-Engineer_R1045855",
+    "description_short": "Staff Data Engineer - UniVerse",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R1061443",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "49 Locations",
+    "posted_date": "2026-10-08T22:59:25.331489",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061443",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R1061448",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "49 Locations",
+    "posted_date": "2026-10-08T22:59:25.331496",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061448",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210769358",
+    "title": "Lead Data Engineer",
+    "company": "JPMorgan Chase",
+    "location": "Plano, TX, United States",
+    "posted_date": "2026-10-08T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769358",
+    "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
   }
 ];
