@@ -247,7 +247,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-08T17:16:58.102883",
+    "posted_date": "2026-10-08T21:14:00.099334",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061443",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -257,7 +257,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-08T17:16:58.102888",
+    "posted_date": "2026-10-08T21:14:00.099338",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061448",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -357,7 +357,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, WW Pricing - Data & Analytics",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10575186/apply",
     "team.id": null,
     "team.business_category_id": null,
