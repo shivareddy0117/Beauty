@@ -20,16 +20,6 @@ window.JOBS_DATA = [
     "source": "CVS Health"
   },
   {
-    "id": "1970393557022600",
-    "title": "Senior Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-10-03T02:38:59",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557022600",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "id": "210793923",
     "title": "Lead Data Engineer",
     "company": "JPMorgan Chase",
@@ -247,7 +237,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-08T21:14:00.099334",
+    "posted_date": "2026-10-09T04:18:57.316249",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061443",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -257,7 +247,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-08T21:14:00.099338",
+    "posted_date": "2026-10-09T04:18:57.316253",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061448",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
