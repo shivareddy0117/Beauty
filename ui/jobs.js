@@ -227,7 +227,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-08T21:33:48.060069",
+    "posted_date": "2026-10-09T04:35:41.856139",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061443",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -237,7 +237,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-08T21:33:48.060074",
+    "posted_date": "2026-10-09T04:35:41.856141",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Wisconsin/Sr-Data-Engineer_R1061448",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
