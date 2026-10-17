@@ -4,7 +4,7 @@
     "title": "Staff Data Engineer - UniVerse",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-10-13T10:13:34.587044",
+    "posted_date": "2026-10-13T15:02:43.427401",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Staff-Data-Engineer_R1045855",
     "description_short": "Staff Data Engineer - UniVerse",
     "source": "CVS Health"
@@ -61,7 +61,7 @@
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10576580/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -116,7 +116,7 @@
     "state": "WA",
     "title": "Data Engineer II, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10576584/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -332,7 +332,7 @@
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10578111/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -521,7 +521,7 @@
     "title": "Senior Data Engineering and AI Platforms",
     "company": "CVS Health",
     "location": "RI - Cumberland",
-    "posted_date": "2026-10-15T10:13:33.945074",
+    "posted_date": "2026-10-15T15:02:42.807002",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Cumberland/Senior-Data-Engineering-and-AI-Platforms_R1071257",
     "description_short": "Senior Data Engineering and AI Platforms",
     "source": "CVS Health"
@@ -531,7 +531,7 @@
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-15T10:13:34.270159",
+    "posted_date": "2026-10-15T15:02:43.112156",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070129",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
@@ -570,7 +570,7 @@
     "state": "WA",
     "title": "Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence",
     "university_job": null,
-    "updated_time": "about 13 hours",
+    "updated_time": "about 18 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10580107/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -596,7 +596,7 @@
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-15T10:13:33.945062",
+    "posted_date": "2026-10-15T15:02:42.806982",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070400",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
@@ -633,7 +633,7 @@
     "state": "WA",
     "title": "Data engineer, Decision Intelligence Technology",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 19 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10581756/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -653,5 +653,15 @@
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "1970393557022579",
+    "title": "Data Engineer II",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-10-17T01:42:13",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557022579",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ]
