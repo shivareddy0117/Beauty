@@ -4,7 +4,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer - UniVerse",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-10-14T03:16:34.135128",
+    "posted_date": "2026-10-13T10:28:55.443148",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Staff-Data-Engineer_R1045855",
     "description_short": "Staff Data Engineer - UniVerse",
     "source": "CVS Health"
@@ -169,7 +169,7 @@ window.JOBS_DATA = [
     "state": "CO",
     "title": "Data Engineer II - AMZ10595704",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10577490/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -279,7 +279,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Agentic Data Engineer, Frontier AI Tooling",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10577269/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -521,7 +521,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineering and AI Platforms",
     "company": "CVS Health",
     "location": "RI - Cumberland",
-    "posted_date": "2026-10-16T03:16:33.427442",
+    "posted_date": "2026-10-15T10:28:55.118939",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Cumberland/Senior-Data-Engineering-and-AI-Platforms_R1071257",
     "description_short": "Senior Data Engineering and AI Platforms",
     "source": "CVS Health"
@@ -531,7 +531,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-16T03:16:33.788266",
+    "posted_date": "2026-10-15T10:28:55.443110",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070129",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
@@ -596,7 +596,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-16T03:16:33.427432",
+    "posted_date": "2026-10-15T10:28:55.118929",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070400",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
