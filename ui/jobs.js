@@ -4,19 +4,9 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer - UniVerse",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-10-14T03:38:27.525014",
+    "posted_date": "2026-10-13T10:59:23.897058",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Staff-Data-Engineer_R1045855",
     "description_short": "Staff Data Engineer - UniVerse",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R1045912",
-    "title": "Senior Data Engineer - PostgreSQL and MongoDB",
-    "company": "CVS Health",
-    "location": "6 Locations",
-    "posted_date": "2026-10-12T10:48:34.005144",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer---PostgreSQL-and-MongoDB_R1045912",
-    "description_short": "Senior Data Engineer - PostgreSQL and MongoDB",
     "source": "CVS Health"
   },
   {
@@ -51,7 +41,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "about 7 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10576580/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -159,7 +149,7 @@ window.JOBS_DATA = [
     "state": "CO",
     "title": "Data Engineer II - AMZ10595704",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10577490/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -269,7 +259,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Agentic Data Engineer, Frontier AI Tooling",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 15 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10577269/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -521,7 +511,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-16T03:38:27.231560",
+    "posted_date": "2026-10-15T10:59:23.534490",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070129",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
@@ -560,7 +550,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10580107/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -586,7 +576,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-16T03:38:26.853237",
+    "posted_date": "2026-10-15T10:59:23.179229",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070400",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
@@ -752,7 +742,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Amazon Live Data Engineering, Sciences and Analytics (DESA)",
     "university_job": null,
-    "updated_time": "about 5 hours",
+    "updated_time": "about 12 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10583490/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -772,5 +762,15 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "1970393557022600",
+    "title": "Senior Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Washington, Redmond",
+    "posted_date": "2026-10-19T18:59:03",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557022600",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
