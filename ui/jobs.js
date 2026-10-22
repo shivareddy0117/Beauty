@@ -187,7 +187,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-15T21:18:18.584955",
+    "posted_date": "2026-10-16T03:30:45.254390",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070129",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
@@ -252,7 +252,7 @@ window.JOBS_DATA = [
     "title": "Data Engineer - People Analytics",
     "company": "CVS Health",
     "location": "53 Locations",
-    "posted_date": "2026-10-15T21:18:18.584918",
+    "posted_date": "2026-10-16T03:30:45.254364",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Farmers-Branch/Data-Engineer---People-Analytics_R1070400",
     "description_short": "Data Engineer - People Analytics",
     "source": "CVS Health"
@@ -454,7 +454,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer (Azure Databricks Platform)",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-10-21T21:18:17.856159",
+    "posted_date": "2026-10-22T03:30:44.491759",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer--Azure-Databricks-Platform-_R1076691",
     "description_short": "Staff Data Engineer (Azure Databricks Platform)",
     "source": "CVS Health"
@@ -493,7 +493,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, GMAC FP&A",
     "university_job": null,
-    "updated_time": "about 2 hours",
+    "updated_time": "about 8 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10585595/apply",
     "team.id": null,
     "team.business_category_id": null,
