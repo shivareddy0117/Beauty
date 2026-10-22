@@ -88,7 +88,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Robotics Delivery and Packaging Innovation",
     "university_job": null,
-    "updated_time": "7 days",
+    "updated_time": "8 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10579596/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -444,7 +444,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer (Azure Databricks Platform)",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-10-21T16:42:34.697838",
+    "posted_date": "2026-10-21T21:14:29.060614",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer--Azure-Databricks-Platform-_R1076691",
     "description_short": "Staff Data Engineer (Azure Databricks Platform)",
     "source": "CVS Health"
@@ -483,7 +483,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, GMAC FP&A",
     "university_job": null,
-    "updated_time": "about 21 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10585595/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -529,9 +529,19 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - PostgreSQL and MongoDB",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-10-22T16:42:34.697763",
+    "posted_date": "2026-10-22T21:14:28.778863",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer---PostgreSQL-and-MongoDB_R1045912",
     "description_short": "Senior Data Engineer - PostgreSQL and MongoDB",
     "source": "CVS Health"
+  },
+  {
+    "id": "1970393556958759",
+    "title": "Principal Data Engineer",
+    "company": "Microsoft",
+    "location": "United States, Multiple Locations, Multiple Locations",
+    "posted_date": "2026-10-22T00:35:10",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393556958759",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ];
