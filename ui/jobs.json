@@ -1,15 +1,5 @@
 [
   {
-    "id": "R1045855",
-    "title": "Staff Data Engineer - UniVerse",
-    "company": "CVS Health",
-    "location": "6 Locations",
-    "posted_date": "2026-10-14T03:31:00.233740",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Staff-Data-Engineer_R1045855",
-    "description_short": "Staff Data Engineer - UniVerse",
-    "source": "CVS Health"
-  },
-  {
     "basic_qualifications": "- Bachelor's degree or above in computer science, computer engineering, or related field, or Master's degree and 3+ years of data scientist experience<br/>- Experience in data warehouse technical architectures, data modeling, infrastructure components, ETL/ ELT and reporting/analytic tools and environments, data structures and hands-on SQL coding<br/>- Experience building data pipelines or automated ETL processes<br/>- Experience writing and optimizing SQL queries with large-scale, complex datasets<br/>- Experience in at least one modern scripting or programming language, such as Python, Java, Scala, or NodeJS<br/>- Experience providing technical leadership and mentoring other engineers for best practices on data engineering",
     "business_category": "aws",
     "city": "Bellevue",
@@ -226,7 +216,7 @@
     "state": "WA",
     "title": "Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence",
     "university_job": null,
-    "updated_time": "5 days",
+    "updated_time": "6 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10580107/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -418,7 +408,7 @@
     "state": "WA",
     "title": "Data Engineer, Amazon Live Data Engineering, Sciences and Analytics (DESA)",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10583490/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -454,7 +444,7 @@
     "title": "Staff Data Engineer (Azure Databricks Platform)",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-10-22T03:30:44.491759",
+    "posted_date": "2026-10-21T11:14:34.817693",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer--Azure-Databricks-Platform-_R1076691",
     "description_short": "Staff Data Engineer (Azure Databricks Platform)",
     "source": "CVS Health"
@@ -493,7 +483,7 @@
     "state": "WA",
     "title": "Data Engineer II, GMAC FP&A",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 16 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10585595/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -523,5 +513,15 @@
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557040432",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210790269",
+    "title": "Data Engineer III - Databricks, Pyspark, Python, AWS",
+    "company": "JPMorgan Chase",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_date": "2026-10-22T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790269",
+    "description_short": "Data Engineer III - Databricks, Pyspark, Python, AWS",
+    "source": "JPMorgan Chase"
   }
 ]
