@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "1970393557022579",
-    "title": "Data Engineer II",
-    "company": "Microsoft",
-    "location": "United States, Washington, Redmond",
-    "posted_date": "2026-10-17T01:42:13",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557022579",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "basic_qualifications": "- 3+ years of data engineering experience<br/>- 1+ years of developing and operating large-scale data structures for business intelligence analytics using ETL/ELT processes experience<br/>- 1+ years of developing and operating large-scale data structures for business intelligence analytics using OLAP technologies experience<br/>- 1+ years of developing and operating large-scale data structures for business intelligence analytics using data modeling experience<br/>- 1+ years of developing and operating large-scale data structures for business intelligence analytics using SQL experience<br/>- 1+ years of developing and operating large-scale data structures for business intelligence analytics using Oracle experience<br/>- 3+ years of in the job offered or a related occupation experience<br/>- 1+ years of developing and operating large-scale data structures for business intelligence analytics using each of the following: ETL (Extract, Transform, Load)/ELT (Extract, Load, Transform) processes experience<br/>- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Information Systems, Mathematics, or a related field<br/>- Experience with data modeling, warehousing and building ETL pipelines",
     "business_category": "kindlecontent",
     "city": "Seattle",
@@ -143,7 +133,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer (Azure Databricks Platform)",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-10-21T20:19:09.967038",
+    "posted_date": "2026-10-22T03:26:06.132028",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer--Azure-Databricks-Platform-_R1076691",
     "description_short": "Staff Data Engineer (Azure Databricks Platform)",
     "source": "CVS Health"
@@ -228,7 +218,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - PostgreSQL and MongoDB",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-10-22T20:19:09.966996",
+    "posted_date": "2026-10-23T03:26:06.132004",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer---PostgreSQL-and-MongoDB_R1045912",
     "description_short": "Senior Data Engineer - PostgreSQL and MongoDB",
     "source": "CVS Health"
@@ -248,7 +238,7 @@ window.JOBS_DATA = [
     "title": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Graduate)",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-10-22T20:19:09.580655",
+    "posted_date": "2026-10-23T03:26:05.797216",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
     "description_short": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Graduate)",
     "source": "CVS Health"
@@ -258,7 +248,7 @@ window.JOBS_DATA = [
     "title": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Undergraduate)",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-10-22T20:19:09.580751",
+    "posted_date": "2026-10-23T03:26:05.797306",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090",
     "description_short": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Undergraduate)",
     "source": "CVS Health"
@@ -295,7 +285,7 @@ window.JOBS_DATA = [
     "state": "NY",
     "title": "Data Engineer II, Sales Data Services (SDS)",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10587268/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -401,7 +391,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Data Engineer II - AMZ26680.2",
     "university_job": null,
-    "updated_time": "about 18 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10585300/apply",
     "team.id": null,
     "team.business_category_id": null,
