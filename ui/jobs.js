@@ -133,7 +133,7 @@ window.JOBS_DATA = [
     "title": "Staff Data Engineer (Azure Databricks Platform)",
     "company": "CVS Health",
     "location": "IL - Work from home",
-    "posted_date": "2026-10-21T10:50:06.361604",
+    "posted_date": "2026-10-21T15:37:56.967232",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer--Azure-Databricks-Platform-_R1076691",
     "description_short": "Staff Data Engineer (Azure Databricks Platform)",
     "source": "CVS Health"
@@ -218,7 +218,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - PostgreSQL and MongoDB",
     "company": "CVS Health",
     "location": "6 Locations",
-    "posted_date": "2026-10-22T10:50:06.361581",
+    "posted_date": "2026-10-22T15:37:56.967199",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer---PostgreSQL-and-MongoDB_R1045912",
     "description_short": "Senior Data Engineer - PostgreSQL and MongoDB",
     "source": "CVS Health"
@@ -238,7 +238,7 @@ window.JOBS_DATA = [
     "title": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Graduate)",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-10-22T10:50:06.041554",
+    "posted_date": "2026-10-22T15:37:56.708062",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
     "description_short": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Graduate)",
     "source": "CVS Health"
@@ -248,7 +248,7 @@ window.JOBS_DATA = [
     "title": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Undergraduate)",
     "company": "CVS Health",
     "location": "NY - New York",
-    "posted_date": "2026-10-22T10:50:06.041557",
+    "posted_date": "2026-10-22T15:37:56.708065",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090",
     "description_short": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Undergraduate)",
     "source": "CVS Health"
@@ -454,7 +454,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Workforce Solutions - Talent Mobility",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10587730/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -507,7 +507,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, NASC Data Engineering ",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10587822/apply",
     "team.id": null,
     "team.business_category_id": null,
