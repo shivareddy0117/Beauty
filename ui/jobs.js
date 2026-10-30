@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R1076691",
-    "title": "Staff Data Engineer (Azure Databricks Platform)",
-    "company": "CVS Health",
-    "location": "IL - Work from home",
-    "posted_date": "2026-10-22T04:37:21.081788",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Staff-Data-Engineer--Azure-Databricks-Platform-_R1076691",
-    "description_short": "Staff Data Engineer (Azure Databricks Platform)",
-    "source": "CVS Health"
-  },
-  {
     "id": "R1045912",
     "title": "Senior Data Engineer - PostgreSQL and MongoDB",
     "company": "CVS Health",
@@ -17,16 +7,6 @@ window.JOBS_DATA = [
     "posted_date": "2026-10-23T04:37:11.680037",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer---PostgreSQL-and-MongoDB_R1045912",
     "description_short": "Senior Data Engineer - PostgreSQL and MongoDB",
-    "source": "CVS Health"
-  },
-  {
-    "id": "R1081101",
-    "title": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Graduate)",
-    "company": "CVS Health",
-    "location": "NY - New York",
-    "posted_date": "2026-10-22T11:40:32.321467",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
-    "description_short": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Graduate)",
     "source": "CVS Health"
   },
   {
@@ -134,7 +114,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Workforce Solutions - Talent Mobility",
     "university_job": null,
-    "updated_time": "about 2 hours",
+    "updated_time": "about 9 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10587730/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -335,7 +315,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Global Logistics Product Analytics Team",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10590795/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -361,7 +341,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Platform Engineer (Databricks, Python)",
     "company": "CVS Health",
     "location": "8 Locations",
-    "posted_date": "2026-10-29T04:37:10.808122",
+    "posted_date": "2026-10-28T12:13:05.679006",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Platform-Engineer--Databricks--Python-_R1083690",
     "description_short": "Senior Data Platform Engineer (Databricks, Python)",
     "source": "CVS Health"
@@ -398,7 +378,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10591361/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -451,7 +431,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, WW Ops Finance S&A ",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 20 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10592334/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -504,7 +484,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, DSP Analytics",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 19 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10590759/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -540,7 +520,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-10-30T04:37:10.808079",
+    "posted_date": "2026-10-29T12:13:05.678860",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1065518",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
