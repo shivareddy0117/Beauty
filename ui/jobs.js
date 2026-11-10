@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "210805746",
-    "title": "Data Engineer III",
-    "company": "JPMorgan Chase",
-    "location": "Hyderabad, Telangana, India",
-    "posted_date": "2026-11-02T00:00:00",
-    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805746",
-    "description_short": "Data Engineer III",
-    "source": "JPMorgan Chase"
-  },
-  {
     "id": "R1045912",
     "title": "Senior Data Engineer - PostgreSQL and MongoDB",
     "company": "CVS Health",
@@ -763,7 +753,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-11-06T15:20:33.693007",
+    "posted_date": "2026-11-07T01:13:21.844604",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Senior-Data-Engineer_R1084896",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -786,6 +776,26 @@ window.JOBS_DATA = [
     "posted_date": "2026-11-09T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806787",
     "description_short": "Lead Data Engineer",
+    "source": "JPMorgan Chase"
+  },
+  {
+    "id": "R1045908-1",
+    "title": "Senior Data Engineer - MongoDB and PostgreSQL",
+    "company": "CVS Health",
+    "location": "5 Locations",
+    "posted_date": "2026-11-10T01:13:21.844452",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer_R1045908-1",
+    "description_short": "Senior Data Engineer - MongoDB and PostgreSQL",
+    "source": "CVS Health"
+  },
+  {
+    "id": "210772012",
+    "title": "Lead Data Engineer - Snowflake/Python/AWS",
+    "company": "JPMorgan Chase",
+    "location": "Wilmington, DE, United States",
+    "posted_date": "2026-11-09T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772012",
+    "description_short": "Lead Data Engineer - Snowflake/Python/AWS",
     "source": "JPMorgan Chase"
   }
 ];
