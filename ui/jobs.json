@@ -87,7 +87,7 @@
     "state": "WA",
     "title": "Data Engineer II, Eva Trust Dev Team",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10597768/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -334,7 +334,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-11-06T14:42:46.679158",
+    "posted_date": "2026-11-06T23:15:06.973665",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Senior-Data-Engineer_R1084896",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -364,7 +364,7 @@
     "title": "Senior Data Engineer - MongoDB and PostgreSQL",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-11-09T14:42:46.679123",
+    "posted_date": "2026-11-09T23:15:06.675013",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer_R1045908-1",
     "description_short": "Senior Data Engineer - MongoDB and PostgreSQL",
     "source": "CVS Health"
@@ -447,7 +447,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-11-10T14:42:46.679096",
+    "posted_date": "2026-11-10T23:15:06.674987",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R1081508",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -505,7 +505,7 @@
     "state": "TX",
     "title": "Senior Data Engineer, WW Ops Finance - S&A",
     "university_job": null,
-    "updated_time": "about 9 hours",
+    "updated_time": "about 17 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10603034/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -545,5 +545,15 @@
     "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557070195",
     "description_short": "...",
     "source": "Microsoft"
+  },
+  {
+    "id": "210803719",
+    "title": "Data Engineer II - AWS/PySpark/ETL",
+    "company": "JPMorgan Chase",
+    "location": "OH, United States",
+    "posted_date": "2026-11-12T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803719",
+    "description_short": "Data Engineer II - AWS/PySpark/ETL",
+    "source": "JPMorgan Chase"
   }
 ]
