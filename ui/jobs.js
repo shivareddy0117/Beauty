@@ -172,7 +172,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-11-07T05:20:22.605807",
+    "posted_date": "2026-11-06T13:59:32.836611",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Work-from-home/Senior-Data-Engineer_R1084896",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -202,7 +202,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer - MongoDB and PostgreSQL",
     "company": "CVS Health",
     "location": "5 Locations",
-    "posted_date": "2026-11-10T05:20:22.605778",
+    "posted_date": "2026-11-09T13:59:32.836590",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer_R1045908-1",
     "description_short": "Senior Data Engineer - MongoDB and PostgreSQL",
     "source": "CVS Health"
@@ -285,7 +285,7 @@ window.JOBS_DATA = [
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-11-11T05:20:22.605759",
+    "posted_date": "2026-11-10T13:59:32.836575",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R1081508",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -343,7 +343,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer, WW Ops Finance - S&A",
     "university_job": null,
-    "updated_time": "about 23 hours",
+    "updated_time": "1 day",
     "url_next_step": "https://account.amazon.jobs/jobs/10603034/apply",
     "team.id": null,
     "team.business_category_id": null,
