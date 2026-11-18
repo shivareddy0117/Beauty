@@ -1,15 +1,5 @@
 window.JOBS_DATA = [
   {
-    "id": "R1081508",
-    "title": "Senior Data Engineer",
-    "company": "CVS Health",
-    "location": "CT - Hartford",
-    "posted_date": "2026-11-10T14:55:45.933013",
-    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Senior-Data-Engineer_R1081508",
-    "description_short": "Senior Data Engineer",
-    "source": "CVS Health"
-  },
-  {
     "id": "1970393557040432",
     "title": "Principal Data Engineering Architect",
     "company": "Microsoft",
@@ -52,7 +42,7 @@ window.JOBS_DATA = [
     "state": "TX",
     "title": "Senior Data Engineer, WW Ops Finance - S&A",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10603034/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -135,7 +125,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, AME-Outbound",
     "university_job": null,
-    "updated_time": "1 day",
+    "updated_time": "2 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10604993/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -208,7 +198,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer II, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "4 days",
+    "updated_time": "5 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10603754/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -251,12 +241,12 @@ window.JOBS_DATA = [
   },
   {
     "id": "210807412",
-    "title": "Lead Data Engineer - Python, Pyspark, AWS, AI",
+    "title": "Lead Data Engineer - Python, Pyspark, AWS, Snowflake, AI",
     "company": "JPMorgan Chase",
     "location": "Hyderabad, Telangana, India",
     "posted_date": "2026-11-17T00:00:00",
     "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807412",
-    "description_short": "Lead Data Engineer - Python, Pyspark, AWS, AI",
+    "description_short": "Lead Data Engineer - Python, Pyspark, AWS, Snowflake, AI",
     "source": "JPMorgan Chase"
   },
   {
@@ -292,7 +282,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Senior Data Engineer, Accounting",
     "university_job": null,
-    "updated_time": "about 2 hours",
+    "updated_time": "about 16 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10607675/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -345,7 +335,7 @@ window.JOBS_DATA = [
     "state": "WA",
     "title": "Data Engineer, Applied AI Solutions",
     "university_job": null,
-    "updated_time": "about 8 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10607008/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -365,5 +355,25 @@ window.JOBS_DATA = [
     "team.title": null,
     "team.headline": null,
     "team.description": null
+  },
+  {
+    "id": "R1100213",
+    "title": "Senior Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Work from home",
+    "posted_date": "2026-11-17T15:11:39.316321",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-Engineer_R1100213",
+    "description_short": "Senior Data Engineer",
+    "source": "CVS Health"
+  },
+  {
+    "id": "R1100225",
+    "title": "Staff Data Engineer",
+    "company": "CVS Health",
+    "location": "TX - Richardson",
+    "posted_date": "2026-11-16T15:11:39.732831",
+    "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Staff-Data-Engineer_R1100225",
+    "description_short": "Staff Data Engineer",
+    "source": "CVS Health"
   }
 ];
