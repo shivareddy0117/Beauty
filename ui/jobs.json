@@ -10,16 +10,6 @@
     "source": "Microsoft"
   },
   {
-    "id": "1970393557056093",
-    "title": "Data Engineer",
-    "company": "Microsoft",
-    "location": "United States, Multiple Locations, Multiple Locations",
-    "posted_date": "2026-11-12T09:01:17",
-    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557056093",
-    "description_short": "...",
-    "source": "Microsoft"
-  },
-  {
     "basic_qualifications": "- 3+ years of data engineering experience<br/>- 3+ years of developing and operating large-scale data structures for business intelligence analytics using ETL/ELT processes experience<br/>- 3+ years of in the job offered or a related occupation experience<br/>- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Information Systems, Mathematics, or a related field<br/>- Experience with data modeling, warehousing and building ETL pipelines",
     "business_category": "north-america-stores",
     "city": "Seattle",
@@ -51,7 +41,7 @@
     "state": "WA",
     "title": "Data Engineer II, AME-Outbound",
     "university_job": null,
-    "updated_time": "3 days",
+    "updated_time": "4 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10604993/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -124,7 +114,7 @@
     "state": "WA",
     "title": "Data Engineer II, AWS Analytics Engineering",
     "university_job": null,
-    "updated_time": "6 days",
+    "updated_time": "7 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10603754/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -208,7 +198,7 @@
     "state": "WA",
     "title": "Senior Data Engineer, Accounting",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10607675/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -407,7 +397,7 @@
     "state": "WA",
     "title": "Data Engineer II, Global Logistics, Exports",
     "university_job": null,
-    "updated_time": "about 12 hours",
+    "updated_time": "about 21 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10609538/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -461,7 +451,7 @@
     "state": "TX",
     "title": "Data Engineer II - AMZ10593706",
     "university_job": null,
-    "updated_time": "about 14 hours",
+    "updated_time": "about 23 hours",
     "url_next_step": "https://account.amazon.jobs/jobs/10607989/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -501,5 +491,15 @@
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1070871",
     "description_short": "Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "210805746",
+    "title": "Data Engineer III",
+    "company": "JPMorgan Chase",
+    "location": "Hyderabad, Telangana, India",
+    "posted_date": "2026-11-20T00:00:00",
+    "url_next_step": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805746",
+    "description_short": "Data Engineer III",
+    "source": "JPMorgan Chase"
   }
 ]
