@@ -204,7 +204,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "TX - Work from home",
-    "posted_date": "2026-11-18T05:55:09.974114",
+    "posted_date": "2026-11-18T05:21:55.253082",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Senior-Data-Engineer_R1100213",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -214,7 +214,7 @@
     "title": "Staff Data Engineer",
     "company": "CVS Health",
     "location": "TX - Richardson",
-    "posted_date": "2026-11-17T05:55:10.343153",
+    "posted_date": "2026-11-17T05:21:55.253111",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Staff-Data-Engineer_R1100225",
     "description_short": "Staff Data Engineer",
     "source": "CVS Health"
@@ -378,7 +378,7 @@
     "state": "TX",
     "title": "Data Engineer II - AMZ10593706",
     "university_job": null,
-    "updated_time": "2 days",
+    "updated_time": "3 days",
     "url_next_step": "https://account.amazon.jobs/jobs/10607989/apply",
     "team.id": null,
     "team.business_category_id": null,
@@ -404,7 +404,7 @@
     "title": "Senior Data Engineer",
     "company": "CVS Health",
     "location": "49 Locations",
-    "posted_date": "2026-11-18T23:43:10.373708",
+    "posted_date": "2026-11-19T05:21:54.952319",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer_R1053501",
     "description_short": "Senior Data Engineer",
     "source": "CVS Health"
@@ -414,7 +414,7 @@
     "title": "Data Engineer",
     "company": "CVS Health",
     "location": "CA - Work from home",
-    "posted_date": "2026-11-19T05:55:09.974103",
+    "posted_date": "2026-11-19T05:21:54.952340",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1070871",
     "description_short": "Data Engineer",
     "source": "CVS Health"
@@ -595,7 +595,7 @@
     "title": "Senior Data Engineer (Python, Spark, PySpark, AWS)",
     "company": "CVS Health",
     "location": "10 Locations",
-    "posted_date": "2026-11-20T23:43:09.917021",
+    "posted_date": "2026-11-21T05:21:54.532965",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Senior-Data-Engineer--Python--Spark--PySpark--AWS-_R1092966",
     "description_short": "Senior Data Engineer (Python, Spark, PySpark, AWS)",
     "source": "CVS Health"
@@ -605,9 +605,19 @@
     "title": "Software Development - Data Engineer",
     "company": "CVS Health",
     "location": "CT - Hartford",
-    "posted_date": "2026-11-20T23:43:09.917026",
+    "posted_date": "2026-11-21T05:21:54.532970",
     "url_next_step": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Software-Development---Data-Engineer_R1108425-1",
     "description_short": "Software Development - Data Engineer",
     "source": "CVS Health"
+  },
+  {
+    "id": "1970393557076012",
+    "title": "Solution Engineer - Cloud & AI Data Platform",
+    "company": "Microsoft",
+    "location": "United States, Multiple Locations, Multiple Locations",
+    "posted_date": "2026-11-21T06:00:00",
+    "url_next_step": "https://jobs.careers.microsoft.com/global/en/job/1970393557076012",
+    "description_short": "...",
+    "source": "Microsoft"
   }
 ]
